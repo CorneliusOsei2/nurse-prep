@@ -1,0 +1,112 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Test Results — Prep{% endblock %}
+{% block nav_test %}active{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+
+  <header class="page-header">
+    <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">Test Results</h1>
+    <button id="btn-dark-mode" class="icon-btn"><i class="ph-bold ph-sun" id="dark-icon"></i></button>
+  </header>
+
+  <!-- Score Hero -->
+  <section class="results-hero {% if quiz.percentage >= 80 %}great{% elif quiz.percentage >= 60 %}ok{% else %}needs-work{% endif %}">
+    <div class="results-score-circle">
+      <span class="results-pct">{{ quiz.percentage }}%</span>
+    </div>
+    <div class="results-summary">
+      {% if quiz.percentage >= 90 %}
+        <h2><i class="ph-bold ph-star"></i> Outstanding!</h2>
+        <p>You really know your stuff!</p>
+      {% elif quiz.percentage >= 80 %}
+        <h2><i class="ph-bold ph-trophy"></i> Great Job!</h2>
+        <p>You're well prepared.</p>
+      {% elif quiz.percentage >= 60 %}
+        <h2><i class="ph-bold ph-thumbs-up"></i> Good Effort</h2>
+        <p>Keep studying to improve.</p>
+      {% else %}
+        <h2><i class="ph-bold ph-flame"></i> Keep Going</h2>
+        <p>Review the cards below and try again.</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="results-stats">
+    <div class="results-stat">
+      <span class="results-stat-num">{{ quiz.score }}</span>
+      <span class="results-stat-label">Correct</span>
+    </div>
+    <div class="results-stat">
+      <span class="results-stat-num">{{ quiz.num_questions }}</span>
+      <span class="results-stat-label">Questions</span>
+    </div>
+    <div class="results-stat">
+      <span class="results-stat-num">{{ quiz.duration_display }}</span>
+      <span class="results-stat-label">Time</span>
+    </div>
+    <div class="results-stat">
+      <span class="results-stat-num">{{ quiz.percentage }}%</span>
+      <span class="results-stat-label">Score</span>
+    </div>
+  </section>
+
+  <!-- Actions -->
+  <section class="results-actions">
+    <a href="{% url 'quiz_setup' %}" class="btn-primary"><i class="ph-bold ph-clipboard-text"></i> Take Another Test</a>
+    <a href="{% url 'study' %}" class="btn-secondary"><i class="ph-bold ph-book-open"></i> Study Flashcards</a>
+  </section>
+
+  <!-- Question Breakdown -->
+  <section class="dash-section">
+    <h3 class="dash-section-title"><i class="ph-bold ph-clipboard-text"></i> Question Breakdown</h3>
+    <div class="results-breakdown">
+      {% for q in questions %}
+      <details class="results-question {% if q.is_correct %}correct{% else %}incorrect{% endif %}">
+        <summary class="results-question-header">
+          <span class="results-q-status">{% if q.is_correct %}<i class="ph-bold ph-check-circle"></i>{% else %}<i class="ph-bold ph-x-circle"></i>{% endif %}</span>
+          <span class="results-q-num">Q{{ q.order }}</span>
+          <span class="results-q-text">{{ q.card.question|truncatechars:80 }}</span>
+        </summary>
+        <div class="results-question-body">
+          <div class="results-q-full">
+            <strong>Question:</strong><br>{{ q.card.question }}
+          </div>
+          <div class="results-q-answer">
+            <strong>Answer:</strong><br>{{ q.card.answer }}
+          </div>
+          {% if q.card.rationale %}
+          <div class="results-q-rationale">
+            <i class="ph-bold ph-lightbulb"></i> {{ q.card.rationale }}
+          </div>
+          {% endif %}
+        </div>
+      </details>
+      {% endfor %}
+    </div>
+  </section>
+
+  <div style="height:80px;"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+</script>
+{% endblock %}

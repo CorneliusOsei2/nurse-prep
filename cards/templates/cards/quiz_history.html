@@ -1,0 +1,56 @@
+{% extends "cards/base.html" %}
+
+{% block title %}Test History — Prep{% endblock %}
+{% block nav_test %}active{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+
+  <header class="page-header">
+    <a href="{% url 'quiz_setup' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">Test History</h1>
+    <button id="btn-dark-mode" class="icon-btn"><i class="ph-bold ph-sun" id="dark-icon"></i></button>
+  </header>
+
+  <div class="quiz-history-list">
+    {% for quiz in quizzes %}
+    <a href="{% url 'quiz_results' quiz.pk %}" class="dash-quiz-row">
+      <div class="dash-quiz-info">
+        <span class="dash-quiz-cat"><i class="{{ quiz.category.icon|default:'ph-bold ph-book-open' }}"></i> {{ quiz.category.name|default:"All Categories" }}</span>
+        <span class="dash-quiz-meta">
+          {{ quiz.num_questions }} questions • {{ quiz.duration_display }} • {{ quiz.completed_at|timesince }} ago
+        </span>
+      </div>
+      <div class="dash-quiz-score {% if quiz.percentage >= 80 %}green{% elif quiz.percentage >= 60 %}yellow{% else %}red{% endif %}">
+        {{ quiz.percentage }}%
+      </div>
+    </a>
+    {% empty %}
+    <div class="empty-state">
+      <span class="empty-icon"><i class="ph-bold ph-clipboard-text" style="font-size:36px"></i></span>
+      <h3>No tests yet</h3>
+      <p><a href="{% url 'quiz_setup' %}">Take your first test!</a></p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div style="height:80px;"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+</script>
+{% endblock %}

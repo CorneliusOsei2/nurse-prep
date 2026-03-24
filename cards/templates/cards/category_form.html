@@ -1,0 +1,28 @@
+{% extends "cards/base.html" %}
+
+{% block title %}New Category — Prep{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+  <header class="page-header">
+    <a href="{% url 'manage' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">New Category</h1>
+  </header>
+
+  <form method="post" class="card-form">
+    {% csrf_token %}
+    {% for field in form %}
+    <div class="form-group">
+      <label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>
+      {{ field }}
+      {% if field.help_text %}<div class="form-help">{{ field.help_text }}</div>{% endif %}
+      {% if field.errors %}<div class="form-error">{{ field.errors.0 }}</div>{% endif %}
+    </div>
+    {% endfor %}
+    <div class="form-actions">
+      <a href="{% url 'manage' %}" class="btn-secondary">Cancel</a>
+      <button type="submit" class="btn-primary">Create Category</button>
+    </div>
+  </form>
+</div>
+{% endblock %}

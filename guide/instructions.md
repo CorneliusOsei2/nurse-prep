@@ -15,11 +15,15 @@ Use these rules whenever creating or revising content inside `guide/`.
 
 - Keep the language very clear and friendly for a non-native English speaker.
 - Do not use overly sophisticated wording.
+- Aim for the sweet spot between a focused guide and an easy guide: very friendly, very clear, but still fully accurate.
 - Match the original outline headings as closely as possible so progress is easy to track.
 - Add short explanation lines only when they truly help.
+- Under technical or less familiar subheadings, add one short plain-English helper line in parentheses on the next line when it makes the topic easier to understand.
 - Do **not** put explanation text on the same line as the heading.
 - Expand abbreviations in plain English when helpful, then include the abbreviation in parentheses.
 - Prefer short bullets, simple sentences, and high-yield nursing points.
+- Do **not** mention source names such as Open RN inside learner-facing guides or flashcards unless the user specifically asks for source discussion.
+- When possible, say the plain-English idea first and then the nursing term, such as: `SA node: starts the heartbeat. It is the heart's natural pacemaker.`
 
 ## File conventions
 

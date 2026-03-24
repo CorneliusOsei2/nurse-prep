@@ -1,0 +1,139 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Prep — Study Flashcards{% endblock %}
+{% block nav_study %}active{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+
+  <!-- Header -->
+  <header class="page-header">
+    <h1 class="page-title">Study</h1>
+    <div class="header-actions">
+      <button id="btn-audio" class="icon-btn" title="Toggle Audio">
+        <i class="ph-bold ph-speaker-slash" id="audio-icon"></i>
+      </button>
+      <button id="btn-dark-mode" class="icon-btn" title="Toggle Dark Mode">
+        <i class="ph-bold ph-sun" id="dark-icon"></i>
+      </button>
+      <button id="btn-stats" class="icon-btn" title="View Stats">
+        <i class="ph-bold ph-chart-bar"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Topic Filter -->
+  <div class="cat-dropdown-wrap">
+    <button class="cat-dropdown-trigger" id="cat-trigger">
+      <span class="cat-dropdown-label" id="cat-label"><i class="ph-bold ph-squares-four"></i> All Topics</span>
+      <i class="ph-bold ph-caret-down cat-dropdown-caret"></i>
+    </button>
+    <div class="cat-dropdown-menu" id="cat-menu">
+      <label class="cat-dropdown-item">
+        <input type="checkbox" class="topic-check" value="" checked data-all="true">
+        <span>All Topics</span>
+      </label>
+      {% for topic in topics %}
+      <label class="cat-dropdown-item">
+        <input type="checkbox" class="topic-check" value="{{ topic.id }}">
+        <span>{{ topic.title }}</span>
+        <span class="cat-dropdown-count">{{ topic.card_count }}</span>
+      </label>
+      {% endfor %}
+      <div class="cat-dropdown-actions">
+        <button type="button" class="cat-dropdown-apply" id="apply-topics">Apply</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card Count -->
+  <div class="study-mode-bar">
+    <span class="card-count" id="card-count">0 cards</span>
+  </div>
+
+  <!-- Flashcard -->
+  <main class="card-area">
+    <div class="card-container" id="card-container">
+      <div class="flashcard" id="flashcard">
+        <div class="card-front">
+          <div class="card-category-badge" id="card-category"></div>
+          <div class="card-content" id="card-question"></div>
+          <div class="card-hint">tap to flip</div>
+        </div>
+        <div class="card-back">
+          <div class="card-category-badge back" id="card-category-back"></div>
+          <div class="card-answer-label">Answer</div>
+          <div class="card-content" id="card-answer"></div>
+          <div class="card-rationale" id="card-rationale"></div>
+          <div class="card-hint">tap to flip back</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="empty-state" id="empty-state" style="display:none;">
+      <span class="empty-icon"><i class="ph-bold ph-trophy" style="font-size:36px"></i></span>
+      <h3>No cards to review!</h3>
+      <p>Try a different category or study mode, or <a href="{% url 'card_create' %}">add new cards</a>.</p>
+    </div>
+  </main>
+
+  <!-- Rating -->
+  <div class="rating-bar" id="rating-bar">
+    <span class="rating-label">How well did you know this?</span>
+    <div class="rating-buttons">
+      <button class="rating-btn hard" data-rating="1"><i class="ph-bold ph-thumbs-down"></i> Hard</button>
+      <button class="rating-btn medium" data-rating="3"><i class="ph-bold ph-minus-circle"></i> OK</button>
+      <button class="rating-btn easy" data-rating="5"><i class="ph-bold ph-thumbs-up"></i> Easy</button>
+    </div>
+  </div>
+
+  <!-- Progress -->
+  <div class="progress-section">
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <span class="progress-text" id="progress-text">0 / 0</span>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="nav-bar">
+    <button class="nav-btn" id="btn-prev" title="Previous (←)">◀ Prev</button>
+    <button class="nav-btn speak-btn" id="btn-speak" title="Read Aloud (S)"><i class="ph-bold ph-speaker-high"></i> Read</button>
+    <button class="nav-btn primary" id="btn-next" title="Next (→)">Next ▶</button>
+  </nav>
+
+  <!-- Session Stats -->
+  <footer class="session-stats">
+    <div class="stat"><span class="stat-value" id="stat-studied">0</span><span class="stat-label">Studied</span></div>
+    <div class="stat"><span class="stat-value" id="stat-correct">0</span><span class="stat-label">Know It</span></div>
+    <div class="stat"><span class="stat-value" id="stat-accuracy">—</span><span class="stat-label">Accuracy</span></div>
+    <div class="stat"><span class="stat-value" id="stat-streak"><i class="ph-bold ph-flame"></i> 0</span><span class="stat-label">Streak</span></div>
+  </footer>
+  <div style="height:70px;"></div>
+</div>
+
+<!-- Stats Modal -->
+<div class="modal-overlay" id="stats-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h2><i class="ph-bold ph-chart-bar"></i> Your Progress</h2>
+      <button class="modal-close" id="close-stats">&times;</button>
+    </div>
+    <div class="modal-body" id="stats-body"></div>
+    <div class="modal-footer">
+      <button class="btn-secondary" id="close-stats-2">Close</button>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const API_CARDS_URL = '{% url "api_cards" %}';
+  const API_STATS_URL = '{% url "api_stats" %}';
+  const RATE_URL_TEMPLATE = '/api/cards/{id}/rate/';
+  const CSRF_TOKEN = '{{ csrf_token }}';
+</script>
+<script src="{% static 'cards/js/app.js' %}"></script>
+{% endblock %}

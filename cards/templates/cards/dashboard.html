@@ -1,0 +1,109 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Prep — NCLEX Study Dashboard{% endblock %}
+{% block nav_home %}active{% endblock %}
+
+{% block body %}
+<div class="page">
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-text">
+      <h1 class="hero-title">Welcome back! 👋</h1>
+      <p class="hero-sub">{% if stats.streak > 0 %}🔥 {{ stats.streak }}-day streak — keep going!{% else %}Start studying to build your streak{% endif %}</p>
+    </div>
+    <button id="btn-dark-mode" class="icon-btn" title="Toggle Dark Mode">
+      <i class="ph-bold ph-sun" id="dark-icon"></i>
+    </button>
+  </section>
+
+  <!-- Stats -->
+  <section class="home-stats">
+    <div class="home-stat teal">
+      <span class="home-stat-num">{{ stats.studied }}</span>
+      <span class="home-stat-label">Studied</span>
+    </div>
+    <div class="home-stat green">
+      <span class="home-stat-num">{{ stats.mastered }}</span>
+      <span class="home-stat-label">Mastered</span>
+    </div>
+    <div class="home-stat amber">
+      <span class="home-stat-num">{{ stats.total_cards }}</span>
+      <span class="home-stat-label">Total Cards</span>
+    </div>
+  </section>
+
+  <!-- Revise Banner -->
+  {% if review_count > 0 %}
+  <a href="{% url 'revise' %}" class="revise-banner">
+    <i class="ph-bold ph-arrow-counter-clockwise"></i>
+    <span><strong>{{ review_count }} card{{ review_count|pluralize }}</strong> need{{ review_count|pluralize:"s," }} review</span>
+    <i class="ph-bold ph-caret-right"></i>
+  </a>
+  {% endif %}
+
+  <!-- Categories -->
+  <section class="section">
+    <h2 class="section-title">Your Subjects</h2>
+    <div class="cat-cards">
+      {% for cat in categories %}
+      <a href="{% url 'category_detail' cat.slug %}" class="cat-card cc-{{ forloop.counter }}">
+        <div class="cat-card-icon"><i class="{{ cat.icon }}"></i></div>
+        <div class="cat-card-body">
+          <h3 class="cat-card-name">{{ cat.name }}</h3>
+          <p class="cat-card-meta">{{ cat.exam_count }} exams · {{ cat.total }} cards</p>
+        </div>
+        {% if cat.pct > 0 %}
+        <div class="cat-card-progress">
+          <div class="cat-card-bar"><div class="cat-card-fill" style="width:{{ cat.pct }}%"></div></div>
+          <span class="cat-card-pct">{{ cat.pct }}%</span>
+        </div>
+        {% endif %}
+        <i class="ph-bold ph-caret-right cat-card-arrow"></i>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- Recent Tests -->
+  {% if recent_quizzes %}
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Recent Tests</h2>
+      <a href="{% url 'quiz_history' %}" class="section-link">View All</a>
+    </div>
+    <div class="list">
+      {% for quiz in recent_quizzes %}
+      <a href="{% url 'quiz_results' quiz.pk %}" class="list-row">
+        <div class="list-body">
+          <span class="list-name">{{ quiz.category.name|default:"All Categories" }}</span>
+          <span class="list-meta">{{ quiz.num_questions }}q · {{ quiz.duration_display }}</span>
+        </div>
+        <span class="list-badge {% if quiz.percentage >= 80 %}green{% elif quiz.percentage < 60 %}red{% endif %}">{{ quiz.percentage }}%</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <div style="height:80px"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+</script>
+{% endblock %}

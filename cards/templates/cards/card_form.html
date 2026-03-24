@@ -1,0 +1,45 @@
+{% extends "cards/base.html" %}
+
+{% block title %}{{ title }} — Prep{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+  <header class="page-header">
+    <a href="{% url 'manage' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">{{ title }}</h1>
+    <button id="btn-dark-mode" class="icon-btn"><i class="ph-bold ph-sun" id="dark-icon"></i></button>
+  </header>
+
+  <form method="post" class="card-form">
+    {% csrf_token %}
+    {% for field in form %}
+    <div class="form-group">
+      <label class="form-label" for="{{ field.id_for_label }}">{{ field.label }}</label>
+      {{ field }}
+      {% if field.errors %}<div class="form-error">{{ field.errors.0 }}</div>{% endif %}
+    </div>
+    {% endfor %}
+    <div class="form-actions">
+      <a href="{% url 'manage' %}" class="btn-secondary">Cancel</a>
+      <button type="submit" class="btn-primary">Save Card</button>
+    </div>
+  </form>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+</script>
+{% endblock %}

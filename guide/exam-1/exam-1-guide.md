@@ -8,15 +8,12 @@ This guide follows the Exam 1 outline and turns it into study notes that are eas
 
 ### Define and differentiate the five steps of the nursing process
 
-- Many classes teach the nursing process as **five steps (ADPIE)**:
+- The nursing process is usually taught as **five steps (ADPIE)**:
 - **Assessment:** collect data about the client.
 - **Diagnosis:** identify nursing problems or human responses that nursing care can address.
 - **Planning:** set priorities and decide interventions.
 - **Implementation:** carry out the plan of care.
 - **Evaluation:** compare the client’s actual response with the expected outcomes.
-- The Open RN book separates **Outcome Identification** from planning, so the book presents **ADOPIE**:
-- **Assessment, Diagnosis, Outcome Identification, Planning, Implementation, Evaluation**
-- If your instructor says **five steps**, outcome identification is usually included under planning.
 
 ### Distinguish between types of assessment data
 

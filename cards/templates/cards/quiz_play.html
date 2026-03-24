@@ -1,0 +1,87 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Test in Progress — Prep{% endblock %}
+{% block bottom_nav %}{% endblock %}
+
+{% block body %}
+<div id="quiz-app">
+
+  <!-- Sticky Exam Header -->
+  <header class="exam-header">
+    <div class="exam-header-left">
+      <button class="quiz-quit-btn" id="btn-quit" title="End Test"><i class="ph-bold ph-x"></i></button>
+      <span class="exam-title">NCLEX Practice Test</span>
+    </div>
+    <div class="quiz-timer" id="quiz-timer">00:00</div>
+  </header>
+
+  <!-- Sticky Progress -->
+  <div class="exam-progress">
+    <div class="exam-progress-bar">
+      <div class="exam-progress-fill" id="quiz-progress-fill"></div>
+    </div>
+    <span class="exam-progress-text" id="quiz-progress-text">0 / {{ total }} answered</span>
+  </div>
+
+  <!-- All Questions (scrolling list) -->
+  <main class="exam-body" id="exam-body">
+    <!-- Questions are rendered by JS -->
+  </main>
+
+  <!-- Submit button (appears after all answered) -->
+  <div class="exam-submit-bar" id="exam-submit-bar" style="display:none;">
+    <button class="exam-submit-btn" id="btn-submit">
+      <i class="ph-bold ph-check-circle"></i> Submit Test
+    </button>
+  </div>
+
+  <!-- Score tracker (bottom) -->
+  <footer class="exam-footer">
+    <div class="exam-score-item correct"><i class="ph-bold ph-check"></i> <span id="score-correct">0</span></div>
+    <div class="exam-score-item incorrect"><i class="ph-bold ph-x"></i> <span id="score-incorrect">0</span></div>
+    <div class="exam-score-item remaining"><i class="ph-bold ph-clipboard-text"></i> <span id="score-remaining">{{ total }}</span> remaining</div>
+  </footer>
+</div>
+
+<!-- Time's Up Modal -->
+<div class="modal-overlay" id="timesup-modal">
+  <div class="modal">
+    <div class="modal-body" style="text-align:center;padding:32px;">
+      <i class="ph-bold ph-alarm" style="font-size:36px;display:block;margin:0 auto 12px;"></i>
+      <h2>Time's Up!</h2>
+      <p style="color:var(--c-text2);margin:12px 0;">Remaining questions will be marked as incorrect.</p>
+      <button class="btn-primary" id="btn-timesup-finish" style="margin-top:12px;">View Results</button>
+    </div>
+  </div>
+</div>
+
+<!-- Quit Confirm Modal -->
+<div class="modal-overlay" id="quit-modal">
+  <div class="modal">
+    <div class="modal-body" style="text-align:center;padding:32px;">
+      <i class="ph-bold ph-sign-out" style="font-size:36px;display:block;margin:0 auto 12px;"></i>
+      <h2>End this test?</h2>
+      <p style="color:var(--c-text2);margin:12px 0;">Unanswered questions will be marked incorrect.</p>
+      <div style="display:flex;gap:10px;justify-content:center;margin-top:16px;">
+        <button class="btn-secondary" id="btn-quit-cancel">Keep Going</button>
+        <button class="btn-danger" id="btn-quit-confirm">End Test</button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const QUIZ_ID = {{ quiz.pk }};
+  const QUIZ_TIME_LIMIT = {{ quiz.time_limit|default:"null" }};
+  const QUIZ_TOTAL = {{ total }};
+  const QUESTIONS = {{ questions_json|safe }};
+  const CSRF_TOKEN = '{{ csrf_token }}';
+  const ANSWER_URL = '/api/quiz/' + QUIZ_ID + '/answer/';
+  const COMPLETE_URL = '/api/quiz/' + QUIZ_ID + '/complete/';
+  const RESULTS_URL = '/test/' + QUIZ_ID + '/results/';
+</script>
+<script src="{% static 'cards/js/quiz.js' %}"></script>
+{% endblock %}

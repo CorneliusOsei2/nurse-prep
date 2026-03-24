@@ -1,0 +1,89 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}{{ deck.name }} — {{ category.name }} — Prep{% endblock %}
+
+{% block body %}
+<div class="page">
+
+  <!-- Header -->
+  <header class="page-header">
+    <a href="{% url 'category_detail' category.slug %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <div>
+      <h1 class="page-title">{{ deck.name }}</h1>
+      <span class="page-subtitle-inline">{{ category.name }}</span>
+    </div>
+  </header>
+
+  <!-- Actions -->
+  <section class="section">
+    <div class="list">
+      <a href="{% url 'learn' category.slug deck.id %}" class="list-row">
+        <span class="list-icon ci-5"><i class="ph-bold ph-graduation-cap"></i></span>
+        <div class="list-body">
+          <span class="list-name">Learn</span>
+          <span class="list-meta">{% if has_guide %}Study guide with progress tracking{% else %}Coming soon{% endif %}</span>
+        </div>
+        <i class="ph-bold ph-caret-right list-arrow"></i>
+      </a>
+      <a href="{% url 'study' %}?category={{ category.slug }}&deck={{ deck.id }}" class="list-row">
+        <span class="list-icon ci-1"><i class="ph-bold ph-book-open"></i></span>
+        <div class="list-body">
+          <span class="list-name">Flashcards</span>
+          <span class="list-meta">Study with spaced repetition</span>
+        </div>
+        <i class="ph-bold ph-caret-right list-arrow"></i>
+      </a>
+      <a href="{% url 'quiz_setup' %}?category={{ category.slug }}&deck={{ deck.id }}" class="list-row">
+        <span class="list-icon ci-2"><i class="ph-bold ph-clipboard-text"></i></span>
+        <div class="list-body">
+          <span class="list-name">Test</span>
+          <span class="list-meta">Timed quiz with scoring</span>
+        </div>
+        <i class="ph-bold ph-caret-right list-arrow"></i>
+      </a>
+      <a href="{% url 'study' %}?category={{ category.slug }}&deck={{ deck.id }}&mode=weak" class="list-row">
+        <span class="list-icon ci-3"><i class="ph-bold ph-arrow-counter-clockwise"></i></span>
+        <div class="list-body">
+          <span class="list-name">Revise</span>
+          <span class="list-meta">Review cards you got wrong</span>
+        </div>
+        <i class="ph-bold ph-caret-right list-arrow"></i>
+      </a>
+    </div>
+  </section>
+
+  {% if total == 0 %}
+  <div class="empty-msg">
+    <p>No cards yet</p>
+    <a href="{% url 'card_create' %}?category={{ category.slug }}&deck={{ deck.id }}" class="action-pill">
+      <i class="ph-bold ph-plus"></i> Add Cards
+    </a>
+  </div>
+  {% endif %}
+
+  <!-- Topics -->
+  {% if topics %}
+  <section class="section">
+    <h2 class="section-title">Topics</h2>
+    <div class="list">
+      {% for topic in topics %}
+      <a href="{% url 'study' %}?category={{ category.slug }}&deck={{ deck.id }}&section={{ topic.id }}" class="list-row">
+        <span class="list-num cn-{{ forloop.counter }}">{{ forloop.counter }}</span>
+        <div class="list-body">
+          <span class="list-name">{{ topic.title }}</span>
+          <span class="list-meta">{{ topic.card_count }} cards</span>
+        </div>
+        {% if topic.pct > 0 %}
+        <span class="list-badge {% if topic.pct >= 80 %}green{% endif %}">{{ topic.pct }}%</span>
+        {% endif %}
+        <i class="ph-bold ph-caret-right list-arrow"></i>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <div style="height:80px"></div>
+</div>
+{% endblock %}

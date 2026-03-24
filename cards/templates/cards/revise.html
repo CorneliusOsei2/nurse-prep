@@ -1,0 +1,78 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Revise — Prep{% endblock %}
+
+{% block body %}
+<div class="page">
+
+  <header class="page-header">
+    <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">Revise</h1>
+  </header>
+  <p class="page-subtitle">{{ total }} card{{ total|pluralize }} to review</p>
+
+  {% if total == 0 %}
+  <div class="empty-msg" style="margin-top:40px">
+    <i class="ph-bold ph-check-circle" style="font-size:48px; color:var(--c-success); display:block; margin-bottom:12px"></i>
+    <p style="font-size:16px; font-weight:600; color:var(--c-text)">You're all caught up!</p>
+    <p>No cards need review right now. Keep studying!</p>
+  </div>
+  {% else %}
+
+  {% for section_name, cards in sections.items %}
+  <section class="section">
+    <h2 class="section-title">{{ section_name }}</h2>
+    <div class="revise-cards">
+      {% for card in cards %}
+      <div class="revise-card" id="revise-{{ card.id }}">
+        <div class="revise-q">{{ card.question }}</div>
+        <details class="revise-details">
+          <summary class="revise-show">Show Answer</summary>
+          <div class="revise-a">{{ card.answer }}</div>
+          {% if card.rationale %}
+          <div class="revise-rationale">{{ card.rationale }}</div>
+          {% endif %}
+        </details>
+        <div class="revise-actions">
+          <button class="revise-btn study" onclick="window.location='{% url 'study' %}?section={{ card.guide_section_id }}'">
+            <i class="ph-bold ph-book-open"></i> Study Topic
+          </button>
+          <button class="revise-btn clear" onclick="clearReview({{ card.id }}, this)">
+            <i class="ph-bold ph-check"></i> Got it
+          </button>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+
+  {% endif %}
+
+  <div style="height:80px"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  async function clearReview(cardId, btn) {
+    try {
+      const res = await fetch('/api/cards/' + cardId + '/clear-review/', {
+        method: 'POST',
+        headers: {'X-CSRFToken': '{{ csrf_token }}'},
+      });
+      const data = await res.json();
+      if (data.ok) {
+        const card = document.getElementById('revise-' + cardId);
+        card.style.opacity = '0';
+        card.style.transform = 'translateX(100px)';
+        card.style.transition = 'all .3s ease';
+        setTimeout(function() { card.remove(); }, 300);
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  }
+</script>
+{% endblock %}

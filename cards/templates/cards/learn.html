@@ -1,0 +1,110 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Learn — {{ deck.name }} — Prep{% endblock %}
+
+{% block body %}
+<div class="page">
+
+  <header class="page-header">
+    <a href="{% url 'exam_detail' category.slug deck.id %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <div>
+      <h1 class="page-title">{{ deck.name }}</h1>
+      <span class="page-subtitle-inline">{{ category.name }} · Study Guide</span>
+    </div>
+  </header>
+
+  <!-- Progress -->
+  <div class="learn-progress">
+    <div class="learn-progress-bar">
+      <div class="learn-progress-fill" style="width:{{ pct }}%"></div>
+    </div>
+    <span class="learn-progress-text">{{ completed }}/{{ total }} sections completed</span>
+  </div>
+
+  <!-- Sections -->
+  <div class="learn-sections">
+    {% for s in sections %}
+    <details class="learn-section {% if s.completed %}done{% endif %}" id="section-{{ s.id }}">
+      <summary class="learn-section-header">
+        <button class="learn-check {% if s.completed %}checked{% endif %}"
+                data-id="{{ s.id }}" onclick="event.preventDefault(); toggleSection(this, {{ s.id }})">
+          <i class="ph-bold {% if s.completed %}ph-check-circle{% else %}ph-circle{% endif %}"></i>
+        </button>
+        <span class="learn-section-title">{{ s.title }}</span>
+        <span class="learn-section-num">{{ forloop.counter }}/{{ total }}</span>
+      </summary>
+      <div class="learn-section-body markdown-body">
+        {{ s.content_html|safe }}
+      </div>
+      <div class="learn-section-footer">
+        <button class="learn-btn complete {% if s.completed %}active{% endif %}"
+                onclick="toggleSection(this.closest('.learn-section').querySelector('.learn-check'), {{ s.id }})">
+          <i class="ph-bold ph-check-circle"></i> {% if s.completed %}Completed{% else %}Complete{% endif %}
+        </button>
+        <button class="learn-btn revise" onclick="markRevise({{ s.id }}, this)">
+          <i class="ph-bold ph-arrow-counter-clockwise"></i> Revise
+        </button>
+      </div>
+    </details>
+    {% endfor %}
+  </div>
+
+  <div style="height:80px"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  async function toggleSection(btn, sectionId) {
+    try {
+      const res = await fetch('/api/guide/' + sectionId + '/toggle/', {
+        method: 'POST',
+        headers: {'X-CSRFToken': '{{ csrf_token }}'},
+      });
+      const data = await res.json();
+      if (data.ok) {
+        const icon = btn.querySelector('i');
+        const section = document.getElementById('section-' + sectionId);
+        const completeBtn = section.querySelector('.learn-btn.complete');
+        if (data.completed) {
+          btn.classList.add('checked');
+          icon.className = 'ph-bold ph-check-circle';
+          section.classList.add('done');
+          if (completeBtn) { completeBtn.classList.add('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check-circle"></i> Completed'; }
+        } else {
+          btn.classList.remove('checked');
+          icon.className = 'ph-bold ph-circle';
+          section.classList.remove('done');
+          if (completeBtn) { completeBtn.classList.remove('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check-circle"></i> Complete'; }
+        }
+        updateProgress();
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  }
+
+  async function markRevise(sectionId, btn) {
+    const section = document.getElementById('section-' + sectionId);
+    // If currently completed, un-complete it
+    if (section.classList.contains('done')) {
+      const checkBtn = section.querySelector('.learn-check');
+      await toggleSection(checkBtn, sectionId);
+    }
+    // Scroll to top of section
+    section.open = true;
+    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function updateProgress() {
+    const total = document.querySelectorAll('.learn-section').length;
+    const done = document.querySelectorAll('.learn-section.done').length;
+    const pct = total > 0 ? Math.round(done / total * 100) : 0;
+    const fill = document.querySelector('.learn-progress-fill');
+    const text = document.querySelector('.learn-progress-text');
+    if (fill) fill.style.width = pct + '%';
+    if (text) text.textContent = done + '/' + total + ' sections completed';
+  }
+</script>
+{% endblock %}

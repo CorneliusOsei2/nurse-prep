@@ -12,14 +12,16 @@ These flashcards are grouped by the same sections as your Exam 1 outline and str
 
 ### Card 1
 
-**Front:** What are the common five steps of the nursing process, and what extra step does the Open RN book separate out?
+**Front:** What are the five steps of the nursing process?
 
 **Back:**
-- Common five-step version: Assessment, Diagnosis, Planning, Implementation, Evaluation
-- Open RN book version: Assessment, Diagnosis, Outcome Identification, Planning, Implementation, Evaluation
-- In the five-step version, outcome identification is usually included inside planning.
+- Assessment
+- Diagnosis
+- Planning
+- Implementation
+- Evaluation
 
-**Why it matters:** Exams may use the five-step version, but this book teaches the ANA-style ADOPIE format.
+**Why it matters:** This is the standard five-step order used in many nursing classes and exam questions.
 
 ### Card 2
 

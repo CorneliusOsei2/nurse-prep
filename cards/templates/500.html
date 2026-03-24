@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Something went wrong — Prep</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Inter', -apple-system, system-ui, sans-serif; background: #fafafa; color: #18181b; display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 20px; text-align: center; }
+    .error-page { max-width: 400px; }
+    .error-code { font-size: 80px; font-weight: 700; color: #dc2626; line-height: 1; margin-bottom: 8px; }
+    .error-title { font-size: 20px; font-weight: 600; margin-bottom: 8px; }
+    .error-msg { font-size: 14px; color: #71717a; line-height: 1.6; margin-bottom: 24px; }
+    .error-btn { display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; border-radius: 10px; font-size: 14px; font-weight: 600; background: #0d9488; color: #fff; text-decoration: none; transition: background .15s ease; }
+    .error-btn:hover { background: #0f766e; }
+  </style>
+</head>
+<body>
+  <div class="error-page">
+    <div class="error-code">500</div>
+    <h1 class="error-title">Something went wrong</h1>
+    <p class="error-msg">We hit an unexpected error. Please try again.</p>
+    <a href="/" class="error-btn">← Back to Home</a>
+  </div>
+</body>
+</html>

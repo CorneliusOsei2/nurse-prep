@@ -1,0 +1,122 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Start a Test — Prep{% endblock %}
+{% block nav_test %}active{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+
+  <header class="page-header">
+    <h1 class="page-title">Test</h1>
+    <div class="header-actions">
+      <a href="{% url 'quiz_history' %}" class="icon-btn" title="Test History">
+        <i class="ph-bold ph-clock"></i>
+      </a>
+      <button id="btn-dark-mode" class="icon-btn" title="Dark Mode">
+        <i class="ph-bold ph-sun" id="dark-icon"></i>
+      </button>
+    </div>
+  </header>
+
+  <form method="post" action="{% url 'quiz_start' %}" class="quiz-setup-form">
+    {% csrf_token %}
+
+    <!-- Topics -->
+    <div class="setup-card setup-cat">
+      <div class="setup-card-header">
+        <div class="setup-card-icon cat-bg-teal"><i class="ph-bold ph-book-open"></i></div>
+        <div>
+          <div class="setup-card-title">Topics</div>
+          <div class="setup-card-desc">Select topics to test on</div>
+        </div>
+      </div>
+      <div class="setup-pills">
+        <label class="setup-pill">
+          <input type="checkbox" id="all-topics-check" checked onchange="toggleAllTopics(this)">
+          <span>All Topics</span>
+        </label>
+        {% for topic in topics %}
+        <label class="setup-pill">
+          <input type="checkbox" name="sections" value="{{ topic.id }}" class="topic-pill-check">
+          <span>{{ topic.title }} <small>({{ topic.card_count }})</small></span>
+        </label>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Number of Questions -->
+    <div class="setup-card setup-count">
+      <div class="setup-card-header">
+        <div class="setup-card-icon cat-bg-purple"><i class="ph-bold ph-hash"></i></div>
+        <div>
+          <div class="setup-card-title">Questions</div>
+          <div class="setup-card-desc">How many do you want?</div>
+        </div>
+      </div>
+      <div class="setup-pills setup-pills-compact">
+        <label class="setup-pill pill-num"><input type="radio" name="num_questions" value="10" checked><span>10</span></label>
+        <label class="setup-pill pill-num"><input type="radio" name="num_questions" value="20"><span>20</span></label>
+        <label class="setup-pill pill-num"><input type="radio" name="num_questions" value="30"><span>30</span></label>
+        <label class="setup-pill pill-num"><input type="radio" name="num_questions" value="50"><span>50</span></label>
+        <label class="setup-pill pill-num"><input type="radio" name="num_questions" value="999"><span>All</span></label>
+      </div>
+    </div>
+
+    <!-- Time Limit -->
+    <div class="setup-card setup-time">
+      <div class="setup-card-header">
+        <div class="setup-card-icon cat-bg-amber"><i class="ph-bold ph-timer"></i></div>
+        <div>
+          <div class="setup-card-title">Time Limit</div>
+          <div class="setup-card-desc">Set a countdown or go at your pace</div>
+        </div>
+      </div>
+      <div class="setup-pills setup-pills-compact">
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="" checked><span>None</span></label>
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="5"><span>5m</span></label>
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="10"><span>10m</span></label>
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="15"><span>15m</span></label>
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="30"><span>30m</span></label>
+        <label class="setup-pill pill-time"><input type="radio" name="time_limit" value="60"><span>60m</span></label>
+      </div>
+    </div>
+
+    <button type="submit" class="quiz-start-btn"><i class="ph-bold ph-play-circle"></i> Start Test</button>
+  </form>
+
+  <div style="height:80px;"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+
+  function toggleAllTopics(allCb) {
+    var checks = document.querySelectorAll('.topic-pill-check');
+    if (allCb.checked) {
+      checks.forEach(function(c) { c.checked = false; });
+    }
+  }
+  document.querySelectorAll('.topic-pill-check').forEach(function(cb) {
+    cb.addEventListener('change', function() {
+      var allCb = document.getElementById('all-topics-check');
+      if (cb.checked) allCb.checked = false;
+      var anyChecked = Array.from(document.querySelectorAll('.topic-pill-check')).some(function(c) { return c.checked; });
+      if (!anyChecked) allCb.checked = true;
+    });
+  });
+</script>
+{% endblock %}

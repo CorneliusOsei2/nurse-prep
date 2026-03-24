@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0d9488">
+  <meta name="description" content="NCLEX Nursing Exam Prep Flashcards">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>{% block title %}Prep{% endblock %}</title>
+  <link rel="manifest" href="{% url 'manifest' %}">
+  {% load static %}
+  <link rel="icon" href="{% static 'cards/icons/icon.svg' %}" type="image/svg+xml">
+  <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/bold/style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="{% static 'cards/css/styles.css' %}?v=9">
+  {% block extra_head %}{% endblock %}
+</head>
+<body>
+  <!-- Top Nav (desktop) / Bottom Nav (mobile) -->
+  {% block bottom_nav %}
+  <nav class="topnav">
+    <div class="topnav-inner">
+      <a href="{% url 'dashboard' %}" class="topnav-brand"><i class="ph-bold ph-heartbeat"></i> Prep</a>
+      <div class="topnav-links">
+        <a href="{% url 'dashboard' %}" class="topnav-link {% block nav_home %}{% endblock %}"><i class="ph-bold ph-house"></i><span>Home</span></a>
+        <a href="{% url 'study' %}" class="topnav-link {% block nav_study %}{% endblock %}"><i class="ph-bold ph-book-open"></i><span>Study</span></a>
+        <a href="{% url 'quiz_setup' %}" class="topnav-link {% block nav_test %}{% endblock %}"><i class="ph-bold ph-clipboard-text"></i><span>Test</span></a>
+        <a href="{% url 'manage' %}" class="topnav-link {% block nav_manage %}{% endblock %}"><i class="ph-bold ph-pencil-simple"></i><span>Cards</span></a>
+      </div>
+    </div>
+  </nav>
+  {% endblock %}
+
+  <main class="main-content">
+    {% block body %}{% endblock %}
+  </main>
+
+  <script>
+    (function() {
+      const dark = localStorage.getItem('prep_dark') === '1';
+      document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    })();
+  </script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

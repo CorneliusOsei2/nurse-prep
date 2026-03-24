@@ -1,0 +1,147 @@
+{% extends "cards/base.html" %}
+{% load static %}
+
+{% block title %}Manage Cards — Prep{% endblock %}
+{% block nav_manage %}active{% endblock %}
+
+{% block body %}
+<div id="app" class="page">
+
+  <header class="page-header">
+    <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">Manage Cards</h1>
+    <button id="btn-dark-mode" class="icon-btn" title="Dark Mode">
+      <i class="ph-bold ph-sun" id="dark-icon"></i>
+    </button>
+  </header>
+
+  <!-- Actions bar -->
+  <div class="manage-actions">
+    <a href="{% url 'card_create' %}" class="btn-primary"><i class="ph-bold ph-plus"></i> Add Card</a>
+    <a href="{% url 'category_create' %}" class="btn-secondary"><i class="ph-bold ph-folder"></i> New Category</a>
+    <a href="{% url 'api_export' %}" class="btn-secondary" download><i class="ph-bold ph-upload-simple"></i> Export</a>
+    <button class="btn-secondary" onclick="document.getElementById('import-modal').classList.add('visible')"><i class="ph-bold ph-download-simple"></i> Import</button>
+  </div>
+
+  <!-- Filters -->
+  <div class="manage-filters">
+    <form method="get" class="search-form">
+      <input type="text" name="q" value="{{ search_query }}" placeholder="Search cards..." class="form-input search-input">
+      {% if active_category %}
+      <input type="hidden" name="category" value="{{ active_category }}">
+      {% endif %}
+    </form>
+  </div>
+
+  <!-- Category Dropdown -->
+  <div class="cat-dropdown-wrap">
+    <button class="cat-dropdown-trigger" id="cat-trigger" type="button">
+      <span class="cat-dropdown-label" id="cat-label">
+        {% if active_category %}
+          {% for cat in categories %}{% if cat.slug == active_category %}<i class="{{ cat.icon }}"></i> {{ cat.name }}{% endif %}{% endfor %}
+        {% else %}
+          <i class="ph-bold ph-squares-four"></i> All Categories
+        {% endif %}
+      </span>
+      <i class="ph-bold ph-caret-down cat-dropdown-caret"></i>
+    </button>
+    <div class="cat-dropdown-menu" id="cat-menu">
+      <a href="{% url 'manage' %}{% if search_query %}?q={{ search_query }}{% endif %}"
+         class="cat-dropdown-item {% if not active_category %}active{% endif %}">
+        <span class="cat-dropdown-icon"><i class="ph-bold ph-squares-four"></i></span>
+        <span>All Categories</span>
+        <span class="cat-dropdown-count">{{ cards|length }}</span>
+        <i class="ph-bold ph-check cat-dropdown-check"></i>
+      </a>
+      {% for cat in categories %}
+      <a href="{% url 'manage' %}?category={{ cat.slug }}{% if search_query %}&q={{ search_query }}{% endif %}"
+         class="cat-dropdown-item {% if active_category == cat.slug %}active{% endif %}">
+        <span class="cat-dropdown-icon cat-{{ cat.slug }}"><i class="{{ cat.icon }}"></i></span>
+        <span>{{ cat.name }}</span>
+        <span class="cat-dropdown-count">{{ cat.card_count }}</span>
+        <i class="ph-bold ph-check cat-dropdown-check"></i>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Card List -->
+  <div class="card-list">
+    {% for card in cards %}
+    <div class="manage-card">
+      <div class="manage-card-header">
+        <span class="manage-card-category"><i class="{{ card.category.icon }}"></i> {{ card.category.name }}</span>
+        <div class="manage-card-actions">
+          <a href="{% url 'card_edit' card.pk %}" class="action-btn" title="Edit"><i class="ph-bold ph-pencil-simple"></i></a>
+          <a href="{% url 'card_delete' card.pk %}" class="action-btn danger" title="Delete"><i class="ph-bold ph-trash"></i></a>
+        </div>
+      </div>
+      <div class="manage-card-question">{{ card.question|truncatechars:120 }}</div>
+      <div class="manage-card-answer">{{ card.answer|truncatechars:100 }}</div>
+      {% if card.is_default %}<span class="badge default-badge">Default</span>{% endif %}
+    </div>
+    {% empty %}
+    <div class="empty-state">
+      <span class="empty-icon"><i class="ph-bold ph-tray" style="font-size:36px"></i></span>
+      <h3>No cards found</h3>
+      <p><a href="{% url 'card_create' %}">Create your first card</a></p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Import Modal -->
+<div class="modal-overlay" id="import-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h2><i class="ph-bold ph-download-simple"></i> Import Cards</h2>
+      <button class="modal-close" onclick="document.getElementById('import-modal').classList.remove('visible')">&times;</button>
+    </div>
+    <form method="post" action="{% url 'import_cards' %}" enctype="multipart/form-data">
+      {% csrf_token %}
+      <div class="modal-body">
+        <p style="margin-bottom:12px;color:var(--c-text2);font-size:14px;">Upload a JSON file exported from Prep. Duplicate cards will be skipped.</p>
+        {{ import_form.file }}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-secondary" onclick="document.getElementById('import-modal').classList.remove('visible')">Cancel</button>
+        <button type="submit" class="btn-primary">Import</button>
+      </div>
+    </form>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('btn-dark-mode');
+  function applyTheme() {
+    const dark = localStorage.getItem('prep_dark') === '1';
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+  }
+  btn.addEventListener('click', () => {
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    localStorage.setItem('prep_dark', isDark ? '0' : '1');
+    applyTheme();
+  });
+  applyTheme();
+
+  // Category dropdown
+  var catTrigger = document.getElementById('cat-trigger');
+  var catMenu = document.getElementById('cat-menu');
+  if (catTrigger) {
+    catTrigger.addEventListener('click', function(e) {
+      e.stopPropagation();
+      catMenu.classList.toggle('open');
+      catTrigger.classList.toggle('open');
+    });
+    document.addEventListener('click', function() {
+      catMenu.classList.remove('open');
+      catTrigger.classList.remove('open');
+    });
+    catMenu.addEventListener('click', function(e) { e.stopPropagation(); });
+  }
+</script>
+{% endblock %}

@@ -1,44 +1,40 @@
 from django.contrib import admin
-from .models import (
-    Category, Deck, GuideSection, Card, Progress,
-    StudySession, Quiz, QuizQuestion, GuideSectionProgress,
-)
+from .models import Category, Deck, Card, Progress, StudySession, Quiz, QuizQuestion, GuideSection, GuideSectionProgress
 
 
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
-    list_display = ['name', 'published', 'slug', 'icon', 'card_count']
+    list_display = ['icon', 'name', 'slug', 'published', 'is_default', 'card_count']
     prepopulated_fields = {'slug': ('name',)}
 
     def card_count(self, obj):
         return obj.cards.count()
-    card_count.short_description = 'Cards'
 
 
 @admin.register(Deck)
 class DeckAdmin(admin.ModelAdmin):
-    list_display = ['name', 'category', 'card_count', 'order']
+    list_display = ['name', 'category', 'order', 'card_count']
     list_filter = ['category']
     prepopulated_fields = {'slug': ('name',)}
 
     def card_count(self, obj):
         return obj.cards.count()
-    card_count.short_description = 'Cards'
 
 
 @admin.register(Card)
 class CardAdmin(admin.ModelAdmin):
-    list_display = ['question_short', 'category', 'deck', 'created_at']
-    list_filter = ['category', 'deck']
+    list_display = ['short_question', 'category', 'deck', 'is_default', 'created_at']
+    list_filter = ['category', 'deck', 'is_default']
+    search_fields = ['question', 'answer']
 
-    def question_short(self, obj):
+    def short_question(self, obj):
         return obj.question[:80]
-    question_short.short_description = 'Question'
 
 
 @admin.register(Progress)
 class ProgressAdmin(admin.ModelAdmin):
-    list_display = ['card', 'ease_factor', 'interval', 'repetitions', 'next_review']
+    list_display = ['card', 'times_studied', 'last_rating', 'next_review', 'ease_factor']
+    list_filter = ['last_rating']
 
 
 @admin.register(StudySession)
@@ -54,16 +50,16 @@ class QuizQuestionInline(admin.TabularInline):
 
 @admin.register(Quiz)
 class QuizAdmin(admin.ModelAdmin):
-    list_display = ['__str__', 'category', 'num_questions', 'score', 'started_at', 'completed_at']
+    list_display = ['__str__', 'num_questions', 'score', 'percentage', 'duration_display', 'started_at']
+    list_filter = ['category']
     inlines = [QuizQuestionInline]
+
+    def percentage(self, obj):
+        return f'{obj.percentage}%'
 
 
 @admin.register(GuideSection)
 class GuideSectionAdmin(admin.ModelAdmin):
     list_display = ['title', 'deck', 'order']
-    list_filter = ['deck']
-
-
-@admin.register(GuideSectionProgress)
-class GuideSectionProgressAdmin(admin.ModelAdmin):
-    list_display = ['section', 'completed', 'completed_at']
+    list_filter = ['deck__category', 'deck']
+    ordering = ['deck', 'order']

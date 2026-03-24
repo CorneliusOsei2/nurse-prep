@@ -1,170 +1,197 @@
 # Exam 2 Guide
 
-This guide makes the reading outline easier to study. It keeps the important nursing information, but uses simpler words and short explanations.
+This guide uses simple, clear language. All nursing facts are correct.
 
 ## Skin Integrity, Inflammation, and Wound Healing (Craven ch. 26 and Norris ch. 9)
 
-(This section is about skin health, swelling, and how wounds heal.)
+(This section covers skin health, inflammation, and wound healing.)
 
 ### Review the function of the integumentary system
 
-(The integumentary system means the skin, hair, nails, and glands. It is the body's outer covering.)
+(The integumentary system includes skin, hair, nails, and glands.)
 
-- Protects the body from injury, infection, fluid loss, and sun damage.
-- Helps control body temperature through sweating and changes in blood flow in the skin.
-- Provides sensation for pain, pressure, touch, and temperature.
+- Protects the body from injury, infection, fluid loss, and ultraviolet (UV) damage.
+- Helps control body temperature by producing sweat and changing blood flow in the skin.
+- Allows the body to sense pain, touch, pressure, and temperature.
 - Helps the body make vitamin D.
-- Helps protect the body from germs.
 - Helps maintain fluid and electrolyte balance.
 
 ### Identify factors that affect integumentary function
 
-(These are the things that can help or hurt skin health.)
+(These factors help or harm skin health.)
 
-- Age: skin becomes thinner, drier, and heals more slowly as people get older.
-- Nutrition: protein, calories, vitamins, and minerals are needed for tissue repair.
-- Dehydration: the skin becomes dry and fragile.
-- Poor circulation and low oxygen: skin gets less oxygen and fewer nutrients.
-- Mobility: not moving increases pressure injury risk.
-- Sensory impairment: reduced feeling of pain or pressure increases injury risk.
-- Chronic illness: diabetes, blood vessel disease, kidney disease, and a weak immune system can harm the skin.
-- Medications: corticosteroids and some chemotherapy agents slow healing.
-- Moisture/incontinence: wet skin breaks down more easily.
-- Friction and shear: rubbing and sliding damage skin and deeper tissue.
+- **Age:** older skin is thinner, drier, and breaks more easily.
+- **Nutrition:** skin needs protein, calories, vitamins, and minerals to stay healthy and repair itself.
+- **Hydration:** dehydration makes skin dry and easier to damage.
+- **Circulation and oxygen:** poor blood flow means skin gets less oxygen and fewer nutrients.
+- **Mobility:** people who do not move often have higher risk for skin breakdown.
+- **Sensation:** if a person cannot feel pain or pressure, injury can happen without being noticed.
+- **Chronic illness:** diabetes, blood vessel disease, kidney disease, and immune problems can harm skin health.
+- **Medications:** corticosteroids and some chemotherapy drugs slow healing.
+- **Moisture:** sweat, wound drainage, or incontinence can break down skin.
+- **Friction and shear:** rubbing and sliding can damage skin and tissue below the skin.
 
 ### Identify the normal phases of wound healing
 
-(Wound healing happens in steps. The body stops bleeding, cleans the wound, builds new tissue, and then strengthens the scar.)
+(Wound healing happens in steps. The body stops bleeding, cleans the wound, builds new tissue, and strengthens the scar.)
 
 #### 1. Hemostasis
 
-- Occurs immediately after injury.
-- Blood vessels constrict and clotting begins.
-- Platelets form a clot to stop bleeding.
+(This step stops bleeding quickly.)
+
+- Happens right after injury.
+- Blood vessels tighten.
+- Platelets and clotting factors form a clot.
 
 #### 2. Inflammatory phase
 
+(This step cleans the wound area.)
+
 - Usually lasts several days.
-- Blood vessels open up, so more blood reaches the area.
-- White blood cells (WBCs) move to the area to kill bacteria and clean debris.
-- Expected findings: redness, warmth, swelling, pain.
+- Blood flow to the area increases.
+- White blood cells (WBCs) enter the area to fight bacteria and remove debris.
+- Redness, warmth, swelling, and pain are expected in this phase.
 
 #### 3. Proliferative phase
 
-- New healing tissue (called granulation tissue) forms.
-- Cells called fibroblasts make collagen (a building material for tissue).
+(This step builds new tissue.)
+
+- Granulation tissue forms.
+- Fibroblasts make collagen.
 - New blood vessels grow.
-- The wound begins to close and new surface skin forms.
+- The wound starts to fill in and close.
 
 #### 4. Maturation/remodeling phase
 
+(This step strengthens the scar.)
+
 - Collagen becomes stronger and more organized.
-- Scar tissue forms.
-- This phase may last months to a year or longer.
+- Scar tissue forms and strengthens.
+- This phase can last months or longer.
 
 ### Explain how the following factors affect wound healing
 
-(These common factors can make healing faster or slower.)
+(These factors slow healing.)
 
 #### Nutrition
 
-- Protein helps the body make collagen and repair tissue.
-- Vitamin C supports collagen synthesis.
-- Vitamin A helps new skin cells grow and supports the immune system.
-- Zinc helps cells repair.
-- Low calories or low protein delay healing and increase infection risk.
+(The body needs nutrients to rebuild tissue.)
+
+- Protein helps build collagen and repair tissue.
+- Vitamin C helps with collagen formation.
+- Vitamin A supports skin growth and immune function.
+- Zinc helps with tissue repair.
+- Poor nutrition slows healing and increases infection risk.
 
 #### Circulation and oxygen delivery
 
-- Oxygen is needed for tissue repair, collagen production, and fighting infection.
-- Poor blood flow from vascular disease, edema, anemia, or low blood pressure delays healing.
-- Smoking reduces oxygen delivery and constricts blood vessels.
+(Wounds heal better when blood and oxygen reach the wound.)
+
+- Oxygen is needed for tissue repair and for white blood cells to function.
+- Poor circulation, edema (swelling), anemia, or low blood pressure slows healing.
+- Smoking reduces oxygen delivery and narrows blood vessels.
 
 #### Impaired inflammatory and immune responses
 
-- Weak immune system makes it harder for the body to kill germs and remove dead tissue.
-- Diabetes can make white blood cells work less well and reduce blood flow.
-- Slow or weak inflammation makes infection more likely and healing slower.
+(A weak immune response slows healing.)
+
+- A weak immune system makes it harder to remove germs and dead tissue.
+- Diabetes lowers white blood cell function and reduces blood flow.
+- Weak inflammation increases infection risk and slows repair.
 
 #### Obesity
 
-- Fat tissue gets less blood flow than other tissue.
-- More tension on wound edges makes dehiscence more likely.
-- Skin folds and wetness increase infection and breakdown risk.
+(Extra body fat makes wound healing harder.)
+
+- Fat tissue has less blood supply.
+- More tension is placed on the wound edges.
+- Skin folds and moisture increase breakdown and infection risk.
 
 #### Age
 
-- Older adults often have thinner skin, make less collagen, and have slower cell turnover.
-- They may also have weaker blood flow and more chronic disease.
+(Healing slows as people age.)
+
+- Older adults have thinner skin and slower cell turnover.
+- They may have less collagen, weaker circulation, and more chronic illness.
 
 #### Corticosteroids
 
-- Lower inflammation and weaken immune response.
-- Slow down collagen making and wound closing.
-- Increase infection risk and slow tissue repair.
+(These drugs reduce inflammation, but they also slow healing.)
+
+- Decrease the normal inflammatory response.
+- Slow collagen production and tissue repair.
+- Increase infection risk.
 
 ### Explain how the following complications can delay wound healing
 
-(These problems can slow healing or make the wound unsafe.)
+(These problems slow healing or make the wound unsafe.)
 
 #### Hemorrhage
 
-- Causes loss of blood volume and oxygen delivery.
-- Blood that collects (hematoma) can push wound edges apart and increase infection risk.
+(Bleeding reduces blood volume and oxygen delivery.)
+
+- Less blood reaches the wound.
+- A hematoma (collection of blood) can push the wound edges apart.
+- Collected blood also increases infection risk.
 
 #### Infection
 
-- Bacteria use up nutrients and cause long-lasting swelling.
-- Infection damages healthy tissue and slows growth of new tissue and new skin.
+(Infection keeps the wound in the inflammatory phase.)
+
+- Germs use nutrients needed for healing.
+- Healthy tissue is damaged.
+- New tissue grows slowly.
 
 #### Dehiscence and evisceration
 
-- **Dehiscence:** wound layers pull apart partly or completely.
-- **Evisceration:** internal organs push out through the wound.
-- Risk factors: obesity, poor nutrition, infection, coughing, vomiting, straining, and steroid use.
+(These are serious problems where the wound opens.)
+
+- **Dehiscence:** wound edges separate and pull apart.
+- **Evisceration:** internal organs come out through the wound opening.
+- Risk factors include obesity, poor nutrition, infection, coughing, vomiting, straining, and corticosteroid use.
 
 ### Explain interventions to prevent wound dehiscence and evisceration
 
-(These are steps to help keep the wound closed.)
+(These steps help keep the wound closed.)
 
-- Support the cut during coughing, moving, or deep breathing (called splinting).
+- Splint (support) the wound during coughing, movement, or deep breathing.
 - Control nausea, vomiting, and constipation to reduce straining.
-- Support good nutrition and drinking enough water.
-- Watch for infection and report more drainage, opening, or bulging.
-- Teach patients not to lift heavy things.
+- Support good nutrition and hydration.
+- Watch for infection, increased drainage, bulging, or wound separation.
+- Teach the patient to avoid heavy lifting.
 
 ### If evisceration occurs
 
-(This is an emergency. Protect the organs and get help immediately.)
+(This is an emergency.)
 
 - Stay with the patient and call for help.
-- Cover exposed organs with sterile dressings moistened with sterile normal saline.
+- Cover the exposed organs with sterile dressings moistened with sterile normal saline.
 - Place the patient in low Fowler's position with knees bent if tolerated.
-- Do **not** try to push organs back inside.
-- Prepare for urgent surgical management.
+- Do **not** try to push the organs back in.
+- Prepare for emergency treatment or surgery.
 
 ### Describe the inflammatory response
 
-(Inflammation is the body's normal reaction to injury or infection.)
+(Inflammation is the body's normal response to injury or infection.)
 
-- Injury or infection causes the body to release chemicals (like histamine and prostaglandins) that start inflammation.
-- Blood vessels open wider and let more fluid leak into tissue.
-- Fluid, proteins, and white blood cells move into the damaged area.
-- Purpose: stop the problem from spreading, kill germs, remove dead material, and begin healing.
+- Chemicals such as histamine and prostaglandins are released.
+- Blood vessels widen and become more leaky.
+- Fluid and white blood cells move into the area.
+- The goal is to limit damage, fight germs, clean dead tissue, and start healing.
 
 ### Differentiate between localized and systemic inflammation
 
-(Localized means one area. Systemic means the whole body.)
+(Localized means one area. Systemic means the whole body reacts.)
 
 #### Localized inflammation
 
-- Limited to one area.
-- Findings: redness, heat, swelling, pain, and sometimes loss of function.
+- Happens in one area.
+- Signs include redness, warmth, swelling, pain, and sometimes loss of function.
 
 #### Systemic inflammation
 
-- Involves the whole body.
-- Findings may include fever, fatigue, malaise, elevated WBC count, tachycardia, and increased inflammatory markers.
+- Affects the whole body.
+- Signs may include fever, fatigue, malaise, increased WBC count, tachycardia, and raised inflammatory markers.
 
 ### Differentiate between acute and chronic inflammation
 
@@ -172,45 +199,46 @@ This guide makes the reading outline easier to study. It keeps the important nur
 
 #### Acute inflammation
 
-- Rapid onset and usually short duration.
+- Starts quickly.
 - Often follows injury or infection.
-- Mostly involves neutrophils (infection-fighting white blood cells) and clear signs like redness, pain, and swelling.
+- Usually shows classic signs such as redness, swelling, pain, and warmth.
+- Neutrophils are common in this stage.
 
 #### Chronic inflammation
 
-- Longer lasting.
-- Can happen with a long infection, autoimmune disease, or repeated injury.
-- Can cause tissue damage and scarring (fibrosis).
+- Lasts longer.
+- Can happen with long infection, autoimmune disease, or repeated injury.
+- May lead to tissue damage and scarring.
 
 ### Explain the purpose of 'RICE' in inflammation and pain management
 
-(RICE stands for rest, ice, compression, and elevation.)
+(RICE is a simple way to reduce pain and swelling after some injuries.)
 
-- **R - Rest:** stops more injury.
-- **I - Ice:** lowers pain, swelling, and blood flow to the area.
-- **C - Compression:** reduces swelling (edema).
-- **E - Elevation:** helps blood flow back toward the heart and reduces swelling.
+- **Rest:** prevents more injury.
+- **Ice:** lowers pain and swelling.
+- **Compression:** helps control swelling.
+- **Elevation:** helps fluid move away from the injured area.
 
 ### Identify contraindications for using heat and cold therapies
 
-(These are situations where heat or cold may not be safe.)
+(Heat and cold can help, but they are not safe in every situation.)
 
 #### Heat: avoid or use cautiously with
 
 - Active bleeding
-- Acute injury with swelling in the first phase
-- Impaired sensation
-- Impaired circulation
+- A fresh injury with swelling in the early stage
+- Poor sensation
+- Poor circulation
 - Severe edema
-- Areas with malignancy unless specifically ordered
+- Areas with cancer unless specifically ordered
 
 #### Cold: avoid or use cautiously with
 
-- Impaired circulation
+- Poor circulation
 - Peripheral vascular disease
 - Raynaud's phenomenon
-- Cold hypersensitivity
-- Areas of nerve damage or poor sensation
+- Cold sensitivity
+- Areas with nerve damage or poor sensation
 
 ### Identify general medication classifications used to treat inflammation
 
@@ -218,55 +246,60 @@ This guide makes the reading outline easier to study. It keeps the important nur
 
 #### Corticosteroids
 
-- Strong drugs that lower inflammation and suppress the immune system.
-- Lower leaking from tiny blood vessels and block inflammation chemicals.
-- Risks: high blood sugar, infection, poor wound healing, stomach irritation, weak bones, and suppressed adrenal glands.
+(These are strong anti-inflammatory drugs.)
+
+- Lower inflammation and suppress the immune response.
+- Can reduce swelling and tissue damage.
+- Risks include high blood sugar, infection, poor wound healing, stomach irritation, weak bones, and adrenal suppression.
 
 #### NSAIDs
 
-- Nonsteroidal anti-inflammatory drugs (NSAIDs) lower inflammation, pain, and fever by blocking chemicals that cause symptoms.
-- Risks: stomach bleeding, kidney injury, fluid buildup, and higher bleeding risk.
+(NSAIDs are common pain and inflammation medicines.)
+
+- Lower pain, fever, and inflammation.
+- Work by blocking prostaglandins.
+- Risks include stomach bleeding, kidney injury, fluid retention, and bleeding problems.
 
 ## Pressure Injury and Wound Care (Craven ch. 26, Hinkle ch. 56 pgs. 1816-1829)
 
-(This section explains pressure injuries, wound cleaning, and common wound words.)
+(This section explains pressure injuries, wound cleaning, and wound care basics.)
 
 ### Differentiate between different types of wounds
 
 (Wounds can be grouped by how they happen and how they heal.)
 
-- **Open wound:** skin or mucous membrane is broken.
-- **Closed wound:** tissue is damaged but skin is not open (like a bruise or hematoma).
-- **Acute wound:** heals in the usual time with normal repair.
-- **Chronic wound:** takes longer to heal, often because of poor blood flow, pressure, or disease.
-- **Intentional wound:** made on purpose, like a surgical cut.
-- **Unintentional wound:** happens by accident (trauma).
-- **Clean wound:** low risk of germs.
-- **Contaminated/dirty wound:** higher risk of infection.
+- **Open wound:** the skin or mucous membrane is broken.
+- **Closed wound:** tissue is injured, but the skin is still closed.
+- **Acute wound:** heals in the usual expected time.
+- **Chronic wound:** heals slowly, often because of pressure, poor circulation, or illness.
+- **Intentional wound:** made on purpose, such as a surgical incision.
+- **Unintentional wound:** happens by accident or trauma.
+- **Clean wound:** low germ exposure.
+- **Contaminated or dirty wound:** higher germ exposure and higher infection risk.
 
 ### Explain how pressure injuries develop
 
-(Pressure injuries happen when constant pressure lowers blood flow to skin and tissue.)
+(Pressure injuries happen when tissue gets squeezed too long and does not get enough blood flow.)
 
-- Long pressure squeezes tiny blood vessels (capillaries).
-- Tissue damage starts when blood flow and oxygen become too low.
-- Friction and shear make tissue damage worse.
-- Wetness and poor nutrition increase breakdown risk.
-- Pressure injuries often happen over bony areas.
+- Constant pressure closes tiny blood vessels.
+- Tissue stops getting enough oxygen and nutrients.
+- Friction and shear make the damage worse.
+- Moisture and poor nutrition also increase the risk.
+- Pressure injuries often form over bony areas.
 
 ### Explain 'blanching'
 
-(Blanching means skin turns white when you press it.)
+(Blanching means the skin briefly turns white when you press it.)
 
-- Blanching is skin turning white for a moment when pressure is applied.
-- It shows that blood flow can still return to the tiny blood vessels.
-- **Nonblanchable erythema** means the red area does not turn white when pressed. This is a key sign of Stage 1 pressure injury.
+- Blanching means blood can still return to the area.
+- **Nonblanchable erythema** means the red area does not turn white when pressed.
+- Nonblanchable redness is a key sign of a **Stage 1 pressure injury**.
 
 ### Interpret risk for pressure injuries using the Braden scale
 
-(The Braden Scale is a tool that helps measure pressure injury risk.)
+(The Braden Scale helps predict pressure injury risk.)
 
-The Braden Scale measures pressure injury risk by checking:
+The Braden Scale looks at:
 
 - Sensory perception
 - Moisture
@@ -277,87 +310,90 @@ The Braden Scale measures pressure injury risk by checking:
 
 General rule:
 
-- Lower score = higher risk.
-- Patients who cannot move well, have poor nutrition, have wet skin, or cannot feel pain need extra prevention.
+- A **lower score** means a **higher risk**.
+- Patients with poor movement, poor nutrition, wet skin, or decreased sensation need stronger prevention.
 
 ### Identify appropriate interventions for preventing pressure injuries
 
-(These are the main steps to stop pressure injuries before they start.)
+(These are the main prevention steps.)
 
-- Change patient position regularly.
-- Use special surfaces that reduce pressure.
+- Reposition regularly.
+- Use pressure-relieving surfaces as needed.
 - Keep skin clean and dry.
-- Clean up wetness from incontinence quickly.
-- Check skin daily, especially over bony areas.
-- Make sure patient eats enough protein, calories, and water.
-- Reduce rubbing and sliding during transfers and position changes.
-- Help patient move when possible.
+- Clean up incontinence quickly.
+- Check the skin every day, especially over bony areas.
+- Support enough protein, calories, and fluids.
+- Reduce friction and shear during movement.
+- Help the patient move as much as possible.
 
 ### Differentiate between the various stages of pressure injury formation
 
-(The stages show how deep the pressure injury is.)
+(The stage tells how deep the injury goes.)
 
 #### Stage 1
 
-- Intact skin with nonblanchable redness.
+- Skin is still intact.
+- There is nonblanchable redness.
 
 #### Stage 2
 
-- Partial-thickness skin loss involving epidermis and/or dermis.
-- May appear as a shallow open ulcer or blister.
+- Partial-thickness skin loss.
+- May look like a shallow open area or blister.
 
 #### Stage 3
 
-- Skin loss reaches the fat layer under the skin.
+- Skin loss extends into the fat layer.
 - Fat may be visible.
-- **Undermining and tunneling often happen at this stage.**
+- Undermining and tunneling often appear here.
 
 #### Stage 4
 
-- Skin is fully gone and muscle, tendon, or bone is visible.
-- **Undermining and tunneling often happen at this stage too.**
+- Full-thickness tissue loss.
+- Muscle, tendon, or bone may be visible.
+- Undermining and tunneling often occur here too.
 
 #### Unstageable
 
-- The wound is covered by slough or eschar (dead tissue), so you cannot see the true depth.
+- Slough or eschar covers the wound bed.
+- The true depth cannot be seen.
 
 #### Deep tissue pressure injury
 
-- Skin stays dark red, maroon, or purple and does not blanch.
-- Shows there is damage under the surface.
+- Skin may look dark red, maroon, or purple.
+- The damage is deeper than it first looks.
 
 ### Explain general principles associated with basic cleansing of wounds
 
 (These are the basic rules for cleaning a wound safely.)
 
 - Clean from the cleanest area toward the dirtiest area.
-- Usually clean from the center toward the outside for an open wound.
-- Use enough pressure to remove dirt but not damage healthy tissue.
-- Use sterile technique when needed by wound type and hospital rules.
-- Do not scrub healing tissue too hard.
+- For an open wound, clean from the center outward unless policy says otherwise.
+- Use enough pressure to remove debris, but do not harm healthy tissue.
+- Use sterile technique when required.
+- Do not scrub fragile healing tissue hard.
 
 ### Differentiate between cytotoxic and non-cytotoxic cleansing agents
 
-(This compares cleaners that are safer for healing tissue with cleaners that can also harm healthy cells.)
+(One group is gentle to healing tissue. The other can also damage healthy cells.)
 
 #### Non-cytotoxic
 
-- Normal saline is the best choice for routine wound cleaning.
+- Normal saline is the usual best choice for routine wound cleansing.
 - It does not damage healthy new tissue.
 
 #### Cytotoxic
 
-- Hydrogen peroxide, povidone-iodine, and similar cleaners can damage cells and healthy tissue.
-- They are usually avoided for routine healing wounds unless the doctor orders them.
+- Products like hydrogen peroxide and povidone-iodine can damage healthy cells.
+- They are usually not used for routine healing wounds unless specifically ordered.
 
 ### Explain the purpose of debridement
 
-(Debridement means removing dead tissue so the wound can heal better.)
+(Debridement means removing dead tissue so healing can move forward.)
 
-- Removes dead tissue, dead material (slough), bacteria, and other debris from the wound.
+- Removes slough, eschar, bacteria, and debris.
 - Lowers infection risk.
-- Helps healthy new tissue (granulation tissue) form.
-- Helps the wound heal in the normal way.
+- Helps granulation tissue form.
+- Helps the wound heal more effectively.
 
 ### Differentiate between methods of debridement and provide an example of each
 
@@ -365,109 +401,124 @@ General rule:
 
 #### Mechanical debridement
 
-- Removes dead tissue physically.
-- Example: wet-to-dry dressing or wound irrigation.
-- Can also remove healthy tissue and may be painful.
+- Dead tissue is removed physically.
+- Example: wet-to-dry dressings or wound irrigation.
+- It can also remove healthy tissue and can be painful.
 
 #### Autolytic debridement
 
-- Uses the body's own digestive enzymes and wetness under a sealed dressing.
-- Example: hydrocolloid dressing over a wound with light to moderate drainage.
-- Slower but picks only dead tissue and hurts less.
+- The body uses its own enzymes and moisture to break down dead tissue.
+- Example: hydrocolloid dressing.
+- This method is slower but more selective and usually less painful.
 
 #### Chemical/enzymatic debridement
 
-- Uses medicine applied to the wound to break down dead tissue.
+- Medication is placed on the wound to break down dead tissue.
 - Example: collagenase ointment.
 
 #### Sharp/surgical debridement
 
-- Fast removal using tools by a trained healthcare provider.
-- Used when there is a lot of dead tissue or infection.
+- A trained provider removes dead tissue using instruments.
+- It works quickly and is used when there is a lot of dead tissue or infection.
 
 ### Describe the following terms
 
+(These are common wound words you may see on exams.)
+
 - **Approximated:** wound edges are closed and lined up well.
-- **Eschar:** dry, thick, dead tissue; often black or brown.
-- **Exudate:** fluid that drains from a wound.
-- **Friction:** rubbing that scrapes or injures the top layer of skin.
-- **Granulation tissue:** pink or red healing tissue with many tiny blood vessels.
-- **Induration:** abnormal firmness or hardening in the tissue.
-- **Keloid:** thick, raised scar that grows beyond the original wound edges.
-- **Maceration:** soft, white, soggy skin from too much moisture.
+- **Eschar:** dry, thick, dead tissue, often black or brown.
+- **Exudate:** fluid draining from a wound.
+- **Friction:** rubbing that scrapes the skin.
+- **Granulation tissue:** healthy red or pink healing tissue.
+- **Induration:** unusual firmness or hardening of tissue.
+- **Keloid:** a raised scar that grows beyond the original wound edges.
+- **Maceration:** soft, pale, soggy skin from too much moisture.
 - **Purulent:** pus-like drainage that often suggests infection.
 - **Reactive hyperemia:** temporary redness after pressure is removed and blood flow returns.
 - **Sanguineous:** bloody drainage.
-- **Serosanguineous:** thin pink drainage that is a mix of blood and serum.
+- **Serosanguineous:** thin pink drainage that is part blood and part serum.
 - **Serous:** clear or pale yellow watery drainage.
-- **Shearing:** injury that happens when skin stays still but tissue underneath slides.
+- **Shearing:** injury that happens when the skin stays in place but tissue underneath slides.
 - **Slough:** yellow, tan, gray, or stringy dead tissue.
 
 ### Explain how shearing is prevented
 
-- Lift rather than drag when moving a patient.
+- Lift, do not drag, during repositioning.
 - Use a draw sheet or lift device.
-- Keep the head of the bed low when safe, if there is risk of sliding.
-- Reposition often and protect heels and bony areas.
+- Keep the head of the bed as low as safely possible if sliding is a concern.
+- Reposition often and protect bony areas.
 
 ### Explain the rationale for pre-medicating for pain prior to complex dressing changes
 
-- Lowers pain and worry before the dressing change starts.
-- Helps the patient handle cleaning, packing, or debridement better.
-- Better pain control helps patient cooperate and allows better wound care.
+(Pain control helps the patient tolerate the procedure better.)
+
+- Lowers pain and anxiety before the dressing change starts.
+- Helps the patient tolerate cleaning, packing, or debridement.
+- Better pain control makes wound care easier and more complete.
 
 ### Explain the purposes of wound dressings, including protection, moisture balance, and infection control
 
-- Protect the wound from dirt, trauma, and more skin injury.
-- Keep the wound moist enough to heal but not so wet that the skin breaks down.
+(Dressings do more than just cover a wound.)
+
+- Protect the wound from dirt and more injury.
+- Keep the wound moist enough to heal, but not too wet.
 - Absorb extra drainage when needed.
-- Help lower the risk of contamination and infection.
-- Support patient comfort.
+- Help lower contamination risk.
+- Improve comfort.
 
 ### Explain the purpose of packing a wound, including how it promotes healing and prevents infection
 
-- Packing fills empty space so the wound does not close too soon at the surface.
-- Helps fluid drain out instead of staying trapped inside.
-- Lowers risk of abscess (pocket of infection) and helps healing from bottom to top.
+(Packing keeps a deep wound from closing too soon on top.)
+
+- Fills dead space.
+- Helps drainage escape instead of getting trapped.
+- Lowers the risk of abscess formation.
+- Helps the wound heal from the inside out.
 
 ### Differentiate between the following types of dressings and identify what common types of wounds or amount of drainage they may be used for
 
 #### Foam
 
-- Absorbent dressing used for wounds with moderate drainage.
-- Helps cushion and protect the wound.
+- Absorbs drainage.
+- Often used for wounds with moderate drainage.
+- Also cushions and protects the wound.
 
 #### Hydrogel
 
-- Adds moisture to dry wounds.
-- Often used when the wound bed is dry or has necrotic tissue.
+- Adds moisture.
+- Good for dry wounds or wounds with necrotic tissue.
 
 #### Hydrocolloid
 
-- Occlusive or semi-occlusive dressing that keeps the wound moist.
+- Keeps the wound moist and protected.
 - Often used for shallow wounds with light to moderate drainage.
 
 #### Transparent film
 
-- Thin dressing that protects the wound and lets you see through it.
+- Thin and see-through.
 - Often used for shallow wounds with little or no drainage.
 
 #### Gauze
 
-- Common and flexible dressing used for cleansing, packing, or covering wounds.
-- Often used when frequent dressing changes are needed.
+- Common and flexible.
+- Used for cleansing, packing, or covering wounds.
+- Helpful when dressings need to be changed often.
 
 #### Alginates
 
-- Very absorbent dressings made for wounds with moderate to heavy drainage.
-- Helpful for deeper wounds or wounds that drain a lot.
+- Very absorbent.
+- Good for wounds with moderate to heavy drainage.
+- Helpful in deeper wounds.
 
 ### Explain how negative pressure wound therapy facilitates wound healing
 
-- Applies controlled suction to the wound.
-- Removes excess drainage and helps lower edema.
+(Negative pressure wound therapy uses gentle suction to help a wound heal.)
+
+- Removes extra drainage.
+- Helps reduce edema.
 - Improves blood flow to the wound bed.
-- Helps pull wound edges together and supports granulation tissue formation.
+- Helps draw wound edges together.
+- Supports granulation tissue growth.
 
 ## Infection Prevention and Control (Craven: chapters 20 and 27)
 
@@ -475,52 +526,52 @@ General rule:
 
 ### Explain the relationship between WBCs and infection
 
-(WBCs are white blood cells, which help the body fight infection.)
+(WBCs are white blood cells. They help the body fight infection.)
 
 - WBC count often rises with infection.
-- Neutrophils usually increase in bacterial infections.
-- A "left shift" means the body is sending out more immature infection-fighting cells, often during acute infection.
-- A normal WBC count does **not** always mean there is no infection, especially in older patients or patients with weak immune systems.
+- Neutrophils often rise in bacterial infection.
+- A **left shift** means more immature infection-fighting cells are being released.
+- A normal WBC count does **not** always mean there is no infection, especially in older or immunocompromised patients.
 
 ### Identify measures for preventing the transmission of infections
 
-(These are the main steps used to stop germs from spreading.)
+(These are the basic infection-control steps.)
 
-- Wash hands often.
+- Perform hand hygiene often.
 - Use standard precautions with all patients.
-- Use extra precautions based on how the infection spreads.
+- Use additional precautions based on how the infection spreads.
 - Clean equipment and surfaces.
-- Use correct personal protective equipment (PPE).
-- Handle lab specimens safely.
-- Use sterile technique for procedures that go inside the body.
+- Use personal protective equipment (PPE) correctly.
+- Handle specimens safely.
+- Use sterile technique for invasive procedures.
 
 ### Identify specific actions when caring for a client with C. diff
 
-(C. diff is short for Clostridioides difficile, an infection that causes diarrhea and spreads easily.)
+(C. diff causes diarrhea and spreads very easily.)
 
 - Use **contact precautions**.
-- Wash hands with **soap and water** after care because alcohol sanitizer is less effective against spores.
-- Use gloves and gown.
-- Use equipment only for this patient when possible.
-- Clean the room with a special cleaner that kills spores.
-- Watch stool output and check for dehydration.
+- Wash hands with **soap and water** after care.
+- Wear gloves and a gown.
+- Use dedicated equipment when possible.
+- Clean the room with a spore-killing cleaner.
+- Watch stool output and signs of dehydration.
 
 ### Identify factors that affect normal resistance to infection
 
-(These are things that can make it easier for a person to get sick.)
+(These are things that make it easier for infection to happen.)
 
-- Being very young or very old
-- Not eating well
+- Very young age or older age
+- Poor nutrition
 - Stress
-- Being very tired
-- Long-term illness
-- Broken skin or damaged inner linings
-- Medicine that weakens the immune system
-- Tubes or lines going into the body (like catheters or IV lines)
+- Fatigue
+- Chronic disease
+- Broken skin or damaged mucous membranes
+- Drugs that weaken the immune system
+- Tubes or lines going into the body
 
 ### Explain the chain of infection
 
-(The chain of infection shows how germs move from one place or person to another.)
+(The chain of infection shows how germs spread.)
 
 The six links are:
 
@@ -531,35 +582,34 @@ The six links are:
 5. Portal of entry
 6. Susceptible host
 
-Breaking any link helps prevent infection.
+- Break any one link, and infection spread becomes harder.
 
 ### Explain the relationship between lactate levels and infection
 
-(Lactate can go up when the body is not getting enough blood flow and oxygen, which can happen in severe infection.)
+(Lactate helps show how well tissues are being perfused.)
 
-- High lactate can mean the tissues are not getting enough blood flow and oxygen.
-- In sepsis, rising lactate can indicate worsening perfusion and severity.
-- A high lactate level is a warning sign for sepsis and shock.
+- High lactate can mean tissues are not getting enough oxygen and blood flow.
+- In severe infection or sepsis, rising lactate is a warning sign.
+- A high lactate level can point to worsening blood flow to tissues (perfusion) or shock.
 
 ### Explain the relationship between erythrocyte sedimentation rate and infection
 
-(ESR is a lab test that can rise when there is inflammation in the body.)
+(ESR is a general inflammation lab, not a specific infection test.)
 
-- ESR is a lab test that can go up when inflammation is present, but it does not tell the exact cause.
-- It may rise with infection, autoimmune disease, or chronic inflammation.
-- It supports the overall picture but does not diagnose infection by itself.
+- ESR can go up with infection, chronic inflammation, or autoimmune disease.
+- It supports the overall picture, but it does not diagnose infection by itself.
 
 ### Review how specimen cultures are used in diagnosing infection
 
-(Cultures help find the exact germ causing the problem.)
+(Cultures help identify the exact germ.)
 
-- Find which germ is causing the infection.
-- Find out which antibiotic medicine works best (through sensitivity testing).
-- When possible, collect cultures **before** starting antibiotics.
+- Show which organism is causing the infection.
+- Help show which antibiotic will work best.
+- When possible, collect cultures **before** antibiotics are started.
 
 ### Differentiate between signs and symptoms of a localized and systemic infection
 
-(Localized means one area. Systemic means the whole body is affected.)
+(Localized means one area. Systemic means the whole body is reacting.)
 
 #### Localized infection
 
@@ -572,145 +622,155 @@ Breaking any link helps prevent infection.
 
 #### Systemic infection
 
-- Fever or hypothermia
+- Fever or low temperature
 - Chills
 - Tachycardia
 - Tachypnea
 - Fatigue or malaise
 - Confusion
-- Elevated or low WBC count
-- Hypotension in severe infection/sepsis
+- High or low WBC count
+- Hypotension in severe infection or sepsis
 
 ### Identify early signs and symptoms of sepsis
 
 (Sepsis is a serious body-wide response to infection.)
 
-- Fever or low temperature
+- Fever or hypothermia
 - Tachycardia
 - Tachypnea
-- New confusion or change in alertness
-- Hypotension or a downward blood pressure trend
+- New confusion
+- Hypotension or a falling blood pressure trend
 - Elevated lactate
 - Decreased urine output
 
 ### Differentiate between the phases of a febrile episode and identify specific signs and symptoms associated with each
 
-(A fever often goes through these three steps.)
+(A fever often moves through these three stages.)
 
 #### Chill phase
 
-- Temperature rising
-- Patient feels cold and may shiver
-- Skin may be pale
+- Temperature is rising.
+- The patient feels cold.
+- Shivering may happen.
+- Skin may look pale.
 
 #### Fever phase
 
-- Temperature remains elevated
-- Skin is warm
-- Patient may have thirst, malaise, headache, and weakness
+- Temperature stays elevated.
+- Skin feels warm.
+- The patient may have thirst, malaise, headache, and weakness.
 
 #### Flush/crisis phase
 
-- Temperature begins to fall
-- Sweating increases
-- Skin becomes warm and flushed
-- Patient may be weak or dehydrated
+- Temperature starts to fall.
+- Sweating increases.
+- Skin becomes warm and flushed.
+- The patient may feel weak or dehydrated.
 
 ### Differentiate between surgical (sterile) and medical aseptic techniques
 
-(This compares clean technique with sterile technique.)
+(This is the difference between clean technique and sterile technique.)
 
 #### Medical asepsis
 
-- "Clean technique"
-- Reduces number and spread of microorganisms.
-- Used for routine care, standard precautions, and many bedside tasks.
+- Clean technique
+- Reduces the number and spread of microorganisms
+- Used for routine care and many bedside tasks
 
 #### Surgical asepsis
 
-- "Sterile technique"
-- Keeps the area free of all germs.
-- Used for sterile procedures, invasive care, and many dressing changes for deep or surgical wounds.
+- Sterile technique
+- Keeps the area free of all microorganisms
+- Used for sterile procedures and many deep or surgical wound dressings
 
 ### Review normal defense mechanisms
 
-- Intact skin keeps germs out.
-- Mucous membranes trap microorganisms.
+(These are the body's built-in ways to protect itself.)
+
+- Intact skin blocks germs.
+- Mucous membranes trap germs.
 - Tears, saliva, and mucus help wash organisms away.
 - Cilia, coughing, and the gag reflex help clear the airway.
-- Stomach acid kills many swallowed organisms.
-- Normal body flora help prevent harmful germs from taking over.
+- Stomach acid destroys many swallowed organisms.
+- Normal body flora help keep harmful germs from taking over.
 - Inflammation and immune cells help fight infection.
 
 ### Review general principles of surgical asepsis
 
-- Only sterile touches sterile.
-- If a sterile item touches a nonsterile item, it is contaminated.
+- Sterile touches sterile.
+- If a sterile item touches something nonsterile, it is contaminated.
 - Keep the sterile field above waist level and in sight.
 - Moisture can contaminate a sterile field.
 - The outer edge of a sterile field is considered contaminated.
-- If there is any doubt, consider the item contaminated.
+- If there is any doubt, consider it contaminated.
 
 ### Differentiate between the various types of isolation precautions and explain when they would be used
 
 #### Standard precautions
 
 - Used for all patients.
-- Includes hand hygiene, gloves, and safe handling of body fluids.
+- Includes hand hygiene, gloves when needed, and safe handling of body fluids.
 
 #### Contact precautions
 
-- Used for infections spread by direct contact or contaminated surfaces.
-- Example: Clostridioides difficile (C. diff) or some wound infections.
+- Used for infections spread by touch or contaminated surfaces.
+- Example: C. diff or some wound infections.
 
 #### Droplet precautions
 
-- Used for infections spread by large respiratory droplets.
+- Used for infections spread by larger respiratory droplets.
 - Example: influenza.
 
 #### Airborne precautions
 
-- Used for infections spread by very small particles in the air.
+- Used for infections spread by tiny particles that stay in the air.
 - Example: tuberculosis.
 
 ### Explain what protective isolation is and how it differs from other types of isolation precautions
 
-- Protective isolation is used to protect an immunocompromised patient from germs.
-- It is different from contact, droplet, or airborne precautions because the main goal is to protect the patient rather than protect others from the patient.
+(Protective isolation protects the patient, not the staff.)
+
+- Used for immunocompromised patients.
+- The goal is to keep germs away from the patient.
+- This is different from contact, droplet, or airborne precautions, which are usually meant to stop spread from the patient.
 
 ### Explain why the following clients are at high risk for contracting a healthcare associated infection
 
+(Healthcare-associated infection means an infection picked up during healthcare.)
+
 #### Surgical
 
-- They have incisions and invasive devices that break normal barriers.
+- Incisions and invasive devices break normal body barriers.
 
 #### Trauma
 
-- They may have open wounds, emergency procedures, or multiple invasive lines.
+- Open injuries, emergency procedures, and multiple lines raise risk.
 
 #### Older adult
 
-- Older adults often have weaker immune responses, chronic illness, and slower healing.
+- Older adults often have weaker immune responses, more chronic illness, and slower healing.
 
 ### Review nursing interventions to treat infection
 
+(These are common nursing actions that support recovery.)
+
 #### Airway clearance
 
-- Encourage incentive spirometry.
 - Encourage coughing and deep breathing.
+- Encourage incentive spirometry.
 - Support hydration to help thin secretions.
 
 #### Fever management
 
 - Give antipyretics as ordered.
-- Use baths or other cooling measures when appropriate.
-- Use hypothermia blankets only when ordered and indicated.
+- Use cooling measures when appropriate.
+- Use hypothermia blankets only when ordered.
 
 #### Antimicrobial
 
 - Give antimicrobials on time.
-- Monitor for therapeutic effect and side effects.
-- Review culture results to support correct treatment.
+- Watch for therapeutic effect and side effects.
+- Review culture results to support the right treatment.
 
 ## Respiratory Function
 
@@ -718,11 +778,11 @@ Breaking any link helps prevent infection.
 
 ### Explain what causes the following findings
 
-(These lung sounds can help show what kind of breathing problem may be present.)
+(These breath sounds give clues about what may be going wrong in the lungs.)
 
 #### Crackles
 
-- Usually caused by fluid in the alveoli or by small airways popping open.
+- Usually caused by fluid in the alveoli or small airways popping open.
 
 #### Rhonchi
 
@@ -738,88 +798,89 @@ Breaking any link helps prevent infection.
 
 ### Describe the significance of the following findings
 
-(These findings help the nurse connect the sound with a likely problem.)
+(This means: what problem should each sound make you think about?)
 
-- Crackles: may mean fluid in the lungs, pneumonia, collapsed airways (atelectasis), or heart failure.
-- Rhonchi: often mean mucus in the airways and may get better after coughing.
-- Wheezing: often mean airways are tight or narrow.
-- Pleural friction rub: means the lung lining is swollen (inflamed).
+- **Crackles:** may suggest fluid in the lungs, pneumonia, atelectasis, or heart failure.
+- **Rhonchi:** often suggest mucus in the larger airways and may improve after coughing.
+- **Wheezing:** often suggests bronchospasm or narrowed airways.
+- **Pleural friction rub:** suggests inflammation of the pleura.
 
 ### Explain the effects of dehydration on the respiratory system
 
-(Dehydration can make mucus thicker and harder to clear.)
+(When the body is dry, mucus gets thick and harder to move.)
 
-- Mucus becomes thicker and harder to cough up.
-- Tiny hairs (cilia) in the airway cannot clean mucus as well.
-- Risk of mucus blocking airways and causing collapsed air sacs (atelectasis) gets higher.
+- Secretions become thicker.
+- Cilia do not clear mucus as well.
+- Airway blockage and atelectasis become more likely.
 
 ### Explain the rationale for ambulation, positioning, incentive spirometry, and chest tubes as they relate to promotion of lung expansion
 
-(These actions help the lungs open better and move air more effectively.)
+(These actions all help the lungs open better.)
 
-- **Ambulation:** walking helps breathing, blood flow, and clears mucus.
-- **Positioning:** sitting upright helps the breathing muscle (diaphragm) move and helps lungs expand.
-- **Incentive spirometry:** encourages deep breaths and stops airway collapse (atelectasis).
-- **Chest tubes:** remove air or fluid so the lung can open back up.
+- **Ambulation:** helps expand the lungs, improve circulation, and move secretions.
+- **Positioning:** sitting upright helps the diaphragm move down and helps the lungs expand.
+- **Incentive spirometry:** encourages slow deep breaths and helps prevent atelectasis.
+- **Chest tubes:** remove air or fluid so the lung can re-expand.
 
 ### Explain the purpose of incentive spirometry
 
-(An incentive spirometer helps a patient take slow, deep breaths.)
+(An incentive spirometer helps the patient practice slow deep breaths.)
 
-- Helps the patient take slow, deep breaths.
-- Helps prevent collapsed airways after surgery (postoperative atelectasis).
-- Helps the tiny air sacs in the lungs open up.
+- Helps open alveoli.
+- Helps prevent postop atelectasis.
+- Encourages better lung expansion.
 
 ### Explain the purpose of chest physiotherapy and postural drainage
 
 (These methods help loosen and move mucus out of the lungs.)
 
-- Loosens and moves mucus.
-- Uses tapping, shaking, coughing, and body positions to help push mucus out.
+- Help break loose secretions.
+- Use positioning, percussion, vibration, and coughing to move mucus.
+- Make it easier for the patient to clear the airway.
 
 ### Explain the rationale for pursed-lip breathing
 
-(This breathing method helps keep the airways open during exhalation.)
+(This breathing method helps keep small airways from closing too soon.)
 
-- Makes breathing out last longer.
-- Stops airways from collapsing.
-- Helps get rid of carbon dioxide.
-- Often taught to patients with COPD (chronic obstructive pulmonary disease).
+- Makes exhalation slower and longer.
+- Helps keep the airways open during exhalation.
+- Helps remove carbon dioxide.
+- Is especially helpful in chronic obstructive pulmonary disease (COPD).
 
 ### Discuss general care of the client with a chest tube
 
-(A chest tube removes air or fluid so the lung can re-expand.)
+(A chest tube removes air or fluid so the lung can open again.)
 
-- Check breathing rate, breath sounds, oxygen levels, and pain.
-- Keep drainage container **below the chest**.
-- Make sure tubing is not bent or squeezed.
-- Check bandage and where tube enters the body.
-- Watch drainage amount, color, and changes.
-- Help patient breathe deeply and move when able.
+- Assess respiratory rate, work of breathing, breath sounds, oxygen level, and pain.
+- Keep the drainage system **below chest level**.
+- Make sure the tubing is not kinked or compressed.
+- Check the dressing and the insertion site.
+- Watch the amount and type of drainage.
+- Encourage deep breathing and movement when allowed.
 
 ### If drainage suddenly increases
 
-(This can be a warning sign. Check the patient immediately.)
+(This can be a warning sign. Check the patient before the equipment.)
 
-- Check the patient first.
-- Look for bleeding, trouble breathing, or tube coming out.
-- Measure and report how much drainage and what it looks like quickly.
+- Assess the patient right away.
+- Look for bleeding, worsening breathing, or a dislodged tube.
+- Measure the drainage and report the sudden change promptly.
 
 ### Explain why clamping of chest tubes is generally prohibited
 
-(Clamping can be dangerous because it can trap air in the chest.)
+(Clamping can trap air where it should not stay.)
 
-- Clamping can trap air in the space around the lung.
-- This can cause tension pneumothorax, which is deadly.
-- Chest tubes are only clamped for a short time and only when the healthcare provider orders it.
+- Clamping can trap air in the pleural space.
+- This can cause a tension pneumothorax.
+- Chest tubes are usually clamped only briefly and only with a specific order or during certain procedures.
 
 ### Differentiate between hypoventilation, hyperventilation, and hypoxia
 
-(These three terms are easy to confuse, so compare them carefully.)
+(These terms sound similar, but they are not the same.)
 
-- **Hypoventilation:** not breathing enough, so carbon dioxide (CO2) builds up.
-- **Hyperventilation:** breathing too much or too fast, so carbon dioxide (CO2) goes down.
-- **Hypoxia:** the tissues are not getting enough oxygen.
+- **Hypoventilation:** the patient is not breathing enough, so carbon dioxide builds up.
+- **Hyperventilation:** the patient is breathing too fast or too much, so carbon dioxide drops.
+- **Hypoxia:** body tissues are not getting enough oxygen.
 
 ### Identify factors that contribute to hypoventilation, hyperventilation, and hypoxia
 
@@ -871,22 +932,23 @@ Breaking any link helps prevent infection.
 
 ### Explain how a client would eat by mouth when receiving oxygen by mask
 
-(Meals may need a short change in oxygen setup so the patient can eat safely.)
+(Meals may require a brief change in the oxygen setup.)
 
-- If allowed and safe, remove the mask briefly for meals and use an alternative oxygen device if ordered, such as nasal cannula during meals.
-- Reapply the mask promptly after eating.
-- Monitor tolerance and oxygen saturation.
+- If it is safe and ordered, switch briefly to nasal cannula during meals.
+- Reapply the mask right after eating.
+- Watch oxygen saturation and patient tolerance.
 
 ### Discuss use of noninvasive positive pressure ventilation (CPAP/BiPAP)
 
-(These are masks that push air in to help breathing.)
+(These are masks that push air in to support breathing.)
 
-- **CPAP:** continuous positive airway pressure; helps keep alveoli open.
-- **BiPAP:** provides different inspiratory and expiratory pressures; helps ventilation more than CPAP.
+- **CPAP:** gives one constant pressure to help keep alveoli open.
+- **BiPAP:** gives one pressure when breathing in and another when breathing out.
+- BiPAP gives more ventilation support than CPAP.
 
 ### Identify indications for this treatment
 
-(These are common situations when this breathing support may be used.)
+(These are common reasons CPAP or BiPAP may be used.)
 
 - Sleep apnea
 - COPD exacerbation
@@ -898,27 +960,33 @@ Breaking any link helps prevent infection.
 
 #### Differentiate between ventilation, perfusion, and gas exchange
 
-- **Ventilation:** movement of air in and out of the lungs.
-- **Perfusion:** blood flow through the lungs and body tissues.
-- **Gas exchange:** movement of oxygen into the blood and carbon dioxide out of the blood.
+(These three terms explain how oxygen gets in and moves through the body.)
+
+- **Ventilation:** air moving in and out of the lungs.
+- **Perfusion:** blood flowing through the lungs and body tissues.
+- **Gas exchange:** oxygen moving into the blood and carbon dioxide moving out.
 
 #### Explain ways to decrease risks associated with impaired oxygenation
 
 - Encourage mobility and repositioning.
 - Encourage deep breathing and coughing.
-- Use incentive spirometry when indicated.
+- Use incentive spirometry when needed.
 - Maintain hydration.
 - Treat pain so the patient can breathe deeply.
 
 ### Identify key techniques for assessing the respiratory system
 
-- Check respiratory rate, depth, rhythm, and work of breathing.
-- Observe chest movement and symmetry.
+(These are the main respiratory checks.)
+
+- Check respiratory rate, depth, rhythm, and effort.
+- Watch chest movement and symmetry.
 - Listen to lung sounds.
 - Check oxygen saturation.
 - Assess cough, sputum, skin color, and mental status.
 
 ### Identify cues associated with altered oxygenation
+
+(Common clues are changes in breathing, thinking, and oxygen level.)
 
 - Shortness of breath
 - Rapid breathing
@@ -928,6 +996,8 @@ Breaking any link helps prevent infection.
 - Cyanosis in late or severe cases
 
 ### Differentiate between early and late signs of hypoxia
+
+(Exams often ask you to catch the early signs first.)
 
 #### Early signs
 
@@ -942,25 +1012,27 @@ Breaking any link helps prevent infection.
 - Cyanosis
 - Severe confusion or decreased level of consciousness
 - Bradycardia in severe decline
-- Poor oxygen saturation and severe respiratory distress
+- Markedly low oxygen saturation and severe respiratory distress
 
 ### Prioritize interventions for respiratory distress
 
-- Assess airway, breathing, and circulation first.
-- Position the patient upright, such as high Fowler's, if tolerated.
+(Think ABCs first.)
+
+- Assess airway, breathing, and circulation.
+- Sit the patient upright, usually in high Fowler's, if tolerated.
 - Apply oxygen as ordered.
 - Stay with the patient and call for help if distress is severe.
-- Monitor oxygen saturation, breathing effort, and mental status.
-- Prepare for suctioning or higher-level respiratory support if needed.
+- Monitor oxygen level, work of breathing, and mental status.
+- Prepare for suctioning or more advanced respiratory support if needed.
 
 #### Explain appropriate positioning of a client in respiratory distress
 
-- High Fowler's or an upright position usually helps the lungs expand best.
-- Some patients breathe easier leaning forward in a tripod position.
+- High Fowler's often helps the lungs expand best.
+- Some patients also breathe easier in a tripod position.
 
 ### Define fatigue, dyspnea, orthopnea, hemoptysis
 
-- **Fatigue:** feeling unusually tired or weak.
+- **Fatigue:** unusual tiredness or weakness.
 - **Dyspnea:** difficult or uncomfortable breathing.
 - **Orthopnea:** shortness of breath that gets worse when lying flat.
 - **Hemoptysis:** coughing up blood.
@@ -968,44 +1040,48 @@ Breaking any link helps prevent infection.
 ### Explain how deep breathing and intentional coughing help with airway clearance
 
 - Deep breathing opens alveoli and helps prevent atelectasis.
-- Intentional coughing helps move secretions up and out of the airway.
+- Intentional coughing helps move secretions up and out.
 
 ### Prioritize care for a client who vomits and has a decreased level of consciousness
 
+(Protect the airway first.)
+
 - Turn the patient to the side if possible.
-- Protect the airway and suction as needed.
-- Stay with the patient and call for help if airway protection is poor.
+- Suction as needed.
+- Stay with the patient and call for help if the airway is not protected.
 - Watch closely for aspiration and respiratory distress.
 
 ### Explain the appropriate technique for sterile airway suctioning
 
+(Insert without suction. Suction only while pulling back.)
+
 - Use sterile technique.
-- Hyperoxygenate as ordered before and between passes.
-- Insert the catheter without suction.
+- Hyperoxygenate before and between passes as ordered.
+- Insert the catheter **without** suction.
 - Apply suction only while withdrawing the catheter.
-- Limit each pass to about 10 to 15 seconds.
-- Allow time for recovery between passes.
+- Keep each pass brief, usually about 10 to 15 seconds.
+- Allow recovery time between passes.
 
 #### Explain why sterile technique is essential
 
-- Sterile technique helps prevent introducing microorganisms into the airway.
+- Sterile technique helps prevent introducing germs into the airway.
 
 #### Explain rationale for why continuous suctioning is harmful
 
-- Continuous suction can injure the airway lining.
+- It can damage the airway lining.
 - It removes oxygen and can worsen hypoxia.
 
 ### Describe care for a client receiving oxygen via a nasal cannula
 
-- Check that the cannula fits correctly.
+- Make sure the cannula fits correctly.
 - Monitor skin around the ears and nose.
-- Monitor oxygen saturation and patient comfort.
-- Keep oxygen safety measures in place, including no smoking.
+- Watch oxygen saturation and patient comfort.
+- Follow oxygen safety rules, including no smoking.
 
 #### Discuss use of humidification
 
-- Humidification may be used when oxygen dries the nose or throat.
-- It is more likely to be needed with higher flow rates or longer use.
+- Humidification may help if oxygen dries the nose or throat.
+- It is more common with higher flow rates or longer-term oxygen use.
 
 ### Identify risks associated with administration of oxygen
 
@@ -1013,36 +1089,36 @@ Breaking any link helps prevent infection.
 - Dry mucous membranes
 - Skin breakdown from tubing or mask pressure
 - Oxygen toxicity with prolonged high concentrations
-- Carbon dioxide retention in selected patients with chronic lung disease
+- Carbon dioxide retention in some patients with chronic lung disease
 
 ### Identify interventions to prevent risks associated with administration of oxygen
 
 - No smoking or open flames near oxygen.
 - Keep oxygen equipment away from sparks.
 - Use humidification when appropriate.
-- Monitor skin and reposition tubing or mask as needed.
-- Use the lowest oxygen flow that safely meets the patient's needs.
+- Monitor the skin and reposition tubing or the mask as needed.
+- Use the lowest oxygen level that safely meets the patient's needs.
 
 ### Identify differences between the simple oxygen face mask, Venturi mask, and non-rebreather mask
 
 #### Simple oxygen face mask
 
 - Gives a moderate amount of oxygen.
-- Used when more oxygen is needed than a nasal cannula can provide.
+- Used when the patient needs more oxygen than a nasal cannula can give.
 
 #### Venturi mask
 
 - Gives a very exact oxygen concentration.
-- Often used when precise control of oxygen is important.
+- Useful when precise oxygen delivery matters.
 
 #### Non-rebreather mask
 
 - Gives a high concentration of oxygen.
-- Used for severe hypoxia or significant respiratory distress.
+- Used for severe hypoxia or major respiratory distress.
 
 ## Cardiac Function
 
-(This section explains how the heart pumps blood and supports oxygen delivery.)
+(This section explains how the heart pumps blood and delivers oxygen to the body.)
 
 ### Explain the flow of blood through the heart
 
@@ -1053,101 +1129,115 @@ Breaking any link helps prevent infection.
 
 ### Review the cardiac conduction system
 
-(This is the electrical system that tells the heart when to beat.)
+(This is the heart's electrical pathway. It tells the heart when to beat.)
 
-- SA node: normal pacemaker.
-- AV node: delays impulse briefly.
-- Bundle of His -> right and left bundle branches -> Purkinje fibers: spread impulse through ventricles.
-- Coordinated conduction produces effective contraction and cardiac output.
+- **SA node:** starts the heartbeat. It is the heart's natural pacemaker.
+- **AV node:** briefly slows the signal so the ventricles have time to fill.
+- **Bundle of His, bundle branches, and Purkinje fibers:** carry the signal through the ventricles so they squeeze in an organized way.
+- Good conduction helps create effective contractions and good cardiac output.
 
 ### Explain the relationship of cardiac output (preload, afterload, contractility, and heart rate) to oxygenation and perfusion
 
-(Cardiac output is how much blood the heart pumps. These four parts help determine it.)
+(Cardiac output is how much blood the heart pumps. Good cardiac output helps deliver oxygen to tissues.)
 
 **Cardiac output = heart rate x stroke volume**
 
 #### Preload
 
-- Amount of blood that fills the pumping chamber (ventricle) before it squeezes.
-- Related to how much blood returns from the body to the heart.
-- Too little preload means less blood to pump out. Too much can cause fluid backup.
+(Preload means how full the ventricle is before it squeezes.)
+
+- It depends on how much blood returns to the heart.
+- Too little preload means there is less blood to pump out.
+- Too much preload can cause fluid backup.
 
 #### Afterload
 
-- Pressure or resistance the heart must push against to pump blood out.
-- Higher afterload (like with high blood pressure) makes the heart work harder.
+(Afterload means how hard the heart has to push to get blood out.)
+
+- It is the resistance the ventricle pumps against.
+- High blood pressure raises afterload.
+- Higher afterload makes the heart work harder.
 
 #### Contractility
 
-- How strong the heart muscle squeezes.
-- Weak squeezing lowers how much blood is pumped out (stroke volume and cardiac output).
+(Contractility means how strongly the heart squeezes.)
+
+- Stronger squeezing increases stroke volume.
+- Weak squeezing lowers stroke volume and cardiac output.
 
 #### Heart rate
 
-- A heart rate that is too slow or too fast can decrease cardiac output.
+(Heart rate matters, but faster is not always better.)
+
+- If the rate is too slow, not enough blood may be pumped.
+- If the rate is too fast, the heart may not fill well between beats.
+- Either problem can lower cardiac output.
 
 Why this matters for oxygenation and perfusion:
 
-(Good cardiac output is needed to move oxygen-rich blood to the body.)
+(Good blood flow is needed to carry oxygen everywhere it needs to go.)
 
-- Good cardiac output is needed to carry oxygen-rich blood to all body tissues.
-- Low cardiac output causes poor blood flow, tiredness, cool skin, less urine, and confusion.
+- Good cardiac output helps move oxygen-rich blood to body tissues.
+- Low cardiac output can cause fatigue, cool skin, low urine output, confusion, and poor blood flow to tissues.
 
 ### Identify key techniques for assessing the cardiac system
 
 (These are the main checks used to see how well the heart is working.)
 
-- Look at skin color, swelling, and how hard the patient is working to breathe.
-- Feel pulses in arms and legs and check capillary refill (how fast color returns to fingertip).
+- Look at skin color, edema, and breathing effort.
+- Feel pulses and check capillary refill.
 - Listen to heart sounds.
-- Check blood pressure, heart rate, heart rhythm, oxygen level, and urine output.
-- Ask about chest pain, how well patient can do activities, dizziness, and check for neck vein swelling.
+- Check blood pressure, heart rate, rhythm, oxygen level, and urine output.
+- Ask about chest pain, dizziness, activity tolerance, and shortness of breath.
+- Check for jugular venous distention (swollen neck veins) when needed.
 
 ### Discuss cardiac factors that affect cardiac function and oxygenation
 
-(These common health factors can improve or worsen heart and blood vessel function.)
+(These common health factors can help or harm the heart.)
 
 #### Cigarette smoking
 
-- Narrows blood vessels, damages the vessel lining, and reduces oxygen delivery.
+- Narrows blood vessels.
+- Damages vessel walls.
+- Lowers oxygen delivery.
 
 #### High blood pressure
 
-- Increases afterload and workload of the left ventricle.
+- Increases afterload.
+- Makes the left ventricle work harder.
 
 #### Nutrition
 
-- Eating too much saturated fat and salt can cause blocked arteries and high blood pressure.
-- Not eating well weakens the heart and blood vessels.
+- Too much saturated fat and salt can worsen blocked arteries and high blood pressure.
+- Poor nutrition can weaken the heart and body tissues.
 
 #### Activity
 
-- Regular exercise helps blood flow and makes the heart work better.
-- Not moving enough makes the body weaker and blood flow worse.
+- Regular activity supports circulation and heart strength.
+- Inactivity weakens the body and worsens circulation.
 
 #### Diabetes
 
-- Harms blood vessels and makes arteries narrow faster.
-- Increases risk for heart artery disease and poor blood flow.
+- Damages blood vessels.
+- Raises the risk for coronary artery disease and poor blood flow to tissues.
 
 ### Explain how disturbances in conduction affect cardiac output and cardiac function
 
-(Abnormal heart rhythms can lower the amount of blood the heart pumps.)
+(If the electrical signal is abnormal, pumping often becomes less effective.)
 
-- Wrong heart rhythms may give the heart less time to fill or make it squeeze poorly.
-- This lowers how much blood is pumped and can lower blood flow to the body.
+- Dysrhythmias can shorten filling time or make contraction less effective.
+- This lowers cardiac output.
+- Poor cardiac output leads to worse tissue blood flow (perfusion).
 
 ### Identify basic indicators of tachycardia and bradycardia
 
-(These are the basic signs of a heart rate that is too fast or too slow.)
-
 - **Tachycardia:** heart rate above 100 beats/min in adults.
 - **Bradycardia:** heart rate below 60 beats/min in adults.
-- Clinical significance depends on symptoms and perfusion.
+- Whether it is a problem depends on symptoms and perfusion.
 
 ### Identify cues associated with altered cardiac function
 
-(These are common signs that the heart may not be pumping well.)
+(These are common warning signs that the heart may not be pumping well.)
 
 - Chest pain
 - Palpitations
@@ -1161,36 +1251,40 @@ Why this matters for oxygenation and perfusion:
 
 ### Explain why ventricular tachycardia and ventricular fibrillation are defined as life-threatening dysrhythmias
 
-(These rhythms are dangerous because they stop the heart from pumping effectively.)
+(These rhythms are dangerous because the ventricles stop pumping effectively.)
 
-- They prevent effective ventricular pumping.
-- Cardiac output falls drastically or becomes absent.
-- Ventricular fibrillation results in no organized cardiac output and requires immediate emergency response.
+- Ventricular tachycardia can greatly reduce cardiac output.
+- Ventricular fibrillation means there is no organized pumping.
+- Without fast treatment, perfusion stops and death can occur.
 
 ### Explain how left heart failure affects oxygenation and circulation
 
-- Left heart failure causes blood to back up into the lungs.
-- This can lead to pulmonary congestion, crackles, and shortness of breath.
-- Forward blood flow to the body decreases, so circulation and perfusion can drop.
+- Blood backs up into the lungs.
+- This can cause pulmonary congestion, crackles, and shortness of breath.
+- Forward flow to the body drops, so perfusion also drops.
 
 ### Describe the significance of peripheral edema in relationship to cardiac function
 
-- Peripheral edema often means fluid is backing up in the body.
-- It can be a sign of poor cardiac function, especially with heart failure.
-- The nurse should relate edema to fluid status, circulation, and possible heart strain.
+(Peripheral edema can be a clue that fluid is backing up.)
+
+- It often suggests fluid retention or poor cardiac pumping.
+- It is common in heart failure.
+- The nurse should connect edema with overall fluid status and circulation.
 
 ### Explain the relationship of myocardial ischemia with chest pain and myocardial infarction
 
-- Myocardial ischemia happens when heart muscle does not get enough oxygen-rich blood.
-- Ischemia can cause chest pain or pressure.
-- If blood flow stays blocked too long, myocardial infarction can occur and heart tissue can die.
+- Myocardial ischemia means the heart muscle is not getting enough oxygen-rich blood.
+- Ischemia often causes chest pain or pressure.
+- If the lack of blood flow lasts too long, myocardial infarction can happen and heart tissue can die.
 
 ### Identify the immediate life-saving actions required in the event of cardiac arrest or ventricular fibrillation
 
-- Call for help or activate the emergency response system immediately.
-- Start high-quality cardiopulmonary resuscitation (CPR).
+(Think: call, compress, shock as soon as possible.)
+
+- Call for help or activate the emergency response system right away.
+- Start high-quality CPR.
 - Use an automated external defibrillator (AED) or defibrillator as soon as available.
-- Continue emergency response steps until more help arrives.
+- Continue the emergency response steps until more help arrives.
 
 ## Pain Management
 
@@ -1198,92 +1292,115 @@ Why this matters for oxygenation and perfusion:
 
 ### Differentiate between around the clock (ATC) and PRN analgesic administration
 
-(This compares scheduled pain medicine with pain medicine given only when needed.)
+(ATC is scheduled. PRN is only when needed.)
 
-- **ATC (around the clock):** medicine given on a set schedule to keep pain controlled all the time; good for constant pain.
-- **PRN (as needed):** medicine given only when patient asks for it; good for sudden pain or pain that comes and goes.
-- Many patients do best with scheduled medicine plus extra doses when needed.
+- **ATC (around the clock):** pain medicine is given on a regular schedule to keep pain under control.
+- **PRN (as needed):** pain medicine is given only when the patient needs it.
+- ATC works well for ongoing pain. PRN works well for sudden or breakthrough pain.
+- Many patients do best with a scheduled plan plus extra PRN doses when needed.
 
 ### Identify clinical signs that indicate a client's pain is well managed
 
-(These are clues that the pain plan is working.)
+(Well-managed pain should help the patient function better.)
 
-- Patient says pain is at an okay level.
-- Can move, cough, breathe deeply, sleep, and join in care better.
-- Vital signs are stable and show comfort.
+- The patient says the pain is at a tolerable level.
+- The patient can move, cough, breathe deeply, sleep, and take part in care more easily.
+- Vital signs are more stable.
 
 ### Identify clinical symptoms that show a client is overly sedated from opioid use
 
-(These are warning signs that the opioid dose may be too strong.)
+(These are warning signs that the opioid effect may be too strong.)
 
 - Hard to wake up
-- Breathing slowly
+- Slow breathing
 - Low oxygen level
-- Trouble speaking clearly
+- Slurred speech
 - Confusion
-- Very small pupils (pinpoint) may be seen
+- Pinpoint pupils may be present
 
 ### Identify barriers to effective pain management
 
-(These are common reasons pain may not be treated well.)
+(These are common reasons pain is undertreated.)
 
-- Fear of getting addicted or having side effects
+- Fear of addiction or side effects
 - Giving too little medicine
-- Not checking pain well
-- Trouble understanding each other
-- Beliefs about pain from patient's culture
-- Waiting too long to give medicine
+- Not assessing pain well enough
+- Poor communication
+- Cultural beliefs about pain
+- Waiting too long to treat pain
 
 ### Identify complications of ineffective pain management
 
-(Poor pain control can cause extra problems for the patient.)
+(Poor pain control causes more than discomfort.)
 
-- Hard to move
+- Decreased movement
 - Slower healing
-- Trouble sleeping
-- Worry and nervousness
+- Poor sleep
+- Anxiety or distress
 - More stress on the body
-- Not breathing deeply or coughing well, which increases lung problems
+- Shallow breathing and weak coughing, which raise lung complication risk
 
 ### Identify non-pharmacologic pain-relieving techniques
 
-(These are pain relief methods that do not use medicine.)
+(These are pain-relief methods that do not use medicine.)
 
-- Changing position
-- Ice or heat (when safe to use)
-- Slow, calm breathing
-- Imagining peaceful scenes (guided imagery)
-- Listening to music
-- Thinking about something else (distraction)
-- Gentle rubbing (massage)
-- Holding the cut when moving (splinting)
+- Repositioning
+- Heat or cold when safe
+- Slow breathing and relaxation
+- Guided imagery
+- Music
+- Distraction
+- Gentle massage
+- Splinting during movement or coughing
 
 ### Differentiate between persistent or chronic, acute, referred, radiating, superficial, and deep visceral pain
 
-- **Persistent or chronic pain:** ongoing pain that usually lasts longer than 6 months.
-- **Acute pain:** starts suddenly and is usually linked to injury, illness, or surgery.
-- **Referred pain:** felt in an area different from the real source.
-- **Radiating pain:** spreads from one area to another along a path.
-- **Superficial pain:** comes from the skin or tissue near the surface.
-- **Deep visceral pain:** comes from internal organs and may feel hard to locate.
+#### Persistent or chronic pain
+
+- Ongoing pain that lasts a long time, often months or longer.
+
+#### Acute pain
+
+- Pain that starts suddenly and is usually linked to injury, illness, or surgery.
+
+#### Referred pain
+
+- Pain felt in a place different from where the problem really is.
+
+#### Radiating pain
+
+- Pain that starts in one area and spreads along a path.
+
+#### Superficial pain
+
+- Pain coming from the skin or tissue near the surface.
+
+#### Deep visceral pain
+
+- Pain coming from internal organs.
+- It may feel hard to locate exactly.
 
 ### Explain nociceptive and neuropathic pain
 
-- **Nociceptive pain:** pain from real tissue damage or swelling.
-- **Neuropathic pain:** pain from damaged nerves or nerves sending wrong signals.
+(These two pain types come from different causes.)
+
+- **Nociceptive pain:** comes from actual tissue injury or inflammation.
+- **Neuropathic pain:** comes from nerve damage or abnormal nerve signaling.
 
 ### Identify manifestations of pain
 
 #### Differentiate between physiological and behavioral responses
 
-- **Physiological responses:** faster heart rate, higher blood pressure, faster breathing, sweating, and tight muscles.
-- **Behavioral responses:** making pain faces, protecting the hurt area, crying, moving a lot, or pulling away.
+(Physiological responses are body changes. Behavioral responses are what you can see the patient do.)
+
+- **Physiological responses:** tachycardia, higher blood pressure, faster breathing, sweating, tight muscles.
+- **Behavioral responses:** grimacing, guarding, crying, restlessness, or pulling away.
 
 ### Differentiate between different pain scales. Explain the rationale for each method
 
 #### Numerical pain scale
 
-- Good for patients who can rate pain with a number.
+- Good for patients who can rate pain from 0 to 10.
 
 #### Faces scale
 
@@ -1302,9 +1419,9 @@ Why this matters for oxygenation and perfusion:
 ### Discuss strategies for effective pain management (frequent assessment, regular dosing, client education)
 
 - Assess pain often and reassess after treatment.
-- Use regular dosing when pain is ongoing.
+- Use regular dosing for ongoing pain when appropriate.
 - Teach the patient to report pain early.
-- Combine medicine with non-pharmacologic strategies when appropriate.
+- Combine medicine with non-drug strategies when helpful.
 
 ## Fluids and Electrolytes
 
@@ -1312,30 +1429,30 @@ Why this matters for oxygenation and perfusion:
 
 ### Review the physiologic processes that regulate fluid volume and fluid distribution
 
-(These are the basic ways water and particles move in the body.)
+(These are the main ways water and particles move in the body.)
 
-- Osmosis: water moves through a barrier (membrane).
-- Diffusion: dissolved substances (solutes) move from where there is more to where there is less.
-- Filtration: fluid moves because of pressure pushing it.
-- Antidiuretic hormone (ADH), thirst, and the renin-angiotensin-aldosterone system (RAAS) control water and sodium balance.
+- **Osmosis:** water moves across a membrane toward the area with more dissolved particles.
+- **Diffusion:** particles move from an area of higher concentration to lower concentration.
+- **Filtration:** fluid moves because pressure pushes it.
+- **Antidiuretic hormone (ADH), thirst, and the renin-angiotensin-aldosterone system (RAAS)** help control water and sodium balance.
 
 ### Accurately calculate intake and output
 
-(Intake means fluids going in. Output means fluids coming out.)
+(Intake is fluid going in. Output is fluid coming out.)
 
-- Correct intake and output (I&O) records help check hydration, kidney function, and how well treatment works.
-- Count all fluids by mouth, through feeding tubes, and through IV.
-- Count urine, vomit, stool (when you can measure it), drain fluid, and other fluid losses.
+- Good intake and output records help show hydration status, kidney function, and response to treatment.
+- Count oral fluids, tube feed water, and IV fluids as intake.
+- Count urine, emesis, measured stool, drainage, and other measurable losses as output.
 
 ### Identify common fluid and electrolyte disorders
 
-(These are common fluid and salt problems seen in nursing care.)
+(These are the big fluid and salt problems to know.)
 
-- Not enough fluid (fluid volume deficit)
-- Too much fluid (fluid volume excess)
-- Low or high sodium (hyponatremia and hypernatremia)
-- Low or high potassium (hypokalemia and hyperkalemia)
-- Low or high calcium (hypocalcemia and hypercalcemia)
+- Fluid volume deficit
+- Fluid volume excess
+- Hyponatremia and hypernatremia
+- Hypokalemia and hyperkalemia
+- Hypocalcemia and hypercalcemia
 
 ### Explain fluid-volume deficit
 
@@ -1353,13 +1470,13 @@ Why this matters for oxygenation and perfusion:
 
 #### Signs and symptoms
 
-- Dry mouth and nose
-- Skin does not bounce back quickly when pinched (poor turgor)
-- Feeling thirsty
-- Fast heart rate (tachycardia)
-- Low blood pressure or blood pressure that drops when standing up
-- Dark, concentrated urine and not much urine
-- Losing weight
+- Dry mouth and dry mucous membranes
+- Poor skin turgor
+- Thirst
+- Tachycardia
+- Low blood pressure or blood pressure that drops when the patient stands up
+- Dark concentrated urine and low urine output
+- Weight loss
 
 ### Explain fluid volume excess
 
@@ -1369,229 +1486,231 @@ Why this matters for oxygenation and perfusion:
 
 - Heart failure
 - Kidney failure
-- Getting too much fluid through IV
+- Too much IV fluid
 - Liver disease
-- Eating too much salt (sodium)
 
 #### Signs and symptoms
 
-- Swelling (edema)
-- Gaining weight
-- Crackling lung sounds (crackles)
-- Hard to breathe (dyspnea)
+- Edema
+- Weight gain
+- Crackles in the lungs
+- Dyspnea
 - High blood pressure
-- Strong, full pulse (bounding)
-- Swollen neck veins (jugular venous distention)
+- Bounding pulse
+- Jugular venous distention
 
 ### Describe how fluid and electrolyte imbalance can influence changes in the following
 
-(Fluid balance problems often change vital signs, blood flow, and how the body works.)
+(Fluid problems change vital signs, body systems, and mental status.)
 
-- **Blood pressure:** usually low when not enough fluid and high when too much fluid.
-- **Pulse:** usually fast when not enough fluid and fuller/stronger when too much fluid.
-- **Cardiac rhythm:** salt (electrolyte) problems can cause irregular heartbeats.
-- **Neck veins:** may be flat when not enough fluid and swollen when too much fluid.
-- **Mucous membranes:** usually dry when not enough fluid.
-- **Level of consciousness:** patient may be confused when imbalance is bad.
-- **Respiratory rate and rhythm:** may change when there are acid-base or fluid problems.
-- **Oxygen saturation:** can drop if too much fluid fills the lungs.
-- **Reflexes:** may change when calcium or sodium levels are wrong.
-- **Bowel sounds:** can be slower or faster depending on the problem.
-- **Skin integrity/edema:** swelling means too much fluid; skin that does not bounce back means not enough.
-- **Daily weight:** a good way to see fluid gain or loss.
-- **Urine output, color, and specific gravity:** small amount of dark urine with high specific gravity usually means not enough fluid.
+- **Blood pressure:** often low with fluid deficit and high with fluid excess.
+- **Pulse:** often fast with fluid deficit and full or bounding with fluid excess.
+- **Cardiac rhythm:** electrolyte problems can cause dysrhythmias.
+- **Neck veins:** may be flat with fluid deficit and distended with fluid excess.
+- **Mucous membranes:** often dry with fluid deficit.
+- **Level of consciousness:** severe imbalance can cause confusion.
+- **Respiratory rate and rhythm:** can change with acid-base, electrolyte, or fluid problems.
+- **Oxygen saturation:** may drop if fluid backs up into the lungs.
+- **Reflexes:** may change when calcium or sodium is abnormal.
+- **Bowel sounds:** may slow down or speed up depending on the problem.
+- **Skin integrity and edema:** swelling suggests fluid excess; poor turgor suggests fluid deficit.
+- **Daily weight:** one of the best ways to track fluid gain or loss.
+- **Urine output, color, and specific gravity:** dark, concentrated urine with high specific gravity often suggests fluid deficit.
 
 ### Identify clinical manifestations related to the following electrolyte imbalances
 
 #### Hypo and hypernatremia
 
-- Low sodium (hyponatremia) can cause confusion, headache, nausea, or seizures.
-- High sodium (hypernatremia) can cause thirst, restlessness, weakness, and nerve/brain problems.
+- **Hyponatremia:** confusion, headache, nausea, seizures if severe.
+- **Hypernatremia:** thirst, restlessness, weakness, and neurologic changes.
 
 #### Hypo and hypercalcemia
 
-- Low calcium (hypocalcemia) can cause tingling, muscle cramps, muscle spasms (tetany), and seizures.
-- High calcium (hypercalcemia) can cause weakness, constipation, confusion, and weak reflexes.
+- **Hypocalcemia:** tingling, muscle cramps, tetany, seizures.
+- **Hypercalcemia:** weakness, constipation, confusion, decreased reflexes.
 
 #### Hypo and hyperkalemia
 
-- Low potassium (hypokalemia) can cause weakness, constipation, and irregular heartbeats.
-- High potassium (hyperkalemia) can cause weakness and dangerous irregular heartbeats.
+- **Hypokalemia:** weakness, constipation, dysrhythmias.
+- **Hyperkalemia:** weakness and dangerous dysrhythmias.
 
 ### Describe positive Chvostek's and Trousseau's signs
 
-- **Chvostek's sign:** face muscle twitches when you tap the nerve in front of the ear.
-- **Trousseau's sign:** hand cramps into a claw shape when blood pressure cuff stays inflated.
+(These are classic signs of low calcium.)
+
+- **Chvostek's sign:** facial muscle twitching when the facial nerve is tapped.
+- **Trousseau's sign:** hand spasms into a claw-like position when a blood pressure cuff is inflated.
 
 ### Identify the electrolyte imbalance related to these signs
 
-- These signs usually mean low calcium (hypocalcemia).
+- These signs usually point to **hypocalcemia**.
 
 ### Identify nursing interventions for altered fluid and electrolyte balance status
 
 #### Fluid and electrolyte replacement
 
-- Give back the missing fluid or salt carefully.
-- Watch lab results, heart rhythm, intake and output, and symptoms.
+- Replace the missing fluid or electrolyte carefully.
+- Monitor lab values, intake and output, heart rhythm, and symptoms.
 
 #### Explain the rationale for fluid restriction
 
-- Limiting fluids helps stop more fluid overload when the body cannot handle extra fluid.
+- Fluid restriction helps prevent worsening fluid overload when the body cannot handle extra fluid.
 
 #### Identify foods high in sodium, potassium, and calcium
 
-- **Sodium:** processed foods, canned soups, salted snacks.
+- **Sodium:** processed foods, canned soups, salty snacks.
 - **Potassium:** bananas, potatoes, oranges, tomatoes.
-- **Calcium:** milk, yogurt, cheese, fortified foods.
+- **Calcium:** milk, yogurt, cheese, and fortified foods.
 
 ### Identify how to evaluate the effectiveness of interventions for fluid and electrolyte imbalances
 
-- Check vital signs and thinking again.
-- Watch daily weight and intake/output.
-- Check lab values again.
-- Look for improvement in symptoms like swelling, weakness, or confusion.
+- Recheck vital signs and mental status.
+- Monitor daily weight and intake/output.
+- Recheck lab values.
+- Look for improvement in symptoms such as edema, weakness, confusion, or abnormal rhythm.
 
 ## Intravenous Therapy
 
-(IV means intravenous, or into a vein. This section explains IV lines, what they are used for, and common IV problems.)
+(IV means intravenous, or into a vein. This section covers IV access, common uses, and common problems.)
 
 ### Identify indications for intravenous therapy
 
-(These are the main reasons a patient may need IV access.)
+(Common reasons a patient may need IV therapy include:)
 
 - Giving blood
-- Giving nutrition through a vein (parenteral nutrition)
-- Replacing fluids and salts (electrolytes)
 - Giving medicine
+- Replacing fluids and electrolytes
+- Giving parenteral nutrition
 
 ### Differentiate between peripheral and central line access
 
-(These are the two main types of IV access.)
+(These are the two main kinds of IV access.)
 
 #### Peripheral IV
 
-- Put into veins in the arm or hand.
-- Used for short-time treatment and many regular IV fluids.
+- Inserted into a vein in the hand or arm.
+- Used for many short-term treatments.
 
 #### Central line
 
-- The tip ends in a large central vein, usually near the heart.
-- Used for long-term therapy, medicines that can damage tissue if they leak out, parenteral nutrition, or when central access is needed.
+- The catheter tip ends in a large central vein near the heart.
+- Used for long-term therapy, parenteral nutrition, irritating medications, or when central access is needed.
 
 ### Differentiate between peripherally inserted, tunneled central venous, and implanted vascular access devices
 
-(These are common long-term IV devices.)
+(These are common longer-term central devices.)
 
 #### Peripherally inserted central catheter (PICC)
 
-- Inserted through a peripheral vein and advanced to a central vein.
+- Inserted through a peripheral vein and advanced until the tip reaches a central vein.
 - Good for medium- to long-term therapy.
 
 #### Tunneled central venous catheter
 
-- Surgically tunneled under the skin before entering the vein.
+- Placed under the skin before entering the vein.
 - Used for long-term therapy.
 
 #### Implanted port
 
-- Placed under the skin and accessed with a special needle.
+- Sits under the skin and is accessed with a special needle.
 - Useful for long-term intermittent therapy.
 
 ### Differentiate between a continuous and intermittent bolus IV
 
-(This explains the difference between IV fluid running all the time and IV doses given at set times.)
+(One runs steadily. The other runs only at certain times.)
 
 - **Continuous infusion:** fluid runs steadily over time.
-- **Intermittent bolus/IV piggyback:** medication or fluid runs at scheduled intervals.
+- **Intermittent bolus or IV piggyback:** fluid or medication is given at scheduled times.
 
 ### Determine priority assessments when caring for clients with IVs
 
-(These are the most important things to check when a patient has an IV.)
+(These are the main things to check first.)
 
-- Check site for redness, swelling, pain, leakage, or coolness.
-- Verify solution, rate, and tubing connections.
-- Check that the IV is open and flowing, and that the dressing is clean and secure.
-- Assess the patient for signs of fluid overload, infection, and therapy effectiveness.
+- Check the site for redness, swelling, pain, leakage, or coolness.
+- Verify the solution, rate, and tubing connections.
+- Make sure the IV is patent and flowing correctly.
+- Check that the dressing is clean and secure.
+- Assess the patient for infection, fluid overload, and whether the therapy is helping.
 
 ### Identify complications of IV therapy
 
-(These are common problems that can happen with IV treatment.)
+(These are common IV problems.)
 
 #### Inaccurate infusion rates
 
-- Too fast can cause fluid overload and circulatory stress.
-- Too slow may delay needed treatment.
+- Too fast can cause fluid overload.
+- Too slow can delay treatment.
 
 #### Infiltration
 
-- Regular IV fluid leaks into the tissue around the vein.
-- Site may be cool, swollen, pale, and uncomfortable.
+- Regular IV fluid leaks into the tissue.
+- The site may become cool, pale, swollen, and uncomfortable.
 
 #### Extravasation
 
-- A fluid or medicine that can damage tissue leaks into the area around the vein.
-- Can cause severe tissue injury or tissue death.
+- A tissue-damaging fluid or drug leaks into the tissue.
+- This can cause major tissue injury.
 
 #### Phlebitis
 
 - The vein becomes irritated or inflamed.
-- Site may be warm, red, tender, and streaked.
+- The site may look red, warm, tender, or streaked.
 
 #### Infection
 
-- May be local or systemic.
-- Risk increases with poor asepsis or prolonged device use.
+- Can stay at the site or spread systemically.
+- Risk rises when asepsis is poor or the device stays in too long.
 
 #### Fluid overload
 
-- Can occur when fluids infuse too rapidly or patient tolerance is poor.
+- Can happen if fluids run too fast or the patient cannot handle the volume.
 - Watch for edema, crackles, dyspnea, and rising blood pressure.
 
 #### Air embolism
 
-- Air gets into the bloodstream through the IV line.
-- Prevention: prime tubing, secure connections, clamp appropriately during line changes.
+- Air enters the bloodstream through the IV line.
+- Prevention includes priming tubing, securing connections, and clamping appropriately during line changes.
 
 ### Identify methods for preventing complications of IV therapy
 
-(These are the main steps used to reduce IV problems.)
-
 - Use aseptic technique.
-- Assess site and patient frequently.
-- Secure tubing and catheter.
+- Check the site and patient often.
+- Secure the tubing and catheter.
 - Change dressings and tubing per policy.
-- Use infusion pumps when indicated.
-- Stop the infusion promptly if complications are suspected.
+- Use infusion pumps when needed.
+- Stop the infusion quickly if a complication is suspected.
 
 ### Differentiate parenteral from enteral
 
-- **Parenteral:** given by a route other than the digestive tract, such as intravenous therapy.
+- **Parenteral:** given by a route other than the digestive tract, such as IV therapy.
 - **Enteral:** given through the digestive tract, such as by mouth or feeding tube.
 
 ### Differentiate between isotonic, hypertonic, and hypotonic fluids
 
-- **Isotonic fluids:** have a similar concentration to blood and mainly stay in the vascular space.
+(These words tell you how the fluid affects water movement.)
+
+- **Isotonic fluids:** have about the same concentration as blood, so they mainly stay in the bloodstream.
 - **Hypertonic fluids:** pull water into the bloodstream from the cells.
 - **Hypotonic fluids:** move water from the bloodstream into the cells.
 
 ## Quick Memorization Points
 
-(Use these short facts for fast review before the exam.)
+(Use these short facts for fast review.)
 
 - Lower **Braden** score = higher pressure injury risk.
 - **Stage 1** pressure injury = intact skin with nonblanchable redness.
-- **Undermining/tunneling** are usually seen in **Stage 3 and Stage 4** pressure injuries.
+- **Undermining and tunneling** are commonly seen in **Stage 3 and Stage 4** pressure injuries.
 - **Normal saline** is the usual non-cytotoxic wound cleanser.
-- **Soap and water** handwashing is essential for **Clostridioides difficile (C. diff)**.
-- High **lactate** can signal poor perfusion and sepsis severity.
-- **VT/VF** are life-threatening because they do not produce effective cardiac output.
+- **Soap and water** handwashing matters for **C. diff**.
+- High **lactate** can be a warning sign for poor blood flow to tissues and sepsis.
+- **VT and VF** are life-threatening because they do not create effective cardiac output.
 - **Pursed-lip breathing** helps keep small airways open during exhalation.
-- **Hypoventilation** raises carbon dioxide (CO2); **hyperventilation** lowers carbon dioxide (CO2); **hypoxia** means low tissue oxygen.
+- **Hypoventilation** raises carbon dioxide. **Hyperventilation** lowers carbon dioxide. **Hypoxia** means not enough oxygen reaches the tissues.
 
 ## Study Tips
 
-(Use these tips to study actively, not just read passively.)
+(Use these to study actively instead of only rereading.)
 
 - Compare look-alike terms side by side: acute vs chronic inflammation, localized vs systemic infection, infiltration vs extravasation, sterile vs medical asepsis.
-- Memorize major emergency cues: sepsis, evisceration, chest tube problems, opioid oversedation, VT/VF.
-- Study by asking: "What is it?", "Why does it happen?", "What do I assess?", and "What does the nurse do first?"
+- Memorize the big emergencies: sepsis, evisceration, chest tube problems, opioid oversedation, VT/VF.
+- For each topic, ask yourself: **What is it? Why does it happen? What do I assess? What does the nurse do first?**
