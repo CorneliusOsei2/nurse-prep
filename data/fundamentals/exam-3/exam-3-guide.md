@@ -744,7 +744,7 @@ Example:
 
 ---
 
-## Nutrition (Use ATI nutrition skills module for accepted practice overview)
+## Nutrition
 
 (This section is about nutrition risk, therapeutic diets, and enteral or parenteral feeding.)
 

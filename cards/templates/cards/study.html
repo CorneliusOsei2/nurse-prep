@@ -9,13 +9,11 @@
 
   <!-- Header -->
   <header class="page-header">
-    <h1 class="page-title">Study</h1>
+    <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
+    <h1 class="page-title">Flashcards</h1>
     <div class="header-actions">
       <button id="btn-audio" class="icon-btn" title="Toggle Audio">
         <i class="ph-bold ph-speaker-slash" id="audio-icon"></i>
-      </button>
-      <button id="btn-dark-mode" class="icon-btn" title="Toggle Dark Mode">
-        <i class="ph-bold ph-sun" id="dark-icon"></i>
       </button>
       <button id="btn-stats" class="icon-btn" title="View Stats">
         <i class="ph-bold ph-chart-bar"></i>

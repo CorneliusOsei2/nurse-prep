@@ -8,7 +8,7 @@ These are content-only flashcards grouped by the same sections as your outline a
 - **Back** = the answer side.
 - **Why it matters** = a short memory or exam tip.
 
-## Skin Integrity, Inflammation, and Wound Healing (Craven ch. 26 and Norris ch. 9)
+## Skin Integrity, Inflammation, and Wound Healing
 
 ### Card 1
 
@@ -189,7 +189,7 @@ These are content-only flashcards grouped by the same sections as your outline a
 
 **Why it matters:** This is a classic safety choice question on nursing exams.
 
-## Pressure Injury and Wound Care (Craven ch. 26, Hinkle ch. 56 pgs. 1816-1829)
+## Pressure Injury and Wound Care
 
 ### Card 1
 
@@ -448,7 +448,7 @@ These are content-only flashcards grouped by the same sections as your outline a
 
 **Why it matters:** Research-based pressure injury guidance emphasizes device-related pressure injuries, not just sacrum and heels.
 
-## Infection Prevention and Control (Craven: chapters 20 and 27)
+## Infection Prevention and Control
 
 ### Card 1
 

@@ -30,9 +30,15 @@ Use these rules whenever creating or revising content inside `guide/`.
 - Group content by exam in subfolders such as:
   - `guide/exam-1/`
   - `guide/exam-2/`
+- For standalone topic packs that are not tied to a numbered exam, use a short topic folder such as:
+  - `guide/cardio/`
+  - `guide/fluids/`
 - For each exam, prefer these files:
   - one main guide named like `exam-1-guide.md` or `exam-2-guide.md`
   - flashcards
+- For standalone topic packs, prefer these files:
+  - one main guide named like `cardio-guide.md` or `fluids-guide.md`
+  - matching flashcards named like `cardio-flashcards.md` or `fluids-flashcards.md`
 - Do not keep a separate easy-memory guide. Put the clear, simple wording directly into the main guide.
 
 ## Flashcard rules

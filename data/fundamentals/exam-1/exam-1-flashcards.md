@@ -969,7 +969,7 @@ These flashcards are grouped by the same sections as your Exam 1 outline and str
 **Why it matters:** Gait questions often test stability and weight-bearing rules together.
 
 
-## Communication (Craven, Chapter 14)
+## Communication
 
 ### Card 1
 
@@ -1103,7 +1103,7 @@ These flashcards are grouped by the same sections as your Exam 1 outline and str
 **Why it matters:** The nurse’s well-being affects safe care.
 
 
-## Documentation and Informatics (Craven, Chapter 10)
+## Documentation and Informatics
 
 ### Card 1
 

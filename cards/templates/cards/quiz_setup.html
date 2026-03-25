@@ -8,14 +8,12 @@
 <div id="app" class="page">
 
   <header class="page-header">
+    <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
     <h1 class="page-title">Test</h1>
     <div class="header-actions">
       <a href="{% url 'quiz_history' %}" class="icon-btn" title="Test History">
         <i class="ph-bold ph-clock"></i>
       </a>
-      <button id="btn-dark-mode" class="icon-btn" title="Dark Mode">
-        <i class="ph-bold ph-sun" id="dark-icon"></i>
-      </button>
     </div>
   </header>
 
@@ -91,19 +89,6 @@
 
 {% block scripts %}
 <script>
-  const btn = document.getElementById('btn-dark-mode');
-  function applyTheme() {
-    const dark = localStorage.getItem('prep_dark') === '1';
-    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
-    document.getElementById('dark-icon').className = dark ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
-  }
-  btn.addEventListener('click', () => {
-    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-    localStorage.setItem('prep_dark', isDark ? '0' : '1');
-    applyTheme();
-  });
-  applyTheme();
-
   function toggleAllTopics(allCb) {
     var checks = document.querySelectorAll('.topic-pill-check');
     if (allCb.checked) {

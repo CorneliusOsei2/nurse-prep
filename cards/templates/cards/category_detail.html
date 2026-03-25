@@ -12,24 +12,24 @@
   </header>
   <p class="page-subtitle">{{ total_cards }} cards · {{ cat_pct }}% studied</p>
 
-  <!-- Exams -->
+  <!-- Sections -->
   <section class="section">
-    <h2 class="section-title">Exams</h2>
-    <div class="list">
+    <h2 class="section-title">Sections</h2>
+    <div class="section-cards">
       {% for deck in decks %}
-      <a href="{% url 'exam_detail' category.slug deck.id %}" class="list-row">
-        <span class="list-num cn-{{ forloop.counter }}">{{ forloop.counter }}</span>
-        <div class="list-body">
-          <span class="list-name">{{ deck.name }}</span>
-          <span class="list-meta">{{ deck.total }} card{{ deck.total|pluralize }}</span>
+      <a href="{% url 'exam_detail' category.slug deck.id %}" class="section-card sc-{{ forloop.counter }}">
+        <span class="section-card-num">{{ forloop.counter }}</span>
+        <div class="section-card-body">
+          <span class="section-card-name">{{ deck.name }}</span>
+          <span class="section-card-meta">
+            {{ deck.total }} card{{ deck.total|pluralize }}
+            {% if deck.has_guide %} · 📖 Guide{% endif %}
+          </span>
         </div>
-        {% if deck.has_guide %}
-        <span class="list-badge guide"><i class="ph-bold ph-graduation-cap"></i></span>
-        {% endif %}
         {% if deck.pct > 0 %}
-        <span class="list-badge {% if deck.pct >= 80 %}green{% endif %}">{{ deck.pct }}%</span>
+        <span class="section-card-pct {% if deck.pct >= 80 %}green{% endif %}">{{ deck.pct }}%</span>
         {% endif %}
-        <i class="ph-bold ph-caret-right list-arrow"></i>
+        <i class="ph-bold ph-caret-right section-card-arrow"></i>
       </a>
       {% endfor %}
     </div>

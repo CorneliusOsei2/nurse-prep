@@ -623,7 +623,7 @@ This guide follows the Exam 1 outline and turns it into study notes that are eas
 
 ---
 
-## Communication (Craven, Chapter 14)
+## Communication
 
 (This section is about how nurses build trust, gather accurate information, and support clients.)
 
@@ -693,7 +693,7 @@ This guide follows the Exam 1 outline and turns it into study notes that are eas
 
 ---
 
-## Documentation and Informatics (Craven, Chapter 10)
+## Documentation and Informatics
 
 (This section is about safe charting, confidentiality, and clear reporting.)
 

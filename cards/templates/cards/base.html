@@ -13,24 +13,24 @@
   <link rel="icon" href="{% static 'cards/icons/icon.svg' %}" type="image/svg+xml">
   <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/bold/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
-  <link rel="stylesheet" href="{% static 'cards/css/styles.css' %}?v=9">
+  <link rel="stylesheet" href="{% static 'cards/css/styles.css' %}?v=12">
   {% block extra_head %}{% endblock %}
 </head>
 <body>
-  <!-- Top Nav (desktop) / Bottom Nav (mobile) -->
-  {% block bottom_nav %}
-  <nav class="topnav">
-    <div class="topnav-inner">
-      <a href="{% url 'dashboard' %}" class="topnav-brand"><i class="ph-bold ph-heartbeat"></i> Prep</a>
-      <div class="topnav-links">
-        <a href="{% url 'dashboard' %}" class="topnav-link {% block nav_home %}{% endblock %}"><i class="ph-bold ph-house"></i><span>Home</span></a>
-        <a href="{% url 'study' %}" class="topnav-link {% block nav_study %}{% endblock %}"><i class="ph-bold ph-book-open"></i><span>Study</span></a>
-        <a href="{% url 'quiz_setup' %}" class="topnav-link {% block nav_test %}{% endblock %}"><i class="ph-bold ph-clipboard-text"></i><span>Test</span></a>
-        <a href="{% url 'manage' %}" class="topnav-link {% block nav_manage %}{% endblock %}"><i class="ph-bold ph-pencil-simple"></i><span>Cards</span></a>
-      </div>
+  {% block bottom_nav %}{% endblock %}
+
+  <!-- Global Header -->
+  <header class="global-header">
+    <div class="global-header-inner">
+      <a href="{% url 'dashboard' %}" class="global-logo">
+        <span class="global-logo-icon"><i class="ph-bold ph-heartbeat"></i></span>
+        <span class="global-logo-text">Prep</span>
+      </a>
+      <button id="btn-dark-mode-global" class="global-theme-btn" title="Toggle Dark Mode">
+        <i class="ph-bold ph-sun" id="dark-icon-global"></i>
+      </button>
     </div>
-  </nav>
-  {% endblock %}
+  </header>
 
   <main class="main-content">
     {% block body %}{% endblock %}
@@ -40,6 +40,20 @@
     (function() {
       const dark = localStorage.getItem('prep_dark') === '1';
       document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+      // Global dark mode toggle
+      const btn = document.getElementById('btn-dark-mode-global');
+      const icon = document.getElementById('dark-icon-global');
+      function setIcon() {
+        const d = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (icon) icon.className = d ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
+      }
+      setIcon();
+      if (btn) btn.addEventListener('click', function() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        localStorage.setItem('prep_dark', isDark ? '0' : '1');
+        document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
+        setIcon();
+      });
     })();
   </script>
   {% block scripts %}{% endblock %}
