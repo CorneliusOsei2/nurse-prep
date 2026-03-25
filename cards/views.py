@@ -703,9 +703,9 @@ def import_cards_view(request):
 
 def manifest(request):
     data = {
-        "name": "Prep — NCLEX Flashcards",
+        "name": "Prep — Nursing Exam Study",
         "short_name": "Prep",
-        "description": "Study for NCLEX with smart flashcards, spaced repetition & audio",
+        "description": "Study guides, flashcards, quizzes & spaced repetition",
         "start_url": "/",
         "display": "standalone",
         "background_color": "#f0fdfa",
