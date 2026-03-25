@@ -44,4 +44,7 @@ urlpatterns = [
     # PWA
     path('manifest.json', views.manifest, name='manifest'),
     path('sw.js', views.service_worker, name='service_worker'),
+
+    # Cron
+    path('cron', views.cron, name='cron'),
 ]

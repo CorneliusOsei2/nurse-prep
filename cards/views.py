@@ -744,3 +744,7 @@ self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;e.respondWith(fetch(e.request).then(r=>{if(r.ok){const c=r.clone();caches.open(CACHE_NAME).then(cache=>cache.put(e.request,c))}return r}).catch(()=>caches.match(e.request)))});"""
     return HttpResponse(sw_js, content_type='application/javascript')
 
+
+def cron(request):
+    return HttpResponse('hello')
+
