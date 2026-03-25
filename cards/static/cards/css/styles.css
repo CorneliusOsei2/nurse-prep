@@ -863,28 +863,29 @@ a.results-question-header:hover { text-decoration: none; }
 .rating-buttons { display: flex; gap: 8px; justify-content: center; }
 
 .rating-btn {
-  flex: 0; padding: 6px 14px; border-radius: 8px;
-  font-size: 12px; font-weight: 600; font-family: var(--font);
+  flex: 0; padding: 8px 24px; border-radius: 999px;
+  font-size: 13px; font-weight: 600; font-family: var(--font);
   cursor: pointer; transition: all .15s ease;
-  display: flex; align-items: center; justify-content: center; gap: 4px;
+  display: inline-flex; align-items: center; justify-content: center; gap: 5px;
   background: transparent; border: 1.5px solid var(--c-border2); color: var(--c-text2);
+  white-space: nowrap;
 }
 .rating-btn:active { transform: scale(0.95); }
 
 .rating-btn.hard {
   border-color: rgba(220, 38, 38, .3); color: var(--c-danger);
 }
-.rating-btn.hard:hover { background: var(--c-danger); color: #fff; border-color: var(--c-danger); }
+.rating-btn.hard.active { background: var(--c-danger); color: #fff; border-color: var(--c-danger); transform: scale(1.05); }
 
 .rating-btn.medium {
   border-color: rgba(217, 119, 6, .3); color: var(--c-warning);
 }
-.rating-btn.medium:hover { background: var(--c-warning); color: #fff; border-color: var(--c-warning); }
+.rating-btn.medium:hover, .rating-btn.medium.active { background: var(--c-warning); color: #fff; border-color: var(--c-warning); }
 
 .rating-btn.easy {
   border-color: rgba(5, 150, 105, .3); color: var(--c-success);
 }
-.rating-btn.easy:hover { background: var(--c-success); color: #fff; border-color: var(--c-success); }
+.rating-btn.easy.active { background: var(--c-success); color: #fff; border-color: var(--c-success); transform: scale(1.05); }
 
 [data-theme="dark"] .rating-btn.hard { background: var(--c-danger-light); border-color: rgba(239,68,68,.15); color: #f87171; }
 [data-theme="dark"] .rating-btn.medium { background: var(--c-warning-light); border-color: rgba(245,158,11,.15); color: #fbbf24; }
@@ -1383,8 +1384,8 @@ a.results-question-header:hover { text-decoration: none; }
 /* --- Question Blocks --- */
 .exam-q-block { margin-bottom: 20px; scroll-margin-top: 100px; }
 .exam-q-block.completed .exam-question-card { opacity: 0.6; }
-.exam-q-block.completed .exam-question-card.result-correct { border-left-color: var(--c-success); opacity: 1; }
-.exam-q-block.completed .exam-question-card.result-incorrect { border-left-color: var(--c-danger); opacity: 1; }
+.exam-q-block.completed .exam-question-card.result-correct { opacity: 1; }
+.exam-q-block.completed .exam-question-card.result-incorrect { opacity: 1; }
 
 .exam-result-badge {
   display: inline-flex;
@@ -1528,13 +1529,18 @@ a.results-question-header:hover { text-decoration: none; }
 
 .exam-hide-btn {
   display: inline-flex; align-items: center; gap: 4px;
-  padding: 5px 12px; margin-top: 10px;
+  padding: 5px 12px;
   border: none; border-radius: 6px;
   background: none; color: var(--c-text3);
   font-size: 12px; font-weight: 500; font-family: var(--font);
   cursor: pointer; transition: color .15s ease;
+  margin-left: auto;
 }
 .exam-hide-btn:hover { color: var(--c-text2); }
+
+.exam-bottom-row {
+  display: flex; align-items: center; gap: 8px; margin-top: 10px; flex-wrap: wrap;
+}
 
 /* --- Answer Section (inside card) --- */
 .exam-answer-section { margin-top: 16px; animation: slideUp 0.2s ease; }
@@ -2168,6 +2174,12 @@ a.results-question-header:hover { text-decoration: none; }
   color: var(--c-warning, #d97706);
 }
 
+.learn-btn.revise.active {
+  background: var(--c-warning, #d97706);
+  border-color: var(--c-warning, #d97706);
+  color: #fff;
+}
+
 /* ── Markdown body ── */
 .markdown-body {
   font-size: 14px;
@@ -2542,38 +2554,43 @@ label.cat-dropdown-item {
   white-space: pre-line;
 }
 
-.revise-actions {
+.revise-card-row {
   display: flex;
-  gap: 8px;
+  align-items: flex-start;
+  gap: 12px;
 }
 
-.revise-btn {
+.revise-card-content {
   flex: 1;
+  min-width: 0;
+}
+
+.revise-check-btn {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid var(--c-border2);
+  background: transparent;
+  color: var(--c-text3);
+  font-size: 16px;
+  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5px;
-  padding: 8px 12px;
-  border: none;
-  border-radius: 8px;
-  font-size: 13px;
-  font-weight: 600;
-  font-family: var(--font);
-  cursor: pointer;
   transition: all .15s ease;
+  margin-top: 2px;
 }
-
-.revise-btn.study {
-  background: var(--c-bg2);
-  color: var(--c-text2);
+.revise-check-btn:hover {
+  border-color: var(--c-success);
+  color: var(--c-success);
+  background: rgba(5, 150, 105, .08);
 }
-.revise-btn.study:hover { background: var(--c-primary-subtle); color: var(--c-primary); }
-
-.revise-btn.clear {
+.revise-check-btn:active {
   background: var(--c-success);
+  border-color: var(--c-success);
   color: #fff;
 }
-.revise-btn.clear:hover { opacity: .9; }
 
 /* Revise Banner */
 .revise-banner {

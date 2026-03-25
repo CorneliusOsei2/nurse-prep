@@ -26,20 +26,19 @@
     <div class="revise-cards">
       {% for card in cards %}
       <div class="revise-card" id="revise-{{ card.id }}">
-        <div class="revise-q">{{ card.question }}</div>
-        <details class="revise-details">
-          <summary class="revise-show">Show Answer</summary>
-          <div class="revise-a">{{ card.answer }}</div>
-          {% if card.rationale %}
-          <div class="revise-rationale">{{ card.rationale }}</div>
-          {% endif %}
-        </details>
-        <div class="revise-actions">
-          <button class="revise-btn study" onclick="window.location='{% url 'study' %}?section={{ card.guide_section_id }}'">
-            <i class="ph-bold ph-book-open"></i> Study Topic
-          </button>
-          <button class="revise-btn clear" onclick="clearReview({{ card.id }}, this)">
-            <i class="ph-bold ph-check"></i> Got it
+        <div class="revise-card-row">
+          <div class="revise-card-content">
+            <div class="revise-q">{{ card.question }}</div>
+            <details class="revise-details">
+              <summary class="revise-show">Show Answer</summary>
+              <div class="revise-a">{{ card.answer }}</div>
+              {% if card.rationale %}
+              <div class="revise-rationale">{{ card.rationale }}</div>
+              {% endif %}
+            </details>
+          </div>
+          <button class="revise-check-btn" onclick="clearReview({{ card.id }}, this)" title="Got it">
+            <i class="ph-bold ph-check"></i>
           </button>
         </div>
       </div>
@@ -65,10 +64,35 @@
       const data = await res.json();
       if (data.ok) {
         const card = document.getElementById('revise-' + cardId);
+        const section = card.closest('.section');
         card.style.opacity = '0';
         card.style.transform = 'translateX(100px)';
         card.style.transition = 'all .3s ease';
-        setTimeout(function() { card.remove(); }, 300);
+        setTimeout(function() {
+          card.remove();
+          // Remove section heading if no cards left
+          if (section && section.querySelectorAll('.revise-card').length === 0) {
+            section.remove();
+          }
+          // Update total count
+          var remaining = document.querySelectorAll('.revise-card').length;
+          var subtitle = document.querySelector('.page-subtitle');
+          if (subtitle) subtitle.textContent = remaining + ' card' + (remaining !== 1 ? 's' : '') + ' to review';
+          // Show empty state if all done
+          if (remaining === 0) {
+            document.querySelector('.page-subtitle').textContent = '0 cards to review';
+            var sections = document.querySelectorAll('.section');
+            sections.forEach(function(s) { s.remove(); });
+            var page = document.querySelector('.page');
+            var emptyDiv = document.createElement('div');
+            emptyDiv.className = 'empty-msg';
+            emptyDiv.style.marginTop = '40px';
+            emptyDiv.innerHTML = '<i class="ph-bold ph-check-circle" style="font-size:48px; color:var(--c-success); display:block; margin-bottom:12px"></i>'
+              + '<p style="font-size:16px; font-weight:600; color:var(--c-text)">You\'re all caught up!</p>'
+              + '<p>No cards need review right now. Keep studying!</p>';
+            page.appendChild(emptyDiv);
+          }
+        }, 300);
       }
     } catch (e) {
       console.error(e);

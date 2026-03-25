@@ -41,12 +41,12 @@
         {{ s.content_html|safe }}
       </div>
       <div class="learn-section-footer">
+        <button class="learn-btn revise" onclick="markRevise({{ s.id }}, this)">
+          <i class="ph-bold ph-arrow-counter-clockwise"></i> Review
+        </button>
         <button class="learn-btn complete {% if s.completed %}active{% endif %}"
                 onclick="toggleSection(this.closest('.learn-section').querySelector('.learn-check'), {{ s.id }})">
-          <i class="ph-bold ph-check-circle"></i> {% if s.completed %}Completed{% else %}Complete{% endif %}
-        </button>
-        <button class="learn-btn revise" onclick="markRevise({{ s.id }}, this)">
-          <i class="ph-bold ph-arrow-counter-clockwise"></i> Revise
+          <i class="ph-bold ph-check"></i> {% if s.completed %}Got it{% else %}Got it{% endif %}
         </button>
       </div>
     </details>
@@ -142,12 +142,12 @@
           btn.classList.add('checked');
           icon.className = 'ph-bold ph-check-circle';
           section.classList.add('done');
-          if (completeBtn) { completeBtn.classList.add('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check-circle"></i> Completed'; }
+          if (completeBtn) { completeBtn.classList.add('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check"></i> Got it'; }
         } else {
           btn.classList.remove('checked');
           icon.className = 'ph-bold ph-circle';
           section.classList.remove('done');
-          if (completeBtn) { completeBtn.classList.remove('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check-circle"></i> Complete'; }
+          if (completeBtn) { completeBtn.classList.remove('active'); completeBtn.innerHTML = '<i class="ph-bold ph-check"></i> Got it'; }
         }
         updateProgress();
       }
@@ -158,14 +158,32 @@
 
   async function markRevise(sectionId, btn) {
     const section = document.getElementById('section-' + sectionId);
-    // If currently completed, un-complete it
-    if (section.classList.contains('done')) {
-      const checkBtn = section.querySelector('.learn-check');
-      await toggleSection(checkBtn, sectionId);
+    const isActive = btn.classList.contains('active');
+
+    if (isActive) {
+      // Un-mark revise — clear review flags for this section's cards
+      await fetch('/api/section/' + sectionId + '/unrevise/', {
+        method: 'POST',
+        headers: {'X-CSRFToken': '{{ csrf_token }}'},
+      });
+      btn.classList.remove('active');
+      btn.innerHTML = '<i class="ph-bold ph-arrow-counter-clockwise"></i> Review';
+    } else {
+      // Mark for revise — flag all cards in this section for review
+      await fetch('/api/section/' + sectionId + '/revise/', {
+        method: 'POST',
+        headers: {'X-CSRFToken': '{{ csrf_token }}'},
+      });
+      btn.classList.add('active');
+      btn.innerHTML = '<i class="ph-bold ph-arrow-counter-clockwise-fill"></i> Reviewing';
+      // If currently completed, un-complete it
+      if (section.classList.contains('done')) {
+        const checkBtn = section.querySelector('.learn-check');
+        await toggleSection(checkBtn, sectionId);
+      }
+      section.open = true;
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
-    // Scroll to top of section
-    section.open = true;
-    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   function updateProgress() {

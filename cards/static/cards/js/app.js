@@ -198,6 +198,10 @@
     const card = filteredCards[currentIndex];
     if (!card) return;
 
+    // Fill the clicked button immediately
+    const clickedBtn = ratingBar.querySelector(`.rating-btn[data-rating="${rating}"]`);
+    if (clickedBtn) clickedBtn.classList.add('active');
+
     try {
       const url = RATE_URL_TEMPLATE.replace('{id}', card.id);
       const res = await fetch(url, {
@@ -221,7 +225,10 @@
     if (rating >= 3) session.correct++;
     updateSessionStats();
 
-    setTimeout(() => nextCard(), 400);
+    setTimeout(() => {
+      if (clickedBtn) clickedBtn.classList.remove('active');
+      nextCard();
+    }, 700);
   }
 
   // ── Audio / TTS ────────────────────────

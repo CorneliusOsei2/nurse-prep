@@ -29,17 +29,24 @@
           <div class="setup-card-desc">Select topics to test on</div>
         </div>
       </div>
-      <div class="setup-pills">
-        <label class="setup-pill">
-          <input type="checkbox" id="all-topics-check" checked onchange="toggleAllTopics(this)">
-          <span>All Topics</span>
-        </label>
-        {% for topic in topics %}
-        <label class="setup-pill">
-          <input type="checkbox" name="sections" value="{{ topic.id }}" class="topic-pill-check">
-          <span>{{ topic.title }} <small>({{ topic.card_count }})</small></span>
-        </label>
-        {% endfor %}
+      <div class="cat-dropdown-wrap" style="margin-top:8px;">
+        <button type="button" class="cat-dropdown-trigger" id="topic-trigger">
+          <span class="cat-dropdown-label" id="topic-label"><i class="ph-bold ph-squares-four"></i> All Topics</span>
+          <i class="ph-bold ph-caret-down cat-dropdown-caret"></i>
+        </button>
+        <div class="cat-dropdown-menu" id="topic-menu">
+          <label class="cat-dropdown-item">
+            <input type="checkbox" id="all-topics-check" checked data-all="true">
+            <span>All Topics</span>
+          </label>
+          {% for topic in topics %}
+          <label class="cat-dropdown-item">
+            <input type="checkbox" name="sections" value="{{ topic.id }}" class="topic-pill-check">
+            <span>{{ topic.title }}</span>
+            <span class="cat-dropdown-count">{{ topic.card_count }}</span>
+          </label>
+          {% endfor %}
+        </div>
       </div>
     </div>
 
@@ -89,19 +96,54 @@
 
 {% block scripts %}
 <script>
-  function toggleAllTopics(allCb) {
-    var checks = document.querySelectorAll('.topic-pill-check');
-    if (allCb.checked) {
-      checks.forEach(function(c) { c.checked = false; });
+  // Topic dropdown toggle
+  var trigger = document.getElementById('topic-trigger');
+  var menu = document.getElementById('topic-menu');
+  var label = document.getElementById('topic-label');
+  var allCb = document.getElementById('all-topics-check');
+  var topicChecks = document.querySelectorAll('.topic-pill-check');
+
+  trigger.addEventListener('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    menu.classList.toggle('open');
+    trigger.classList.toggle('open');
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!menu.contains(e.target) && e.target !== trigger) {
+      menu.classList.remove('open');
+      trigger.classList.remove('open');
     }
-  }
-  document.querySelectorAll('.topic-pill-check').forEach(function(cb) {
+  });
+
+  menu.addEventListener('click', function(e) { e.stopPropagation(); });
+
+  allCb.addEventListener('change', function() {
+    topicChecks.forEach(function(c) { c.checked = false; });
+    allCb.checked = true;
+    updateLabel();
+  });
+
+  topicChecks.forEach(function(cb) {
     cb.addEventListener('change', function() {
-      var allCb = document.getElementById('all-topics-check');
       if (cb.checked) allCb.checked = false;
-      var anyChecked = Array.from(document.querySelectorAll('.topic-pill-check')).some(function(c) { return c.checked; });
+      var anyChecked = Array.from(topicChecks).some(function(c) { return c.checked; });
       if (!anyChecked) allCb.checked = true;
+      updateLabel();
     });
   });
+
+  function updateLabel() {
+    var selected = Array.from(topicChecks).filter(function(c) { return c.checked; });
+    if (selected.length === 0) {
+      label.innerHTML = '<i class="ph-bold ph-squares-four"></i> All Topics';
+    } else if (selected.length === 1) {
+      var name = selected[0].closest('label').querySelector('span').textContent;
+      label.innerHTML = '<i class="ph-bold ph-book-open"></i> ' + name;
+    } else {
+      label.innerHTML = '<i class="ph-bold ph-book-open"></i> ' + selected.length + ' topics';
+    }
+  }
 </script>
 {% endblock %}

@@ -52,9 +52,10 @@
         + (q.rationale
           ? '    <div class="exam-rationale-block">' + escapeHtml(q.rationale) + '</div>'
           : '')
+        + '    <div class="exam-bottom-row">'
         + '    <div class="exam-assess-row" id="assess-' + i + '">'
         + '      <button class="exam-assess-btn incorrect" onclick="window._answerQuestion(' + i + ', false)">'
-        + '        <i class="ph-bold ph-x"></i> Wrong'
+        + '        <i class="ph-bold ph-arrow-counter-clockwise"></i> Review'
         + '      </button>'
         + '      <button class="exam-assess-btn correct" onclick="window._answerQuestion(' + i + ', true)">'
         + '        <i class="ph-bold ph-check"></i> Got it'
@@ -63,6 +64,7 @@
         + '    <button class="exam-hide-btn" onclick="window._hideAnswer(' + i + ')">'
         + '      <i class="ph-bold ph-eye-slash"></i> Hide Answer'
         + '    </button>'
+        + '    </div>'
         + '  </div>'
         + '</div>'
         + '</div>';
@@ -138,7 +140,7 @@
     // Replace assessment buttons with result badge
     assess.innerHTML = isCorrect
       ? '<div class="exam-result-badge correct"><i class="ph-bold ph-check-circle"></i> You got it right</div>'
-      : '<div class="exam-result-badge incorrect"><i class="ph-bold ph-x-circle"></i> Marked for review</div>';
+      : '<div class="exam-result-badge incorrect"><i class="ph-bold ph-arrow-counter-clockwise"></i> Added to Review</div>';
 
     // Update scoreboard
     $('score-correct').textContent = correctCount;

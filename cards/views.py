@@ -321,6 +321,30 @@ def api_clear_review(request, pk):
     return JsonResponse({'ok': True})
 
 
+@csrf_exempt
+@require_POST
+def api_section_revise(request, pk):
+    """Flag all cards in a guide section for review."""
+    section = get_object_or_404(GuideSection, pk=pk)
+    cards = Card.objects.filter(guide_section=section)
+    count = 0
+    for card in cards:
+        prog, _ = Progress.objects.get_or_create(card=card)
+        prog.needs_review = True
+        prog.save()
+        count += 1
+    return JsonResponse({'ok': True, 'count': count})
+
+
+@csrf_exempt
+@require_POST
+def api_section_unrevise(request, pk):
+    """Clear review flag for all cards in a guide section."""
+    section = get_object_or_404(GuideSection, pk=pk)
+    Progress.objects.filter(card__guide_section=section, needs_review=True).update(needs_review=False)
+    return JsonResponse({'ok': True})
+
+
 # ══════════════════════════════════════════
 #  QUIZ / TEST
 # ══════════════════════════════════════════
@@ -546,8 +570,8 @@ def api_rate_card(request, pk):
     )
     prog.next_review = date.today() + timedelta(days=prog.interval)
 
-    # Flag for review if rated hard
-    if rating <= 2:
+    # Flag for review if rated hard or OK
+    if rating <= 3:
         prog.needs_review = True
     elif rating >= 4:
         prog.needs_review = False
