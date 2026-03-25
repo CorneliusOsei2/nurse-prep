@@ -15,7 +15,7 @@
     {% for quiz in quizzes %}
     <a href="{% url 'quiz_results' quiz.pk %}" class="dash-quiz-row">
       <div class="dash-quiz-info">
-        <span class="dash-quiz-cat"><i class="{{ quiz.category.icon|default:'ph-bold ph-book-open' }}"></i> {{ quiz.category.name|default:"All Categories" }}</span>
+        <span class="dash-quiz-cat"><i class="{% if quiz.category %}{{ quiz.category.icon }}{% else %}ph-bold ph-book-open{% endif %}"></i> {% if quiz.category %}{{ quiz.category.name }}{% else %}All Categories{% endif %}</span>
         <span class="dash-quiz-meta">
           {{ quiz.num_questions }} questions • {{ quiz.duration_display }} • {{ quiz.completed_at|timesince }} ago
         </span>
@@ -35,6 +35,4 @@
 
   <div style="height:80px;"></div>
 </div>
-{% endblock %}
-
 {% endblock %}

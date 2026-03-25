@@ -274,7 +274,6 @@ def learn_view(request, slug, deck_id):
     })
 
 
-@csrf_exempt
 @require_POST
 def api_toggle_guide_section(request, pk):
     section = get_object_or_404(GuideSection, pk=pk)
@@ -309,7 +308,6 @@ def revise_view(request):
     })
 
 
-@csrf_exempt
 @require_POST
 def api_clear_review(request, pk):
     """Remove a card from the review list."""
@@ -321,7 +319,6 @@ def api_clear_review(request, pk):
     return JsonResponse({'ok': True})
 
 
-@csrf_exempt
 @require_POST
 def api_section_revise(request, pk):
     """Flag all cards in a guide section for review."""
@@ -336,7 +333,6 @@ def api_section_revise(request, pk):
     return JsonResponse({'ok': True, 'count': count})
 
 
-@csrf_exempt
 @require_POST
 def api_section_unrevise(request, pk):
     """Clear review flag for all cards in a guide section."""
@@ -360,7 +356,6 @@ def quiz_setup_view(request):
     return render(request, 'cards/quiz_setup.html', {'topics': topics})
 
 
-@csrf_exempt
 @require_POST
 def quiz_start_view(request):
     """Create a new quiz and redirect to the quiz page."""
@@ -426,7 +421,6 @@ def quiz_play_view(request, pk):
     })
 
 
-@csrf_exempt
 @require_POST
 def api_quiz_answer(request, pk):
     """Mark a single quiz question as correct or incorrect."""
@@ -459,7 +453,6 @@ def api_quiz_answer(request, pk):
     })
 
 
-@csrf_exempt
 @require_POST
 def api_quiz_complete(request, pk):
     """Mark quiz as completed, calculate score."""
@@ -541,7 +534,6 @@ def api_cards(request):
     return JsonResponse({'cards': data, 'total': len(data)})
 
 
-@csrf_exempt
 @require_POST
 def api_rate_card(request, pk):
     card = get_object_or_404(Card, pk=pk)

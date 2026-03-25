@@ -74,7 +74,7 @@
       {% for quiz in recent_quizzes %}
       <a href="{% url 'quiz_results' quiz.pk %}" class="list-row">
         <div class="list-body">
-          <span class="list-name">{{ quiz.category.name|default:"All Categories" }}</span>
+          <span class="list-name">{% if quiz.category %}{{ quiz.category.name }}{% else %}All Categories{% endif %}</span>
           <span class="list-meta">{{ quiz.num_questions }}q · {{ quiz.duration_display }}</span>
         </div>
         <span class="list-badge {% if quiz.percentage >= 80 %}green{% elif quiz.percentage < 60 %}red{% endif %}">{{ quiz.percentage }}%</span>
