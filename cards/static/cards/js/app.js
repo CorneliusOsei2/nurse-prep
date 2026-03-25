@@ -255,8 +255,26 @@
 
   function speakCurrent() {
     if (filteredCards.length === 0) return;
+    const btn = $('btn-speak');
+    if (window.speechSynthesis.speaking) {
+      window.speechSynthesis.cancel();
+      if (btn) btn.innerHTML = '<i class="ph-bold ph-speaker-high"></i> Read';
+      return;
+    }
     const card = filteredCards[currentIndex];
-    speak(isFlipped ? `${card.answer}. ${card.rationale}` : card.question);
+    const text = isFlipped ? `${card.answer}. ${card.rationale}` : card.question;
+    if (btn) btn.innerHTML = '<i class="ph-bold ph-stop"></i> Stop';
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate = settings.speechRate;
+    u.lang = 'en-US';
+    const voices = window.speechSynthesis.getVoices();
+    const v = voices.find(v => v.name.includes('Samantha'))
+      || voices.find(v => v.lang === 'en-US' && v.localService)
+      || voices.find(v => v.lang.startsWith('en'));
+    if (v) u.voice = v;
+    u.onend = function() { if (btn) btn.innerHTML = '<i class="ph-bold ph-speaker-high"></i> Read'; };
+    u.onerror = function() { if (btn) btn.innerHTML = '<i class="ph-bold ph-speaker-high"></i> Read'; };
+    window.speechSynthesis.speak(u);
   }
 
   // ── Dark Mode ──────────────────────────
@@ -274,13 +292,8 @@
       ?.setAttribute('content', settings.darkMode ? '#0f172a' : '#0d9488');
   }
 
-  // ── Session Stats ──────────────────────
-  function updateSessionStats() {
-    $('stat-studied').textContent = session.studied.size;
-    $('stat-correct').textContent = session.correct;
-    const acc = session.total > 0 ? Math.round(session.correct / session.total * 100) : 0;
-    $('stat-accuracy').textContent = session.total > 0 ? `${acc}%` : '—';
-  }
+  // ── Session Stats (removed from UI) ────
+  function updateSessionStats() {}
 
   // ── Stats Modal (fetches from API) ─────
   async function showStatsModal() {

@@ -863,10 +863,10 @@ a.results-question-header:hover { text-decoration: none; }
 .rating-buttons { display: flex; gap: 8px; justify-content: center; }
 
 .rating-btn {
-  flex: 1; padding: 10px 14px; border-radius: 10px;
-  font-size: 13px; font-weight: 600; font-family: var(--font);
+  flex: 0; padding: 6px 14px; border-radius: 8px;
+  font-size: 12px; font-weight: 600; font-family: var(--font);
   cursor: pointer; transition: all .15s ease;
-  display: flex; align-items: center; justify-content: center; gap: 5px;
+  display: flex; align-items: center; justify-content: center; gap: 4px;
   background: transparent; border: 1.5px solid var(--c-border2); color: var(--c-text2);
 }
 .rating-btn:active { transform: scale(0.95); }
@@ -2097,6 +2097,21 @@ a.results-question-header:hover { text-decoration: none; }
   text-decoration: line-through;
   color: var(--c-text3);
 }
+
+.learn-audio-btn {
+  background: none;
+  border: none;
+  color: var(--c-text3);
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 6px;
+  font-size: 15px;
+  line-height: 1;
+  transition: color .15s, background .15s;
+  flex-shrink: 0;
+}
+.learn-audio-btn:hover { color: var(--c-primary); background: var(--c-primary-light); }
+.learn-audio-btn.playing { color: var(--c-primary); }
 
 .learn-section-num {
   font-size: 11px;

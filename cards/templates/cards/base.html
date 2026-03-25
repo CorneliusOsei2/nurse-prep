@@ -4,16 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <meta name="theme-color" content="#0d9488">
-  <meta name="description" content="NCLEX Nursing Exam Prep Flashcards">
+  <meta name="description" content=" Nursing Exam Prep Flashcards">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>{% block title %}Prep{% endblock %}</title>
   <link rel="manifest" href="{% url 'manifest' %}">
   {% load static %}
   <link rel="icon" href="{% static 'cards/icons/icon.svg' %}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{% static 'cards/icons/icon.svg' %}">
   <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/bold/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
-  <link rel="stylesheet" href="{% static 'cards/css/styles.css' %}?v=12">
+  <link rel="stylesheet" href="{% static 'cards/css/styles.css' %}?v=13">
   {% block extra_head %}{% endblock %}
 </head>
 <body>
@@ -57,5 +58,10 @@
     })();
   </script>
   {% block scripts %}{% endblock %}
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').catch(function(){});
+    }
+  </script>
 </body>
 </html>

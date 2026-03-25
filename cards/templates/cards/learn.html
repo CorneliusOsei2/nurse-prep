@@ -32,6 +32,9 @@
           <i class="ph-bold {% if s.completed %}ph-check-circle{% else %}ph-circle{% endif %}"></i>
         </button>
         <span class="learn-section-title">{{ s.title }}</span>
+        <button class="learn-audio-btn" onclick="event.preventDefault(); event.stopPropagation(); toggleReadSection(this, {{ s.id }})" title="Read aloud">
+          <i class="ph-bold ph-speaker-high"></i>
+        </button>
         <span class="learn-section-num">{{ forloop.counter }}/{{ total }}</span>
       </summary>
       <div class="learn-section-body markdown-body">
@@ -56,6 +59,74 @@
 
 {% block scripts %}
 <script>
+  // ── TTS for Learn sections ──
+  let _activeReadBtn = null;
+  let _readingUtterance = null;
+
+  function _getBestVoice() {
+    const voices = speechSynthesis.getVoices();
+    return voices.find(v => v.name.includes('Samantha'))
+      || voices.find(v => v.lang === 'en-US' && v.localService)
+      || voices.find(v => v.lang.startsWith('en'))
+      || null;
+  }
+
+  function _stopReading() {
+    speechSynthesis.cancel();
+    if (_activeReadBtn) {
+      _activeReadBtn.classList.remove('playing');
+      _activeReadBtn.querySelector('i').className = 'ph-bold ph-speaker-high';
+      _activeReadBtn = null;
+    }
+    _readingUtterance = null;
+  }
+
+  function toggleReadSection(btn, sectionId) {
+    if (!('speechSynthesis' in window)) return;
+
+    // If this button is already playing, stop
+    if (_activeReadBtn === btn) {
+      _stopReading();
+      return;
+    }
+
+    // Stop any other reading
+    _stopReading();
+
+    // Get the text content from the markdown body
+    const section = document.getElementById('section-' + sectionId);
+    if (!section) return;
+    section.open = true;
+    const body = section.querySelector('.learn-section-body');
+    if (!body) return;
+
+    const text = body.innerText || body.textContent;
+    if (!text.trim()) return;
+
+    // Start reading
+    _activeReadBtn = btn;
+    btn.classList.add('playing');
+    btn.querySelector('i').className = 'ph-bold ph-stop';
+
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate = 1.0;
+    u.lang = 'en-US';
+    const voice = _getBestVoice();
+    if (voice) u.voice = voice;
+
+    u.onend = function() { _stopReading(); };
+    u.onerror = function() { _stopReading(); };
+
+    _readingUtterance = u;
+    speechSynthesis.speak(u);
+  }
+
+  // Preload voices
+  if ('speechSynthesis' in window) {
+    speechSynthesis.getVoices();
+    speechSynthesis.onvoiceschanged = function() {};
+  }
+
   async function toggleSection(btn, sectionId) {
     try {
       const res = await fetch('/api/guide/' + sectionId + '/toggle/', {
