@@ -1233,9 +1233,11 @@ a.results-question-header:hover { text-decoration: none; }
 .cat-bg-teal   { background: rgba(13,148,136,.07); color: #0d9488; }
 .cat-bg-purple { background: rgba(124,58,237,.07); color: #7c3aed; }
 .cat-bg-amber  { background: rgba(217,119,6,.07); color: #d97706; }
+.cat-bg-blue   { background: rgba(59,130,246,.07); color: #3b82f6; }
 [data-theme="dark"] .cat-bg-teal   { background: rgba(13,148,136,.15); color: #2dd4bf; }
 [data-theme="dark"] .cat-bg-purple { background: rgba(124,58,237,.15); color: #a78bfa; }
 [data-theme="dark"] .cat-bg-amber  { background: rgba(217,119,6,.15); color: #fbbf24; }
+[data-theme="dark"] .cat-bg-blue   { background: rgba(59,130,246,.15); color: #60a5fa; }
 
 .setup-card-title { font-size: 14px; font-weight: 600; letter-spacing: -.01em; }
 .setup-card-desc { font-size: 12px; color: var(--c-text3); margin-top: 1px; }

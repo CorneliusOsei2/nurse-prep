@@ -9,6 +9,11 @@
   <header class="page-header">
     <a href="{% url 'dashboard' %}" class="back-link"><i class="ph-bold ph-caret-left"></i></a>
     <h1 class="page-title">Review</h1>
+    {% if total > 0 %}
+    <div class="header-actions">
+      <button class="icon-btn" id="btn-reset-review" title="Clear All"><i class="ph-bold ph-trash"></i></button>
+    </div>
+    {% endif %}
   </header>
   <p class="page-subtitle">{{ total }} card{{ total|pluralize }} to review</p>
 
@@ -97,6 +102,21 @@
     } catch (e) {
       console.error(e);
     }
+  }
+
+  // Reset all
+  var resetBtn = document.getElementById('btn-reset-review');
+  if (resetBtn) {
+    resetBtn.addEventListener('click', async function() {
+      if (!confirm('Clear all review cards?')) return;
+      try {
+        await fetch('/api/clear-all-reviews/', {
+          method: 'POST',
+          headers: {'X-CSRFToken': '{{ csrf_token }}'},
+        });
+        window.location.reload();
+      } catch (e) { console.error(e); }
+    });
   }
 </script>
 {% endblock %}

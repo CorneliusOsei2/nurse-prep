@@ -38,6 +38,7 @@ urlpatterns = [
     path('api/quiz/<int:pk>/complete/', views.api_quiz_complete, name='api_quiz_complete'),
     path('api/guide/<int:pk>/toggle/', views.api_toggle_guide_section, name='api_toggle_guide'),
     path('api/cards/<int:pk>/clear-review/', views.api_clear_review, name='api_clear_review'),
+    path('api/clear-all-reviews/', views.api_clear_all_reviews, name='api_clear_all_reviews'),
     path('api/section/<int:pk>/revise/', views.api_section_revise, name='api_section_revise'),
     path('api/section/<int:pk>/unrevise/', views.api_section_unrevise, name='api_section_unrevise'),
 

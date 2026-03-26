@@ -44,12 +44,20 @@ class Deck(models.Model):
 
 
 class Card(models.Model):
+    CONCEPT = 'concept'
+    APPLICATION = 'application'
+    QUESTION_TYPE_CHOICES = [
+        (CONCEPT, 'Concept'),
+        (APPLICATION, 'Application'),
+    ]
+
     category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='cards')
     deck = models.ForeignKey(Deck, on_delete=models.SET_NULL, null=True, blank=True, related_name='cards')
     guide_section = models.ForeignKey('GuideSection', on_delete=models.SET_NULL, null=True, blank=True, related_name='cards')
     question = models.TextField()
     answer = models.TextField()
     rationale = models.TextField(blank=True, default='')
+    question_type = models.CharField(max_length=20, choices=QUESTION_TYPE_CHOICES, default=CONCEPT)
     is_default = models.BooleanField(default=False)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

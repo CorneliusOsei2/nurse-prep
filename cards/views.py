@@ -320,6 +320,13 @@ def api_clear_review(request, pk):
 
 
 @require_POST
+def api_clear_all_reviews(request):
+    """Remove all cards from the review list."""
+    count = Progress.objects.filter(needs_review=True).update(needs_review=False)
+    return JsonResponse({'ok': True, 'cleared': count})
+
+
+@require_POST
 def api_section_revise(request, pk):
     """Flag all cards in a guide section for review."""
     section = get_object_or_404(GuideSection, pk=pk)
@@ -364,6 +371,11 @@ def quiz_start_view(request):
     time_limit = int(time_limit) if time_limit else None
 
     cards = Card.objects.all()
+
+    # Filter by question type
+    question_type = request.POST.get('question_type', '')
+    if question_type in ('concept', 'application'):
+        cards = cards.filter(question_type=question_type)
 
     # Filter by selected sections (topics)
     section_ids = request.POST.getlist('sections')
