@@ -293,8 +293,6 @@
 
   function applyTheme() {
     document.documentElement.setAttribute('data-theme', settings.darkMode ? 'dark' : 'light');
-    const btn = $('btn-dark-mode');
-    var di = document.getElementById('dark-icon'); if(di) di.className = settings.darkMode ? 'ph-bold ph-moon' : 'ph-bold ph-sun';
     document.querySelector('meta[name="theme-color"]')
       ?.setAttribute('content', settings.darkMode ? '#0f172a' : '#0d9488');
   }
@@ -354,7 +352,6 @@
     $('btn-prev').addEventListener('click', prevCard);
     $('btn-speak').addEventListener('click', speakCurrent);
     $('btn-audio').addEventListener('click', toggleAudio);
-    $('btn-dark-mode').addEventListener('click', toggleDarkMode);
     $('btn-stats').addEventListener('click', showStatsModal);
 
     document.querySelectorAll('.rating-btn').forEach(btn => {

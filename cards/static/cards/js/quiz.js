@@ -236,28 +236,11 @@
     quizFinished = true;
     clearInterval(timerInterval);
 
-    // Mark unanswered as incorrect
-    var promises = [];
-    for (var i = 0; i < QUESTIONS.length; i++) {
-      var block = $('q-block-' + i);
-      if (!block.classList.contains('completed')) {
-        var q = QUESTIONS[i];
-        promises.push(
-          fetch(ANSWER_URL, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
-            body: JSON.stringify({ question_id: q.id, is_correct: false }),
-          }).catch(function() {})
-        );
-      }
-    }
-
-    Promise.all(promises).then(function() {
-      return fetch(COMPLETE_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
-        body: JSON.stringify({}),
-      });
+    // Just complete the quiz — don't mark unanswered as incorrect/for review
+    fetch(COMPLETE_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-CSRFToken': CSRF_TOKEN },
+      body: JSON.stringify({}),
     }).then(function() {
       window.location.href = RESULTS_URL;
     }).catch(function() {
