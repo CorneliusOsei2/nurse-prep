@@ -811,9 +811,6 @@ a.results-question-header:hover { text-decoration: none; }
 
 .card-content {
   flex: 1;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
   text-align: left;
   font-size: 15px;
   line-height: 1.7;
@@ -841,7 +838,7 @@ a.results-question-header:hover { text-decoration: none; }
   font-size: 13px;
   line-height: 1.55;
   color: var(--c-text2);
-  border-left: 3px solid var(--c-primary);
+  border-left: none;
   white-space: pre-line;
   word-break: break-word;
 }
@@ -1314,10 +1311,17 @@ a.results-question-header:hover { text-decoration: none; }
   color: #d97706;
   font-weight: 600;
 }
+.setup-type .setup-pill input:checked + span {
+  border-color: #3b82f6;
+  background: rgba(59,130,246,.06);
+  color: #3b82f6;
+  font-weight: 600;
+}
 
 [data-theme="dark"] .setup-cat .setup-pill input:checked + span { background: rgba(13,148,136,.12); color: #2dd4bf; }
 [data-theme="dark"] .setup-count .setup-pill input:checked + span { background: rgba(124,58,237,.12); color: #a78bfa; }
 [data-theme="dark"] .setup-time .setup-pill input:checked + span { background: rgba(217,119,6,.12); color: #fbbf24; }
+[data-theme="dark"] .setup-type .setup-pill input:checked + span { background: rgba(59,130,246,.12); color: #60a5fa; }
 
 .setup-pills-compact { gap: 6px; }
 .setup-pills-compact .setup-pill span {

@@ -150,6 +150,17 @@
     }
   }
 
+  function formatText(str) {
+    if (!str) return '';
+    // Escape HTML, then convert **bold** and newlines
+    var div = document.createElement('div');
+    div.textContent = str;
+    var escaped = div.innerHTML;
+    return escaped
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\n/g, '<br>');
+  }
+
   function renderCard() {
     const card = filteredCards[currentIndex];
     if (!card) return;
@@ -160,9 +171,9 @@
 
     cardCategory.innerHTML = '<i class="' + (card.categoryIcon || '') + '"></i> ' + card.categoryLabel;
     cardCategoryBack.innerHTML = '<i class="' + (card.categoryIcon || '') + '"></i> ' + card.categoryLabel;
-    cardQuestion.textContent = card.question;
-    cardAnswer.textContent = card.answer;
-    cardRationale.textContent = card.rationale ? card.rationale : '';
+    cardQuestion.innerHTML = formatText(card.question);
+    cardAnswer.innerHTML = formatText(card.answer);
+    cardRationale.innerHTML = formatText(card.rationale);
 
     const pct = filteredCards.length > 0
       ? ((currentIndex + 1) / filteredCards.length * 100).toFixed(0)

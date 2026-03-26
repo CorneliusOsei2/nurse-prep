@@ -87,7 +87,9 @@
   function escapeHtml(str) {
     var div = document.createElement('div');
     div.textContent = str;
-    return div.innerHTML.replace(/\n/g, '<br>');
+    return div.innerHTML
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\n/g, '<br>');
   }
 
   // ── Reveal answer for a question ───────
