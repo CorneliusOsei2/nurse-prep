@@ -522,6 +522,10 @@ def api_cards(request):
         elif len(section_ids) > 1:
             cards = cards.filter(guide_section_id__in=section_ids)
 
+    question_type = request.GET.get('type', '')
+    if question_type in ('concept', 'application'):
+        cards = cards.filter(question_type=question_type)
+
     data = []
     for c in cards:
         prog = Progress.objects.filter(card=c).first()

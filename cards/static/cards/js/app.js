@@ -11,6 +11,7 @@
   let isFlipped = false;
   let activeCategory = 'all';
   let activeSections = [];
+  let activeType = '';
   let studyMode = 'all';
   let settings = { darkMode: localStorage.getItem('prep_dark') === '1', audioEnabled: false, speechRate: 1.0 };
   let session = { studied: new Set(), correct: 0, total: 0 };
@@ -73,6 +74,7 @@
       if (initDeck) params.set('deck', initDeck);
       const sections = activeSections.length ? activeSections : (initSection ? [initSection] : []);
       if (sections.length) params.set('section', sections.join(','));
+      if (activeType) params.set('type', activeType);
       const qs = params.toString();
       const url = qs ? `${API_CARDS_URL}?${qs}` : API_CARDS_URL;
       const res = await fetch(url);
@@ -353,6 +355,18 @@
     $('btn-speak').addEventListener('click', speakCurrent);
     $('btn-audio').addEventListener('click', toggleAudio);
     $('btn-stats').addEventListener('click', showStatsModal);
+
+    // Type filter pills
+    document.querySelectorAll('.type-pill').forEach(pill => {
+      pill.addEventListener('click', async function() {
+        document.querySelectorAll('.type-pill').forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        activeType = pill.dataset.type;
+        await fetchCards(activeCategory);
+        filterCards();
+        showCard();
+      });
+    });
 
     document.querySelectorAll('.rating-btn').forEach(btn => {
       btn.addEventListener('click', e => {
