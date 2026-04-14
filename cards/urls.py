@@ -47,5 +47,5 @@ urlpatterns = [
     path('sw.js', views.service_worker, name='service_worker'),
 
     # Health check
-    path('hello', views.hello, name='hello'),
+    path('ping', views.ping, name='ping'),
 ]

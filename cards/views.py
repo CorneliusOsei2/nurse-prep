@@ -881,5 +881,5 @@ self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;e.respondWi
     return HttpResponse(sw_js, content_type="application/javascript")
 
 
-def hello(request):
+def ping(request):
     return JsonResponse({"status": "ok"})
