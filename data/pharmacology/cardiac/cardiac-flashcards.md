@@ -9,7 +9,14 @@
 
 **Front:** What must you ALWAYS check before giving digoxin, and what is the hold parameter?
 
+A. Blood glucose level and hold if below 70 mg/dL  
+B. Apical pulse for one full minute and hold if HR is below 60 bpm in adults  
+C. Radial pulse for 30 seconds and hold if irregular  
+D. Blood pressure and hold if systolic is below 100 mmHg  
+
 **Back:**
+**Correct answer: B**
+
 - Check the **apical pulse for one full minute** (not radial — apical!)
 - **Hold if heart rate is below 60 bpm** in an adult
 - Also check the digoxin level and potassium level before giving
@@ -22,7 +29,14 @@
 
 **Front:** What is the therapeutic range for digoxin? What level means toxicity?
 
+A. 1.0–3.0 ng/mL; above 3.0 ng/mL indicates toxicity  
+B. 0.1–0.5 ng/mL; above 0.5 ng/mL indicates toxicity  
+C. 0.5–2.0 ng/mL; above 2.0 ng/mL indicates toxicity  
+D. 2.0–4.0 ng/mL; above 4.0 ng/mL indicates toxicity  
+
 **Back:**
+**Correct answer: C**
+
 - Therapeutic range: **0.5–2.0 ng/mL**
 - Above **2.0 ng/mL** = toxicity risk
 - Digoxin has a **narrow therapeutic index** — meaning the helpful dose and the toxic dose are very close together
@@ -33,9 +47,16 @@
 
 ## Card 3
 
-**Front:** Name FOUR signs of digoxin toxicity.
+**Front:** A patient on digoxin reports feeling unwell. Which of the following is a classic sign of digoxin toxicity?
+
+A. Hypertension and flushed skin  
+B. Increased appetite and weight gain  
+C. Tachycardia and chest pain  
+D. Yellow-green halos around lights and bradycardia  
 
 **Back:**
+**Correct answer: D**
+
 1. **Nausea and vomiting** (GI symptoms often appear first)
 2. **Yellow-green halos** around lights (visual changes)
 3. **Bradycardia** (slow heart rate)
@@ -51,7 +72,14 @@ Also: anorexia (loss of appetite), confusion, fatigue
 
 **Front:** Why does LOW potassium (hypokalemia) increase the risk of digoxin toxicity?
 
+A. Digoxin and potassium compete for the same binding sites; low potassium lets digoxin occupy more sites, increasing its effect  
+B. Low potassium causes the kidneys to excrete less digoxin, raising blood levels  
+C. Hypokalemia changes the pH of the blood, converting digoxin into a toxic form  
+D. Low potassium makes the liver metabolize digoxin more slowly  
+
 **Back:**
+**Correct answer: A**
+
 - Digoxin and potassium compete for the same binding sites on heart cells
 - When potassium is low, digoxin fills MORE of those sites
 - More digoxin effect = toxicity even if the digoxin level is "normal"
@@ -65,7 +93,14 @@ Also: anorexia (loss of appetite), confusion, fatigue
 
 **Front:** What is the antidote for severe, life-threatening digoxin toxicity?
 
+A. Naloxone (Narcan) given IV push  
+B. Digoxin immune Fab (Digibind/DigiFab) given IV  
+C. Atropine sulfate given subcutaneously  
+D. Calcium gluconate given IV push  
+
 **Back:**
+**Correct answer: B**
+
 - **Digoxin immune Fab (Digibind/DigiFab)**
 - Given IV for life-threatening toxicity (dangerous arrhythmias, very high levels)
 
@@ -77,7 +112,14 @@ Also: anorexia (loss of appetite), confusion, fatigue
 
 **Front:** What is the CLASSIC side effect of ACE inhibitors (-pril drugs)?
 
+A. Productive cough with green sputum  
+B. Constipation and abdominal bloating  
+C. Peripheral edema and weight gain  
+D. Dry, persistent cough caused by increased bradykinin  
+
 **Back:**
+**Correct answer: D**
+
 - **Dry, persistent cough**
 - Caused by increased bradykinin in the lungs
 - The cough is annoying but not dangerous
@@ -89,9 +131,16 @@ Also: anorexia (loss of appetite), confusion, fatigue
 
 ## Card 7
 
-**Front:** What is angioedema? Why is it dangerous with ACE inhibitors? What do you do?
+**Front:** Which statement correctly describes angioedema associated with ACE inhibitors?
+
+A. It is sudden swelling of the face, lips, or tongue that can block the airway, requiring immediate drug discontinuation  
+B. It is a gradual rash that develops over weeks and is treated with antihistamines while continuing the drug  
+C. It is mild facial flushing that resolves on its own without intervention  
+D. It is swelling of the lower extremities that is managed by elevating the legs  
 
 **Back:**
+**Correct answer: A**
+
 - **Angioedema** = sudden, severe swelling of the face, lips, tongue, or throat
 - It is dangerous because it can **block the airway** — the patient cannot breathe!
 - **Nursing actions:**
@@ -107,9 +156,16 @@ Also: anorexia (loss of appetite), confusion, fatigue
 
 ## Card 8
 
-**Front:** Compare ACE inhibitors (-pril) vs. ARBs (-sartan) — what are the main differences?
+**Front:** Which statement correctly compares ACE inhibitors (-pril) and ARBs (-sartan)?
+
+A. ACE inhibitors cause constipation while ARBs cause a dry cough  
+B. ARBs have a higher risk of angioedema than ACE inhibitors  
+C. ACE inhibitors commonly cause a dry cough, while ARBs rarely do  
+D. ACE inhibitors are safe in pregnancy, but ARBs are not  
 
 **Back:**
+**Correct answer: C**
+
 | Feature | ACE Inhibitor | ARB |
 |---------|--------------|-----|
 | Ending | -pril | -sartan |
@@ -129,7 +185,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** Which electrolyte do you monitor closely with ACE inhibitors and ARBs? Why?
 
+A. Sodium, because these drugs cause the body to retain sodium  
+B. Potassium, because these drugs cause the body to retain potassium, risking hyperkalemia  
+C. Calcium, because these drugs increase calcium excretion  
+D. Magnesium, because these drugs deplete magnesium levels  
+
 **Back:**
+**Correct answer: B**
+
 - **Potassium (K+)**
 - ACE inhibitors and ARBs cause the body to **retain potassium** → risk of **hyperkalemia** (high potassium)
 - Normal potassium: 3.5–5.0 mEq/L
@@ -141,9 +204,16 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 ## Card 10
 
-**Front:** Compare DHP calcium channel blockers (amlodipine) vs. Non-DHP CCBs (diltiazem, verapamil).
+**Front:** Which statement correctly describes the difference between DHP and non-DHP calcium channel blockers?
+
+A. Non-DHP CCBs (diltiazem, verapamil) lower heart rate, while DHP CCBs (amlodipine) do not  
+B. DHP CCBs (amlodipine) lower heart rate, while non-DHP CCBs do not  
+C. Both types lower heart rate equally and require the same hold parameters  
+D. DHP CCBs commonly cause constipation, while non-DHP CCBs cause peripheral edema  
 
 **Back:**
+**Correct answer: A**
+
 | Feature | DHP (amlodipine) | Non-DHP (diltiazem, verapamil) |
 |---------|-------------------|-------------------------------|
 | Main target | Blood vessels | Heart AND blood vessels |
@@ -161,7 +231,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** Your patient is on diltiazem. Heart rate is 56 bpm. What do you do?
 
+A. Give the dose as scheduled since 56 bpm is within normal range  
+B. Give half the dose and recheck the heart rate in one hour  
+C. Check the blood pressure and give the dose if BP is normal  
+D. Hold the dose and notify the provider because HR is below 60 bpm  
+
 **Back:**
+**Correct answer: D**
+
 - **Hold the dose and notify the provider**
 - Diltiazem is a non-DHP calcium channel blocker that slows the heart rate
 - Hold parameter: HR below 60 bpm
@@ -173,9 +250,16 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 ## Card 12
 
-**Front:** What is the nitroglycerin sublingual protocol for chest pain?
+**Front:** Which statement correctly describes the sublingual nitroglycerin protocol for chest pain?
+
+A. Give 1 tablet every 10 minutes for up to 5 doses, then call 911 if pain persists  
+B. Give 2 tablets at once, wait 15 minutes, then give 2 more tablets if pain persists  
+C. Give 1 tablet every 5 minutes for up to 3 doses, then call 911 if pain persists  
+D. Give 1 tablet, wait 10 minutes, give a second tablet, then call 911 if pain persists  
 
 **Back:**
+**Correct answer: C**
+
 1. Sit or lie the patient down
 2. Check blood pressure
 3. Give **1 tablet under the tongue**
@@ -195,7 +279,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** Why should nitroglycerin NEVER be given with PDE5 inhibitors (sildenafil/Viagra)?
 
+A. PDE5 inhibitors block the absorption of nitroglycerin, making it ineffective  
+B. Both drugs dilate blood vessels, and together they can cause severe, life-threatening hypotension  
+C. PDE5 inhibitors convert nitroglycerin into a toxic metabolite in the liver  
+D. The combination causes dangerous tachycardia and hypertensive crisis  
+
 **Back:**
+**Correct answer: B**
+
 - Both drugs dilate blood vessels and lower blood pressure
 - Together they can cause **severe, life-threatening hypotension**
 - The blood pressure can drop so low that the patient goes into shock
@@ -209,7 +300,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** How should sublingual nitroglycerin tablets be stored?
 
+A. In the original dark glass bottle, away from light, heat, and moisture, and replaced every 6 months  
+B. In a plastic pill organizer kept in the bathroom medicine cabinet for easy access  
+C. In any airtight container stored in the refrigerator and replaced every 2 years  
+D. In a clear glass bottle on the kitchen counter for quick access during emergencies  
+
 **Back:**
+**Correct answer: A**
+
 - In the **original dark glass bottle**
 - Away from **light, heat, and moisture**
 - **Replace every 6 months** (they lose potency)
@@ -224,7 +322,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** A patient on nitroglycerin complains of a headache. Is this a problem?
 
+A. Yes, it indicates an allergic reaction and the drug should be stopped immediately  
+B. Yes, it suggests the blood pressure is dangerously high and needs rechecking  
+C. Yes, it means the dose is too high and should be reduced right away  
+D. No, headache is an expected side effect from vasodilation and can be treated with acetaminophen  
+
 **Back:**
+**Correct answer: D**
+
 - **No — a headache is an EXPECTED side effect**
 - It happens because nitroglycerin dilates blood vessels in the head
 - Actually, the headache tells us the drug is working!
@@ -239,7 +344,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** What is the biggest safety concern with statins (-statin drugs)?
 
+A. Severe hypotension requiring frequent blood pressure monitoring  
+B. Hyperkalemia leading to dangerous cardiac arrhythmias  
+C. Myopathy that can progress to rhabdomyolysis and kidney failure  
+D. Respiratory depression requiring pulse oximetry monitoring  
+
 **Back:**
+**Correct answer: C**
+
 - **Myopathy (muscle pain/damage)** that can progress to **rhabdomyolysis**
 - Rhabdomyolysis = severe muscle breakdown → muscle contents flood the blood → **kidney failure**
 - Warning signs: unexplained muscle pain, weakness, dark (cola-colored) urine
@@ -253,7 +365,14 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 **Front:** Why do some statins need to be taken at bedtime?
 
+A. Statins cause drowsiness, so taking them at bedtime reduces daytime sedation  
+B. The liver produces the most cholesterol at night, so short-acting statins work best at bedtime  
+C. Statins interact with food, and taking them at bedtime ensures an empty stomach  
+D. Bedtime dosing prevents the photosensitivity reaction that occurs with daytime use  
+
 **Back:**
+**Correct answer: B**
+
 - The liver makes the most cholesterol **at night**
 - Short-acting statins (simvastatin, lovastatin) work best when taken at bedtime to match this peak
 - Long-acting statins (atorvastatin, rosuvastatin) can be taken at any time of day because they stay in the body longer
@@ -264,9 +383,16 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 ## Card 18
 
-**Front:** Which cardiac drugs are contraindicated in pregnancy? (Name at least 3 classes)
+**Front:** Which of the following drug classes are ALL contraindicated in pregnancy?
+
+A. ACE inhibitors, ARBs, and statins  
+B. Beta-blockers, calcium channel blockers, and diuretics  
+C. Nitroglycerin, digoxin, and amiodarone  
+D. ACE inhibitors, beta-blockers, and calcium channel blockers  
 
 **Back:**
+**Correct answer: A**
+
 1. **ACE inhibitors** (-pril) — can cause birth defects and fetal kidney damage
 2. **ARBs** (-sartan) — same risks as ACE inhibitors
 3. **Statins** (-statin) — can cause birth defects
@@ -279,9 +405,16 @@ Both protect the heart and kidneys. Both are contraindicated in pregnancy.
 
 ## Card 19
 
-**Front:** What are FIVE things to monitor with amiodarone? Why is it called a "high-risk" drug?
+**Front:** A patient is started on amiodarone. Which organ systems should the nurse monitor for toxicity?
+
+A. Brain, kidneys, pancreas, bones, and blood cells  
+B. Kidneys, stomach, joints, skin, and blood vessels  
+C. Heart, kidneys, pancreas, lungs, and bones  
+D. Lungs, liver, thyroid, eyes, and skin  
 
 **Back:**
+**Correct answer: D**
+
 Remember: **Lungs, Liver, Thyroid, Eyes, Skin**
 1. **Lungs** — pulmonary toxicity (cough, shortness of breath, chest X-ray, PFTs)
 2. **Liver** — liver toxicity (ALT, AST, jaundice)
@@ -299,7 +432,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient takes digoxin AND furosemide (Lasix). Why is this combination risky? What do you monitor?
 
+A. Furosemide increases digoxin absorption, causing blood levels to spike dangerously  
+B. Both drugs raise potassium levels, increasing the risk of fatal hyperkalemia  
+C. Furosemide depletes potassium, and low potassium increases the risk of digoxin toxicity  
+D. The combination causes severe hypertension due to excess fluid retention  
+
 **Back:**
+**Correct answer: C**
+
 - **Furosemide is a potassium-wasting diuretic** — it causes the body to lose potassium
 - **Low potassium (hypokalemia) increases digoxin toxicity risk**
 - So the furosemide can lower potassium → which makes the digoxin more dangerous
@@ -314,7 +454,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on verapamil reports constipation. Is this expected?
 
+A. Yes, constipation is a well-known side effect because verapamil slows GI smooth muscle activity  
+B. No, constipation suggests a bowel obstruction and requires immediate imaging  
+C. No, verapamil typically causes diarrhea, not constipation  
+D. Yes, but only if the patient is also taking a statin at the same time  
+
 **Back:**
+**Correct answer: A**
+
 - **YES — constipation is a well-known side effect of verapamil**
 - Verapamil slows smooth muscle activity in the GI tract
 - **Nursing interventions:**
@@ -331,7 +478,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Which lab do you check if a patient on a statin complains of muscle pain?
 
+A. ALT and AST to assess for liver damage  
+B. CK (creatine kinase) to screen for muscle damage and rhabdomyolysis  
+C. BUN and creatinine to assess kidney function  
+D. Troponin to rule out a myocardial infarction  
+
 **Back:**
+**Correct answer: B**
+
 - **CK (creatine kinase)** — also called CPK
 - An elevated CK indicates muscle damage
 - This screens for **rhabdomyolysis** (severe muscle breakdown)
@@ -345,7 +499,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Your patient is on an ACE inhibitor and you notice their lips and tongue are swelling. What is your FIRST action?
 
+A. Administer an antihistamine and continue monitoring the swelling  
+B. Lower the head of the bed and call the provider  
+C. Increase IV fluids to maintain blood pressure  
+D. Stop the ACE inhibitor immediately and maintain the airway  
+
 **Back:**
+**Correct answer: D**
+
 - **STOP the drug immediately** (first priority — remove the cause)
 - Then: maintain the airway, call for emergency help, prepare for possible epinephrine
 - This is **angioedema** — a life-threatening allergic-type reaction
@@ -361,7 +522,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient says their nitroglycerin tablet did not tingle when they put it under their tongue. What does this suggest?
 
+A. The patient has developed a tolerance to nitroglycerin and needs a higher dose  
+B. The tablet is working correctly since tingling is not always present  
+C. The tablet may be expired or improperly stored and should be replaced  
+D. The patient placed the tablet on top of the tongue instead of under it  
+
 **Back:**
+**Correct answer: C**
+
 - The tablet may be **expired or improperly stored**
 - Fresh nitroglycerin should cause a slight **tingling or burning** sensation under the tongue
 - **Teach the patient:**
@@ -377,7 +545,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** What is the grapefruit interaction with statins, and which statins are affected?
 
+A. Grapefruit inhibits CYP3A4, raising levels of simvastatin, atorvastatin, and lovastatin and increasing myopathy risk  
+B. Grapefruit increases stomach acid, preventing statin absorption and making the drug less effective  
+C. Grapefruit causes all statins to be excreted faster through the kidneys, reducing their effectiveness  
+D. Grapefruit only interacts with pravastatin and rosuvastatin, causing liver toxicity  
+
 **Back:**
+**Correct answer: A**
+
 - Grapefruit inhibits the enzyme (CYP3A4) that breaks down certain statins in the body
 - This means MORE drug stays in the blood → higher drug levels → more risk of side effects (especially myopathy)
 - **Affected statins:** simvastatin, atorvastatin, lovastatin
@@ -392,7 +567,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Your patient takes lisinopril. Their potassium level is 5.8 mEq/L. What do you do?
 
+A. Give the lisinopril as scheduled because ACE inhibitors help lower potassium levels  
+B. Hold the lisinopril and notify the provider immediately because 5.8 mEq/L is dangerously high  
+C. Administer a potassium supplement to balance the electrolyte levels  
+D. Recheck the potassium in 24 hours and continue the medication as ordered  
+
 **Back:**
+**Correct answer: B**
+
 - **Hold the lisinopril and notify the provider immediately**
 - Normal potassium: 3.5–5.0 mEq/L
 - 5.8 is dangerously high (**hyperkalemia**)
@@ -408,7 +590,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** The apical pulse is 54 and digoxin is due. What do you do?
 
+A. Give the digoxin because 54 bpm is acceptable for a patient on cardiac medication  
+B. Give half the dose and recheck the pulse in 30 minutes  
+C. Check the radial pulse to confirm, then give the digoxin if the radial pulse is above 60  
+D. Hold the digoxin and notify the provider because the heart rate is below 60 bpm  
+
 **Back:**
+**Correct answer: D**
+
 - **Hold the digoxin. Do NOT give it.**
 - 54 bpm is below the hold parameter of 60 bpm
 - Notify the provider and document your findings
@@ -424,7 +613,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Potassium is 3.2 mEq/L and the patient is on digoxin + furosemide. Why is this dangerous?
 
+A. Furosemide caused low potassium, and hypokalemia increases digoxin toxicity risk even at normal digoxin levels  
+B. The low potassium will cause digoxin to be excreted too quickly, making it ineffective  
+C. Furosemide and digoxin together always cause hyperkalemia at this potassium level  
+D. A potassium of 3.2 is within normal range and not a concern with this drug combination  
+
 **Back:**
+**Correct answer: A**
+
 - Normal potassium: **3.5–5.0 mEq/L** → 3.2 is LOW (hypokalemia)
 - **Furosemide (Lasix) caused the low potassium** — it is a potassium-wasting diuretic
 - **Low potassium increases digoxin toxicity** — even if the digoxin level looks "normal"
@@ -440,7 +636,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on digoxin says "Everything looks yellow-green." What is happening?
 
+A. The patient is experiencing a normal adjustment period to digoxin therapy  
+B. The patient is having an allergic reaction to the digoxin formulation  
+C. This is a classic sign of digoxin toxicity requiring the drug to be held and levels checked  
+D. The patient has developed cataracts unrelated to the medication  
+
 **Back:**
+**Correct answer: C**
+
 - This is a **classic sign of digoxin toxicity**
 - Yellow-green halos or tinted vision = the digoxin level is too high
 - **What to do:**
@@ -459,7 +662,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Why does hypokalemia increase digoxin toxicity? Explain it simply.
 
+A. Low potassium causes the kidneys to stop filtering digoxin, so blood levels rise dangerously  
+B. Potassium and digoxin compete for the same binding sites on heart cells; when potassium is low, digoxin occupies more sites, causing a stronger toxic effect  
+C. Hypokalemia changes the blood pH, converting digoxin into an active toxic metabolite  
+D. Low potassium makes the liver metabolize digoxin into a more dangerous form  
+
 **Back:**
+**Correct answer: B**
+
 - Picture a parking lot with 100 spaces 🅿️
 - **Potassium and digoxin both want to park** in the same spots on heart cells
 - When potassium is normal, they share the spots — everything is balanced
@@ -474,9 +684,16 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 ## Card 31
 
-**Front:** What do you teach a patient at home about checking their pulse before taking digoxin?
+**Front:** Which instruction should the nurse include when teaching a patient about self-monitoring before taking digoxin at home?
+
+A. Check the pulse at the neck for 15 seconds and multiply by four before each dose  
+B. Only check the pulse if you feel dizzy or lightheaded before taking the pill  
+C. Take the digoxin first, then check your pulse 30 minutes afterward  
+D. Count your radial pulse for one full minute before each dose and do not take the pill if it is below 60 bpm  
 
 **Back:**
+**Correct answer: D**
+
 - **"Check your pulse EVERY time before you take your digoxin pill"**
 - Teach them to count at the **wrist (radial pulse)** for **one full minute** (at home, radial is fine)
 - If the pulse is **below 60**, do NOT take the pill
@@ -494,7 +711,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on digoxin has HR 48, nausea, and blurred vision. What is the priority action?
 
+A. Hold the digoxin and check digoxin and potassium levels STAT  
+B. Give an antiemetic for the nausea and continue monitoring  
+C. Administer the next dose of digoxin and notify the provider at rounds  
+D. Encourage the patient to rest and recheck vital signs in 4 hours  
+
 **Back:**
+**Correct answer: A**
+
 - **This is digoxin toxicity until proven otherwise!**
 - All three signs point to it: bradycardia (48), GI symptoms (nausea), visual changes (blurred vision)
 - **Priority actions (in order):**
@@ -512,7 +736,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on lisinopril develops lip and tongue swelling. What is this and what do you do FIRST?
 
+A. It is an expected side effect; administer an antihistamine and continue the drug  
+B. It is a mild allergic reaction; reduce the dose and monitor closely  
+C. It is angioedema; stop the lisinopril immediately and prepare to manage the airway  
+D. It is peripheral edema; elevate the head of the bed and apply ice  
+
 **Back:**
+**Correct answer: C**
+
 - This is **angioedema** — a life-threatening reaction to the ACE inhibitor
 - The swelling can close the airway — the patient could stop breathing!
 - **FIRST action: STOP the lisinopril immediately**
@@ -532,7 +763,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** Potassium is 5.8 mEq/L in a patient on lisinopril. What is the concern and what do you do?
 
+A. The potassium is low and the nurse should administer an oral potassium supplement immediately  
+B. The potassium is dangerously high; hold the lisinopril, notify the provider, and expect orders for IV calcium gluconate  
+C. The potassium is within normal range; continue the medication as scheduled  
+D. The potassium is slightly elevated; increase fluid intake and recheck in one week  
+
 **Back:**
+**Correct answer: B**
+
 - Normal K+: **3.5–5.0 mEq/L** → 5.8 is HIGH (**hyperkalemia**)
 - ACE inhibitors cause the body to **hold onto potassium** → levels can get dangerously high
 - **Hyperkalemia can cause fatal heart arrhythmias** — this is an emergency!
@@ -550,7 +788,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient has a dry cough on lisinopril. The provider switches to losartan. Why?
 
+A. ACE inhibitors cause a dry cough from bradykinin buildup; ARBs do not cause this side effect  
+B. Losartan is more effective at lowering blood pressure than lisinopril  
+C. Lisinopril caused hyperkalemia, and losartan does not affect potassium levels  
+D. The dry cough indicates lisinopril is not working, and losartan uses a completely different mechanism  
+
 **Back:**
+**Correct answer: A**
+
 - The **dry cough is a common side effect of ACE inhibitors** (-pril drugs)
 - It is caused by a buildup of **bradykinin** in the lungs
 - **ARBs (-sartan drugs) do NOT cause this cough** because they work differently
@@ -567,7 +812,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** What do you teach a patient on an ACE inhibitor about pregnancy?
 
+A. ACE inhibitors are safe during the first trimester but should be stopped in the third trimester  
+B. ACE inhibitors may cause mild drowsiness in the newborn but are otherwise safe  
+C. ACE inhibitors only affect male fertility and are safe for pregnant women  
+D. ACE inhibitors can cause birth defects, fetal kidney damage, and fetal death; stop the drug and notify the provider if pregnancy occurs  
+
 **Back:**
+**Correct answer: D**
+
 - **ACE inhibitors are DANGEROUS in pregnancy — they can cause:**
   - Birth defects
   - Fetal kidney damage and failure
@@ -587,7 +839,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on enalapril has a creatinine increase from 1.0 to 1.8 mg/dL. Should the nurse be concerned?
 
+A. No, a creatinine of 1.8 is within the normal range and does not require follow-up  
+B. No, ACE inhibitors always raise creatinine temporarily, and it will return to normal on its own  
+C. Yes, an 80% increase in creatinine suggests the ACE inhibitor may be impairing kidney function; notify the provider  
+D. Yes, but only if the patient also has elevated potassium levels at the same time  
+
 **Back:**
+**Correct answer: C**
+
 - **YES — be concerned!**
 - A creatinine jump of **more than 30% from baseline** is a red flag
 - This went up 80% (1.0 → 1.8) — that is significant
@@ -604,9 +863,16 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 ## Card 38
 
-**Front:** Amlodipine vs. diltiazem — which one lowers heart rate and which one doesn't?
+**Front:** Which statement correctly describes the heart rate effects of amlodipine and diltiazem?
+
+A. Amlodipine lowers heart rate and requires a hold parameter of 60 bpm; diltiazem does not affect heart rate  
+B. Diltiazem lowers heart rate and requires a hold parameter of 60 bpm; amlodipine does not lower heart rate  
+C. Both drugs lower heart rate equally and both require heart rate checks before administration  
+D. Neither drug affects heart rate; both primarily lower blood pressure through vasodilation only  
 
 **Back:**
+**Correct answer: B**
+
 - **Diltiazem LOWERS heart rate** (non-DHP calcium channel blocker)
   - Acts on the heart AND blood vessels
   - Must check HR before giving — hold if HR < 60
@@ -625,7 +891,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on diltiazem has HR 52 and BP 88/56. What do you do?
 
+A. Hold the diltiazem, keep the patient in bed, and notify the provider immediately because both HR and BP are critically low  
+B. Give the diltiazem because it will help raise the blood pressure through vasodilation  
+C. Administer the diltiazem with a glass of orange juice to prevent further blood pressure drops  
+D. Give half the scheduled dose and recheck vitals in 15 minutes  
+
 **Back:**
+**Correct answer: A**
+
 - **Hold the diltiazem — do NOT give it!**
 - BOTH the heart rate AND blood pressure are too low
   - HR 52 = below the hold parameter of 60
@@ -645,7 +918,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient is on both metoprolol and verapamil. Why is this combination risky?
 
+A. Metoprolol raises heart rate while verapamil lowers it, causing unpredictable rhythm changes  
+B. Both drugs cause hyperkalemia, increasing the risk of fatal cardiac arrest  
+C. Verapamil blocks the absorption of metoprolol, making the beta-blocker ineffective  
+D. Both drugs slow heart rate and lower blood pressure, risking severe bradycardia, heart block, and dangerous hypotension  
+
 **Back:**
+**Correct answer: D**
+
 - **Both drugs slow the heart rate and lower blood pressure**
   - Metoprolol = beta-blocker → slows HR, lowers BP
   - Verapamil = non-DHP CCB → slows HR, lowers BP
@@ -663,7 +943,14 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 **Front:** A patient on amlodipine has ankle swelling. Is this the drug or heart failure?
 
+A. It is always heart failure and requires immediate emergency intervention  
+B. It is never from the drug; ankle swelling always indicates fluid overload  
+C. It is most likely a side effect of amlodipine, but the nurse should also assess for signs of heart failure  
+D. It indicates an allergic reaction to amlodipine, and the drug should be stopped immediately  
+
 **Back:**
+**Correct answer: C**
+
 - **Most likely the drug!** Ankle swelling (peripheral edema) is a very common side effect of amlodipine.
 - **Why it happens:** Amlodipine relaxes blood vessels → blood pools in the legs → fluid leaks into tissues → swollen ankles
 - **BUT always assess for heart failure too!** Look for:
@@ -680,9 +967,16 @@ It is "high-risk" because it affects almost every organ system and stays in the 
 
 ## Card 42
 
-**Front:** Walk through the 3-dose nitroglycerin protocol for chest pain, step by step.
+**Front:** Which statement correctly describes the step-by-step nitroglycerin protocol for chest pain?
+
+A. Give 3 tablets at once sublingually, wait 15 minutes, and call 911 if pain persists  
+B. Give 1 tablet every 5 minutes for up to 3 doses, check BP before each dose, and call 911 if pain persists after 15 minutes  
+C. Give 1 tablet every 15 minutes for up to 3 doses and call 911 if pain persists after 45 minutes  
+D. Give 2 tablets initially, then 1 more after 10 minutes, and call 911 if pain persists after 20 minutes  
 
 **Back:**
+**Correct answer: B**
+
 Here is the protocol — memorize these steps! 📋
 
 1. **Patient has chest pain** → have them sit or lie down
@@ -704,7 +998,14 @@ Here is the protocol — memorize these steps! 📋
 
 **Front:** A patient took sildenafil (Viagra) last night and now has chest pain. Can you give nitroglycerin?
 
+A. No, both drugs cause vasodilation and together can cause severe, life-threatening hypotension; wait at least 24–48 hours  
+B. Yes, but only give one dose instead of the usual three-dose protocol  
+C. Yes, as long as the blood pressure is above 100 mmHg systolic before administering  
+D. No, because sildenafil completely neutralizes the effects of nitroglycerin  
+
 **Back:**
+**Correct answer: A**
+
 - **NO! Absolutely not!** 🚫
 - **Both drugs are vasodilators** (they relax blood vessels and lower blood pressure)
 - Together they can cause **severe, life-threatening hypotension** — blood pressure can crash so low the patient goes into shock
@@ -722,7 +1023,14 @@ Here is the protocol — memorize these steps! 📋
 
 **Front:** After sublingual nitroglycerin, the BP drops to 82/50. What do you do?
 
+A. Give another nitroglycerin tablet to help open the coronary arteries further  
+B. Sit the patient upright to improve breathing and reduce dizziness  
+C. Administer epinephrine to raise the blood pressure immediately  
+D. Stop nitroglycerin, lay the patient flat with legs elevated, and start IV fluids if ordered  
+
 **Back:**
+**Correct answer: D**
+
 - **This is hypotension from the nitroglycerin** — the drug lowered the BP too much
 - **Actions (in order):**
   1. **Do NOT give another nitroglycerin dose**
@@ -740,9 +1048,16 @@ Here is the protocol — memorize these steps! 📋
 
 ## Card 45
 
-**Front:** How should nitroglycerin be stored and why?
+**Front:** Which statement about nitroglycerin storage is correct?
+
+A. Store in a plastic pill organizer in the bathroom for easy daily access  
+B. Keep in any airtight container in the refrigerator and replace every 2 years  
+C. Store in the original dark glass bottle away from light, heat, and moisture, and replace every 6 months  
+D. Transfer to a clear bottle and keep on the nightstand; tablets remain potent indefinitely  
 
 **Back:**
+**Correct answer: C**
+
 - Store in the **original dark glass bottle** (protects from light)
 - Keep away from **light, heat, and moisture** — all three break down NTG
 - Do **NOT** store in the bathroom (too much humidity)
@@ -759,7 +1074,14 @@ Here is the protocol — memorize these steps! 📋
 
 **Front:** A patient on atorvastatin reports severe muscle pain and dark (cola-colored) urine. What do you suspect?
 
+A. A urinary tract infection causing dark urine unrelated to the statin  
+B. Rhabdomyolysis, a life-threatening muscle breakdown that can lead to kidney failure  
+C. Dehydration from inadequate fluid intake while taking the statin  
+D. A normal side effect of atorvastatin that resolves on its own within a few days  
+
 **Back:**
+**Correct answer: B**
+
 - **Rhabdomyolysis** — a life-threatening breakdown of muscle tissue 🚨
 - The muscles are breaking down → **myoglobin** floods the bloodstream → the kidneys try to filter it → **kidney failure**
 - The dark urine IS the myoglobin coming out
@@ -776,9 +1098,16 @@ Here is the protocol — memorize these steps! 📋
 
 ## Card 47
 
-**Front:** What labs do you monitor for a patient on statins and why?
+**Front:** Which set of labs should the nurse monitor for a patient on statin therapy?
+
+A. Liver function tests (ALT, AST), CK if muscle pain occurs, and a lipid panel to assess effectiveness  
+B. BUN, creatinine, and urinalysis to monitor kidney function  
+C. TSH, T3, and T4 to monitor thyroid function  
+D. CBC, platelet count, and INR to monitor for bleeding risk  
 
 **Back:**
+**Correct answer: A**
+
 - **Liver function tests (ALT, AST)**
   - Statins can cause liver damage (hepatotoxicity)
   - Checked at baseline and periodically
@@ -798,7 +1127,14 @@ Here is the protocol — memorize these steps! 📋
 
 **Front:** A patient asks "Can I drink grapefruit juice with my statin?" What do you say?
 
+A. Grapefruit juice is fine in small amounts and does not interact with any statins  
+B. Grapefruit juice only interacts with pravastatin and rosuvastatin, so other statins are safe  
+C. Grapefruit juice speeds up statin metabolism, making the drug less effective  
+D. Avoid grapefruit juice because it blocks the enzyme that breaks down certain statins, increasing the risk of muscle damage  
+
 **Back:**
+**Correct answer: D**
+
 - **"It is best to avoid grapefruit juice while taking your statin."**
 - **Why:** Grapefruit blocks the enzyme (CYP3A4) that breaks down certain statins
 - This means **more drug stays in your blood** → higher levels → more risk of muscle damage and rhabdomyolysis
@@ -814,9 +1150,16 @@ Here is the protocol — memorize these steps! 📋
 
 ## Card 49
 
-**Front:** What are the major organ systems amiodarone can damage? Name at least 4.
+**Front:** Which group of organ systems is most commonly affected by amiodarone toxicity?
+
+A. Brain, kidneys, pancreas, and bone marrow  
+B. Stomach, intestines, bladder, and spleen  
+C. Lungs, liver, thyroid, eyes, and skin  
+D. Heart, kidneys, adrenal glands, and joints  
 
 **Back:**
+**Correct answer: C**
+
 Remember this memory trick: **"Amiodarone affects Lungs, Liver, Thyroid, Eyes, and Skin"** 🫁🫀
 
 1. **Lungs** — pulmonary toxicity/fibrosis (most dangerous!) → monitor with chest X-ray and PFTs
@@ -835,7 +1178,14 @@ Remember this memory trick: **"Amiodarone affects Lungs, Liver, Thyroid, Eyes, a
 
 **Front:** A patient on amiodarone is going on vacation to the beach. What do you teach?
 
+A. Wear SPF 50+ sunscreen, protective clothing, and avoid direct sun because amiodarone causes severe photosensitivity  
+B. Amiodarone has no effect on sun sensitivity; enjoy the beach without restrictions  
+C. Only avoid the sun if you notice a rash developing while on vacation  
+D. Apply SPF 15 sunscreen once in the morning, which provides adequate protection all day  
+
 **Back:**
+**Correct answer: A**
+
 - Amiodarone causes **severe photosensitivity** — the skin burns much more easily in the sun!
 - **Teaching points:**
   1. **Wear SPF 50+ sunscreen** — reapply every 2 hours and after swimming
@@ -853,9 +1203,16 @@ Remember this memory trick: **"Amiodarone affects Lungs, Liver, Thyroid, Eyes, a
 
 ## Card 51
 
-**Front:** A patient takes digoxin, furosemide, and a potassium supplement. They are vomiting and can't keep anything down. What is the biggest danger?
+**Front:** A patient on digoxin, furosemide, and oral potassium is vomiting and unable to keep medications down. What is the nurse's greatest concern?
+
+A. The patient will become dehydrated and need IV fluids to maintain blood pressure  
+B. The patient cannot absorb oral potassium while furosemide continues depleting it, and the resulting hypokalemia increases the risk of digoxin toxicity  
+C. The vomiting will cause the patient to absorb too much digoxin, leading to dangerously high drug levels  
+D. The furosemide will stop working, causing dangerous fluid overload and pulmonary edema  
 
 **Back:**
+**Correct answer: B**
+
 - **The biggest danger is digoxin toxicity!** Here is why:
   1. The patient is vomiting → they **cannot absorb** their oral potassium supplement
   2. But furosemide is still working → still **wasting potassium** through the kidneys
@@ -878,7 +1235,14 @@ Remember this memory trick: **"Amiodarone affects Lungs, Liver, Thyroid, Eyes, a
 
 **Front:** A heart failure patient is on lisinopril, carvedilol, and furosemide. Which vital signs matter MOST before giving all three?
 
+A. Temperature and respiratory rate, since all three drugs can suppress immune function  
+B. Oxygen saturation and respiratory rate, since all three drugs affect lung function  
+C. Heart rate only, because all three drugs slow the heart rate equally  
+D. Blood pressure before all three drugs (all lower BP) and heart rate before carvedilol (slows HR)  
+
 **Back:**
+**Correct answer: D**
+
 - **Blood pressure** 🩺 — CHECK BEFORE ALL THREE
   - Lisinopril (ACE inhibitor) lowers BP
   - Carvedilol (beta-blocker) lowers BP
@@ -901,9 +1265,16 @@ Remember this memory trick: **"Amiodarone affects Lungs, Liver, Thyroid, Eyes, a
 
 ## Card 53
 
-**Front:** Quick reference: Which cardiac drugs need HR checked before giving? Which need BP checked? Which need labs checked?
+**Front:** Which statement correctly matches cardiac drugs with the vital sign or lab that must be checked before administration?
+
+A. Nitroglycerin requires a heart rate check; digoxin requires a blood pressure check  
+B. ACE inhibitors require heart rate checks; beta-blockers require potassium levels only  
+C. Digoxin, beta-blockers, and non-DHP CCBs require heart rate checks; nitroglycerin and ACE inhibitors require blood pressure checks  
+D. All cardiac drugs only require blood pressure checks; heart rate monitoring is optional  
 
 **Back:**
+**Correct answer: C**
+
 
 **✅ CHECK HEART RATE (hold if < 60 bpm):**
 - Digoxin

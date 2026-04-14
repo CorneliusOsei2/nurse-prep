@@ -6,7 +6,15 @@
 
 ### Card 1 (Recall)
 **Front:** What is the key lab used to monitor **heparin (unfractionated)**?
+
+A. INR (International Normalized Ratio)  
+B. aPTT (activated partial thromboplastin time)  
+C. PT (prothrombin time) only  
+D. CBC with platelet count  
+
 **Back:**
+**Correct answer: B**
+
 - **aPTT** (activated partial thromboplastin time)
 - Therapeutic goal: usually **1.5 to 2.5 times** the normal value
 - Normal aPTT: about 25–35 seconds
@@ -16,7 +24,15 @@
 
 ### Card 2 (Recall)
 **Front:** What is the key lab used to monitor **warfarin (Coumadin)**?
+
+A. aPTT (activated partial thromboplastin time)  
+B. Anti-Xa level  
+C. INR (International Normalized Ratio)  
+D. CBC with differential  
+
 **Back:**
+**Correct answer: C**
+
 - **INR** (International Normalized Ratio)
 - Therapeutic goal: usually **2.0 to 3.0**
 - For mechanical heart valves: **2.5 to 3.5**
@@ -25,8 +41,16 @@
 ---
 
 ### Card 3 (Compare/Contrast)
-**Front:** What is the difference between an **anticoagulant** and an **antiplatelet**?
+**Front:** Which statement correctly describes the difference between an **anticoagulant** and an **antiplatelet**?
+
+A. Anticoagulants slow the clotting cascade; antiplatelets stop platelets from sticking together  
+B. Anticoagulants dissolve existing clots; antiplatelets prevent new clots from forming  
+C. Antiplatelets work on the clotting cascade; anticoagulants stop platelets from aggregating  
+D. Both work the same way but are used for different conditions  
+
 **Back:**
+**Correct answer: A**
+
 - **Anticoagulant** = slows down the clotting *process* (the clotting cascade). Examples: heparin, warfarin, DOACs.
 - **Antiplatelet** = stops *platelets* from sticking together. Examples: aspirin, clopidogrel.
 - Both prevent clots, but they work in different ways.
@@ -37,7 +61,15 @@
 
 ### Card 4 (Safety)
 **Front:** What is the antidote for **heparin**?
+
+A. Vitamin K (phytonadione)  
+B. Andexanet alfa (Andexxa)  
+C. Idarucizumab (Praxbind)  
+D. Protamine sulfate  
+
 **Back:**
+**Correct answer: D**
+
 - **Protamine sulfate**
 - Given IV, slowly
 - 1 mg protamine reverses about 100 units of heparin
@@ -49,7 +81,15 @@
 
 ### Card 5 (Safety)
 **Front:** What is the antidote for **warfarin**?
+
+A. Vitamin K (phytonadione)  
+B. Protamine sulfate  
+C. Idarucizumab (Praxbind)  
+D. Naloxone (Narcan)  
+
 **Back:**
+**Correct answer: A**
+
 - **Vitamin K (phytonadione)**
 - Can be given orally, SubQ, or IV
 - IV vitamin K must be given **slowly** (risk of anaphylaxis)
@@ -60,8 +100,16 @@
 ---
 
 ### Card 6 (Safety)
-**Front:** What is **HIT**? What do you do?
+**Front:** Which statement correctly describes **HIT** (Heparin-Induced Thrombocytopenia)?
+
+A. HIT is a type of heparin allergy treated with diphenhydramine  
+B. HIT means the heparin dose is too high; reduce the infusion rate  
+C. HIT causes a 50%+ platelet drop and paradoxically increases clot risk; stop all heparin immediately  
+D. HIT causes excessive bleeding; administer protamine sulfate right away  
+
 **Back:**
+**Correct answer: C**
+
 - **HIT** = Heparin-Induced Thrombocytopenia
 - Platelet count drops by more than 50% from baseline
 - Happens usually **5–10 days** after starting heparin
@@ -72,8 +120,16 @@
 ---
 
 ### Card 7 (Compare/Contrast)
-**Front:** Name **three differences** between heparin and warfarin.
+**Front:** Which statement correctly describes a difference between **heparin** and **warfarin**?
+
+A. Both drugs are given orally and monitored with the INR  
+B. Heparin is given IV or SubQ with fast onset; warfarin is given orally with slow onset (3–5 days)  
+C. Warfarin has a fast onset and is preferred for hospitalized patients  
+D. Heparin is monitored with INR; warfarin is monitored with aPTT  
+
 **Back:**
+**Correct answer: B**
+
 | Feature | Heparin | Warfarin |
 |---------|---------|----------|
 | Route | IV or SubQ | Oral |
@@ -86,8 +142,16 @@
 ---
 
 ### Card 8 (Patient Teaching)
-**Front:** A patient on warfarin asks: "Do I have to stop eating salad?" What do you teach?
+**Front:** A patient on warfarin asks: "Do I have to stop eating salad?" What is the correct teaching?
+
+A. Stop eating all green leafy vegetables immediately  
+B. Eat extra greens to boost your vitamin levels while on warfarin  
+C. Only eat green vegetables on days you skip your warfarin dose  
+D. Keep eating green vegetables, but be consistent with the amount each week  
+
 **Back:**
+**Correct answer: D**
+
 - You do **NOT** have to stop eating green leafy vegetables.
 - The key is **consistency** — eat about the same amount of vitamin K foods each week.
 - Sudden changes in vitamin K intake can make the INR go up or down unpredictably.
@@ -98,7 +162,15 @@
 
 ### Card 9 (Application)
 **Front:** You are about to give the morning dose of warfarin. The INR result just came back at **4.8**. What do you do?
+
+A. Hold the warfarin and notify the provider  
+B. Give the warfarin as ordered since the dose has not changed  
+C. Give half the warfarin dose and recheck INR in 4 hours  
+D. Administer vitamin K first, then give the warfarin  
+
 **Back:**
+**Correct answer: A**
+
 - **HOLD the warfarin** — do not give it
 - **Notify the provider** immediately
 - An INR of 4.8 is above the therapeutic range (2.0–3.0) and means the patient is over-anticoagulated
@@ -110,7 +182,15 @@
 
 ### Card 10 (Priority)
 **Front:** A patient on heparin suddenly has dark, tarry stools and a blood pressure of 88/52. What is your **priority action**?
+
+A. Increase IV fluids and continue the heparin infusion  
+B. Check aPTT before making any changes to the infusion  
+C. Stop the heparin infusion immediately  
+D. Administer protamine sulfate before stopping the heparin  
+
 **Back:**
+**Correct answer: C**
+
 - **Stop the heparin infusion** — this is the first action
 - Then: notify the provider immediately
 - Then: assess the patient further (vitals, level of consciousness)
@@ -122,7 +202,15 @@
 
 ### Card 11 (Recall)
 **Front:** Which anticoagulant is monitored with the **anti-Xa level**?
+
+A. Unfractionated heparin  
+B. Enoxaparin (Lovenox)  
+C. Warfarin (Coumadin)  
+D. Clopidogrel (Plavix)  
+
 **Back:**
+**Correct answer: B**
+
 - **Enoxaparin (Lovenox)** — low-molecular-weight heparin
 - But anti-Xa is only checked in **special situations**: obesity, very low weight, kidney problems, pregnancy
 - Enoxaparin does NOT require routine aPTT monitoring
@@ -131,8 +219,16 @@
 ---
 
 ### Card 12 (Patient Teaching)
-**Front:** You are teaching a patient to self-inject enoxaparin at home. What are the key points?
+**Front:** Which of the following is correct about teaching a patient to self-inject enoxaparin at home?
+
+A. Inject into the abdomen at 90 degrees; do not expel the air bubble or rub the site  
+B. Inject into the thigh at 45 degrees; expel the air bubble before injecting  
+C. Inject into the upper arm at 90 degrees; rub the site to promote absorption  
+D. Inject into the abdomen at 45 degrees; massage the site gently afterward  
+
 **Back:**
+**Correct answer: A**
+
 - Inject into the **fatty tissue of the abdomen** (belly)
 - Use a **90-degree angle** into a pinched skin fold
 - **Do NOT expel the air bubble** from the prefilled syringe
@@ -145,7 +241,15 @@
 
 ### Card 13 (Safety)
 **Front:** Can protamine sulfate reverse **enoxaparin**?
+
+A. Yes, protamine fully reverses enoxaparin just like unfractionated heparin  
+B. No, there is no reversal agent available for enoxaparin  
+C. Yes, but only if protamine is given within 30 minutes of the last dose  
+D. Only partially — protamine reverses about 60% of enoxaparin's effect  
+
 **Back:**
+**Correct answer: D**
+
 - **Only partially** — protamine reverses about **60%** of enoxaparin's effect
 - This is different from unfractionated heparin, which protamine fully reverses
 **Why it matters:** The exam may ask about antidotes for different forms of heparin. Know that protamine only partially works for enoxaparin.
@@ -153,8 +257,16 @@
 ---
 
 ### Card 14 (Compare/Contrast)
-**Front:** Name **two advantages** of DOACs (rivaroxaban, apixaban) over warfarin.
+**Front:** Which of the following is a correct advantage of DOACs (rivaroxaban, apixaban) over warfarin?
+
+A. DOACs are cheaper and have a widely available antidote  
+B. DOACs require weekly INR monitoring but have faster onset  
+C. No routine lab monitoring is needed and there are fewer food interactions  
+D. DOACs have more drug interactions but are easier to dose  
+
 **Back:**
+**Correct answer: C**
+
 - **No routine INR monitoring needed** — fewer lab visits
 - **Fewer food interactions** — no need to worry about vitamin K consistency
 - Also: faster onset (no need for heparin bridge), fewer drug interactions, more predictable dosing
@@ -164,7 +276,15 @@
 
 ### Card 15 (Application)
 **Front:** A patient on clopidogrel (Plavix) is scheduled for surgery in 3 days. What is the concern?
+
+A. Clopidogrel can be safely continued through surgery without increased risk  
+B. Clopidogrel should be held 5–7 days before surgery; 3 days is not enough  
+C. Switch to aspirin 3 days before surgery as a safer alternative  
+D. Give protamine sulfate on the day of surgery to reverse clopidogrel  
+
 **Back:**
+**Correct answer: B**
+
 - Clopidogrel should be held **5–7 days before surgery** to reduce bleeding risk
 - 3 days is NOT enough time
 - Notify the provider — the surgery may need to be postponed OR the surgeon needs to know the risk
@@ -175,7 +295,15 @@
 
 ### Card 16 (Safety)
 **Front:** Why is aspirin **NEVER** given to children with a viral illness?
+
+A. Risk of Reye syndrome, which causes liver failure and brain swelling  
+B. Risk of Stevens-Johnson syndrome, which causes severe skin reactions  
+C. Aspirin causes acute kidney failure in children under 12  
+D. Aspirin increases fever and worsens viral infections in children  
+
 **Back:**
+**Correct answer: A**
+
 - Risk of **Reye syndrome** — a rare but life-threatening condition
 - Reye syndrome causes **liver failure** and **brain swelling** (encephalopathy)
 - Linked to aspirin use in children/teens with flu or chickenpox
@@ -186,7 +314,15 @@
 
 ### Card 17 (Recall)
 **Front:** Which drug has a dangerous interaction with **omeprazole (Prilosec)**?
+
+A. Warfarin (Coumadin)  
+B. Enoxaparin (Lovenox)  
+C. Aspirin  
+D. Clopidogrel (Plavix)  
+
 **Back:**
+**Correct answer: D**
+
 - **Clopidogrel (Plavix)**
 - Omeprazole reduces clopidogrel's effectiveness (blocks the enzyme that activates clopidogrel)
 - If a PPI is needed, use **pantoprazole (Protonix)** instead
@@ -195,8 +331,16 @@
 ---
 
 ### Card 18 (Patient Teaching)
-**Front:** What are **five bleeding precautions** you teach to ANY patient on a blood thinner?
+**Front:** Which of the following correctly lists **bleeding precautions** for a patient on a blood thinner?
+
+A. Use a hard toothbrush, straight razor, and take aspirin as needed for pain  
+B. Use a soft toothbrush, electric razor, avoid contact sports, report bleeding, and wear a medical alert bracelet  
+C. Avoid all physical activity, stay on bed rest, and check INR daily at home  
+D. Bleeding precautions are only needed when the INR is above 3.0  
+
 **Back:**
+**Correct answer: B**
+
 1. Use a **soft toothbrush**
 2. Use an **electric razor** (no straight razors)
 3. **Avoid contact sports** and high-risk activities
@@ -208,8 +352,16 @@
 ---
 
 ### Card 19 (Application)
-**Front:** A patient on warfarin is found on the floor after a fall. No visible bleeding. What is your concern and action?
+**Front:** A patient on warfarin is found on the floor after a fall. No visible bleeding. What is the nurse's **primary concern**?
+
+A. Since there is no visible bleeding, document the fall and continue routine monitoring  
+B. Apply ice to any sore areas and recheck the patient in one hour  
+C. Assess for internal bleeding, especially intracranial hemorrhage, and notify the provider  
+D. Administer vitamin K immediately as a precaution  
+
 **Back:**
+**Correct answer: C**
+
 - Major concern: **internal bleeding** — especially intracranial hemorrhage (bleeding in the brain)
 - Actions:
   - Assess neurological status (level of consciousness, pupil response, headache, confusion)
@@ -222,8 +374,16 @@
 ---
 
 ### Card 20 (Priority)
-**Front:** You have orders to start warfarin AND a heparin drip on the same patient. Is this correct? Why?
+**Front:** You have orders to start warfarin AND a heparin drip on the same patient. Is this correct?
+
+A. Yes, this is called bridging; heparin covers the patient while warfarin takes 3–5 days to reach full effect  
+B. No, giving two anticoagulants together is always a medication error  
+C. Yes, but only if the patient has a mechanical heart valve  
+D. No, heparin and warfarin cancel each other out when given together  
+
 **Back:**
+**Correct answer: A**
+
 - **Yes, this is correct!** This is called "bridging."
 - Warfarin takes **3–5 days** to reach full effect
 - Heparin works **immediately**
@@ -235,7 +395,15 @@
 
 ### Card 21 (Safety)
 **Front:** A patient on heparin has a platelet count that dropped from 250,000 to 110,000 over the last few days. What do you suspect?
+
+A. Normal response to heparin therapy; continue the infusion and monitor  
+B. HIT (Heparin-Induced Thrombocytopenia); stop all heparin immediately  
+C. The patient needs a platelet transfusion before stopping heparin  
+D. Reduce the heparin dose by half and recheck platelets tomorrow  
+
 **Back:**
+**Correct answer: B**
+
 - Suspect **HIT** (Heparin-Induced Thrombocytopenia)
 - The platelet count dropped by more than 50% (from 250,000 to 110,000)
 - This is a significant drop that suggests heparin-induced antibodies are destroying platelets
@@ -247,7 +415,15 @@
 
 ### Card 22 (Recall)
 **Front:** Which anticoagulant is **safe to use during pregnancy**?
+
+A. Warfarin, because it has a reliable antidote  
+B. Rivaroxaban, because it requires no lab monitoring  
+C. Aspirin, because it is available over the counter  
+D. Heparin, because it does not cross the placenta  
+
 **Back:**
+**Correct answer: D**
+
 - **Heparin** (unfractionated heparin or enoxaparin)
 - Heparin does NOT cross the placenta, so it is safe for the baby
 - **Warfarin is NEVER used in pregnancy** — it is a teratogen (causes birth defects) — Category X
@@ -258,7 +434,15 @@
 
 ### Card 23 (Application)
 **Front:** A patient's INR was 2.4 yesterday and is now 6.2 today. They have no signs of bleeding. What should you expect the provider to order?
+
+A. Continue warfarin at the current dose and recheck INR tomorrow  
+B. Administer IV vitamin K and fresh frozen plasma immediately  
+C. Hold warfarin, give oral vitamin K, and recheck INR in 24 hours  
+D. Increase the warfarin dose to stabilize the fluctuating INR  
+
 **Back:**
+**Correct answer: C**
+
 - **Hold warfarin**
 - May order **oral vitamin K** (low dose)
 - Recheck INR in 24 hours
@@ -271,7 +455,15 @@
 
 ### Card 24 (Patient Teaching)
 **Front:** A patient on rivaroxaban (Xarelto) asks if they should take it on an empty stomach. What do you teach?
+
+A. Take rivaroxaban on an empty stomach for faster absorption  
+B. Take rivaroxaban with the evening meal for proper absorption  
+C. Take rivaroxaban with a full glass of milk to protect the stomach  
+D. Rivaroxaban absorption is not affected by food at all  
+
 **Back:**
+**Correct answer: B**
+
 - **No!** Rivaroxaban should be taken with the **evening meal**
 - Food helps the body absorb the medication properly
 - Without food, the drug may not work as well
@@ -281,8 +473,16 @@
 ---
 
 ### Card 25 (Safety)
-**Front:** Name **three signs of bleeding** that a patient on anticoagulants should report immediately.
+**Front:** Which of the following are signs of bleeding that a patient on anticoagulants should report immediately?
+
+A. Blood in urine, blood in stool, and bleeding gums  
+B. Mild headache, dry mouth, and decreased appetite  
+C. Joint stiffness, muscle cramps, and fatigue  
+D. Increased heart rate, flushed skin, and fever  
+
 **Back:**
+**Correct answer: A**
+
 - **Blood in urine** (pink, red, or dark brown)
 - **Blood in stool** (bright red or dark, tarry stools)
 - **Bleeding gums** when brushing teeth
@@ -293,7 +493,15 @@
 
 ### Card 26 (Hold Parameter)
 **Front:** The INR is **4.2** and warfarin is due. What do you do?
+
+A. Give the warfarin as scheduled since 4.2 is only slightly above range  
+B. Give half the dose and recheck INR in the morning  
+C. Administer vitamin K first, then give the warfarin  
+D. Hold the warfarin and notify the provider  
+
 **Back:**
+**Correct answer: D**
+
 - **HOLD the warfarin.** Do NOT give it.
 - An INR of 4.2 is above the therapeutic range (2.0–3.0).
 - The patient is over-anticoagulated — they are at **higher risk of bleeding**.
@@ -306,7 +514,15 @@
 
 ### Card 27 (Hold Parameter)
 **Front:** The aPTT is **120 seconds** (way above therapeutic). A heparin infusion is running. What do you do?
+
+A. Stop the heparin infusion immediately and notify the provider  
+B. Reduce the heparin rate by half and recheck aPTT in 6 hours  
+C. Continue the infusion and recheck aPTT in 1 hour  
+D. Administer protamine sulfate and then increase the heparin rate  
+
 **Back:**
+**Correct answer: A**
+
 - **Stop the heparin infusion immediately.**
 - Normal therapeutic aPTT for heparin is about 46–70 seconds (1.5–2.5× normal).
 - 120 seconds is dangerously high — the patient could bleed.
@@ -318,8 +534,16 @@
 ---
 
 ### Card 28 (Lab)
-**Front:** What is **HIT**? What lab do you watch, and what do you do if you suspect it?
+**Front:** Which statement is correct about monitoring for **HIT** (Heparin-Induced Thrombocytopenia)?
+
+A. Monitor INR; reduce heparin dose if INR rises above 3.0  
+B. Monitor aPTT; administer protamine if aPTT is elevated  
+C. Monitor platelet count; stop all heparin if platelets drop 50% or more from baseline  
+D. Monitor hemoglobin; give a platelet transfusion if hemoglobin drops  
+
 **Back:**
+**Correct answer: C**
+
 - **HIT** = Heparin-Induced Thrombocytopenia.
 - The lab to watch is the **platelet count** (CBC with platelets).
 - Suspect HIT if platelets drop by **50% or more** from baseline, usually around days **5–10** of heparin therapy.
@@ -331,8 +555,16 @@
 ---
 
 ### Card 29 (Lab)
-**Front:** A patient on warfarin has an INR of **1.4**. Is this therapeutic? What might be the problem?
+**Front:** A patient on warfarin has an INR of **1.4**. Is this therapeutic?
+
+A. Yes, 1.4 is within the normal therapeutic range  
+B. No, it is sub-therapeutic; the patient may not be adequately protected from clots  
+C. No, 1.4 is dangerously high; hold the warfarin immediately  
+D. Yes, but the dose should still be reduced slightly  
+
 **Back:**
+**Correct answer: B**
+
 - **No, this is NOT therapeutic.** The goal is usually 2.0–3.0.
 - An INR of 1.4 means the blood is **not thin enough** — the patient is still at risk for clots.
 - Possible reasons:
@@ -346,8 +578,16 @@
 ---
 
 ### Card 30 (Lab)
-**Front:** What is the difference between **aPTT** and **PT/INR** — which drug uses which?
+**Front:** Which statement correctly matches the lab test to the drug it monitors?
+
+A. aPTT monitors warfarin; PT/INR monitors heparin  
+B. Both aPTT and PT/INR are used to monitor heparin  
+C. PT/INR monitors enoxaparin; aPTT monitors warfarin  
+D. aPTT monitors heparin (unfractionated); PT/INR monitors warfarin  
+
 **Back:**
+**Correct answer: D**
+
 - **aPTT** (activated partial thromboplastin time) monitors **heparin** (unfractionated).
 - **PT/INR** (prothrombin time / international normalized ratio) monitors **warfarin**.
 - Easy memory trick: **H**eparin = aPT**T** (both have a "T" that is not a "P"). **W**arfarin = P**T**/INR.
@@ -358,8 +598,16 @@
 ---
 
 ### Card 31 (Compare)
-**Front:** **Heparin vs enoxaparin** — when would you use one over the other?
+**Front:** Which statement correctly describes when to use **heparin vs enoxaparin**?
+
+A. Heparin IV for unstable patients needing fast control; enoxaparin SubQ for stable outpatients  
+B. Heparin SubQ for outpatients; enoxaparin IV for hospitalized patients  
+C. Both are given IV only and are interchangeable in all situations  
+D. Enoxaparin requires frequent aPTT monitoring; heparin does not  
+
 **Back:**
+**Correct answer: A**
+
 - **Heparin (unfractionated):**
   - Given **IV** (can also be SubQ).
   - Used when you need to **turn the drug on and off quickly** (short half-life).
@@ -375,8 +623,16 @@
 ---
 
 ### Card 32 (Compare)
-**Front:** **Warfarin vs rivaroxaban (Xarelto)** — advantages and disadvantages of each?
+**Front:** Which statement correctly compares **warfarin** and **rivaroxaban (Xarelto)**?
+
+A. Rivaroxaban requires frequent INR monitoring while warfarin does not  
+B. Warfarin has fewer drug interactions than rivaroxaban  
+C. Warfarin requires INR monitoring and has many food interactions; rivaroxaban needs no routine lab monitoring  
+D. Both drugs have the same onset of action and similar cost  
+
 **Back:**
+**Correct answer: C**
+
 - **Warfarin:**
   - ✅ Cheap, been around a long time, has a reliable antidote (vitamin K).
   - ❌ Requires frequent INR monitoring, many food and drug interactions, slow onset (3–5 days).
@@ -389,8 +645,16 @@
 ---
 
 ### Card 33 (Compare)
-**Front:** **Anticoagulant vs antiplatelet** — what is the actual difference?
+**Front:** Which statement correctly describes the difference between an **anticoagulant** and an **antiplatelet**?
+
+A. Anticoagulants dissolve existing clots; antiplatelets prevent new ones from forming  
+B. Anticoagulants target the clotting cascade; antiplatelets stop platelets from aggregating  
+C. Antiplatelets work on the clotting cascade; anticoagulants stop platelet aggregation  
+D. Both anticoagulants and antiplatelets dissolve existing blood clots  
+
 **Back:**
+**Correct answer: B**
+
 - **Anticoagulants** (heparin, warfarin, DOACs) work on the **clotting cascade** — the chain reaction of clotting factors in the blood.
 - **Antiplatelets** (aspirin, clopidogrel) stop **platelets from sticking together** — they block the very first step of a clot forming.
 - Think of it this way: antiplatelets stop the "plug." Anticoagulants stop the "glue."
@@ -402,7 +666,15 @@
 
 ### Card 34 (Safety)
 **Front:** A patient on warfarin needs **dental work**. What should happen?
+
+A. Tell the dentist about warfarin; the provider may hold or adjust the dose before the procedure  
+B. Stop warfarin on your own 24 hours before the dental appointment  
+C. No changes are needed; warfarin does not affect dental procedures  
+D. Switch to aspirin one week before the dental procedure  
+
 **Back:**
+**Correct answer: A**
+
 - The patient should **tell the dentist they are on warfarin** before any procedure.
 - The provider may temporarily **lower the dose or hold warfarin** a few days before the procedure.
 - An **INR will likely be checked** before the dental work to make sure bleeding risk is acceptable.
@@ -414,7 +686,15 @@
 
 ### Card 35 (Safety)
 **Front:** A patient on enoxaparin is getting a **spinal or epidural**. What is the risk?
+
+A. Risk of allergic reaction at the epidural insertion site  
+B. Risk of infection due to a weakened immune response  
+C. Risk of epidural catheter malfunction from the medication  
+D. Risk of spinal or epidural hematoma, which can cause permanent paralysis  
+
 **Back:**
+**Correct answer: D**
+
 - The risk is a **spinal or epidural hematoma** — bleeding into the spinal canal.
 - This can compress the spinal cord and cause **permanent paralysis**.
 - Enoxaparin should be **held before** the procedure (usually 12 hours for prophylactic dose, 24 hours for treatment dose).
@@ -425,8 +705,16 @@
 ---
 
 ### Card 36 (Safety)
-**Front:** What foods can interfere with **warfarin** and why?
+**Front:** Which statement is correct about foods and **warfarin**?
+
+A. Foods high in iron reduce warfarin's effect; avoid red meat  
+B. Foods high in vitamin K (spinach, kale, broccoli) reduce warfarin's effect; keep intake consistent  
+C. All fruits and vegetables must be avoided while on warfarin  
+D. High-protein foods increase warfarin's effect and raise the INR  
+
 **Back:**
+**Correct answer: B**
+
 - Foods high in **vitamin K** can reduce warfarin's effect (make the INR drop).
 - Common vitamin K foods: **spinach, kale, broccoli, Brussels sprouts, green tea, liver**.
 - Vitamin K helps the body make clotting factors — warfarin works by **blocking vitamin K**.
@@ -437,8 +725,16 @@
 ---
 
 ### Card 37 (Safety)
-**Front:** A patient on heparin suddenly has **calf pain and swelling**. But they are on a blood thinner — can they still clot?
+**Front:** A patient on heparin suddenly has **calf pain and swelling**. Can a patient on a blood thinner still develop a clot?
+
+A. No, blood thinners completely prevent all clot formation  
+B. No, calf pain on heparin is always a muscle cramp, not a clot  
+C. Yes; the dose may not be therapeutic, HIT may be occurring, or the clot formed before treatment  
+D. Yes, but only if the patient missed a dose of heparin  
+
 **Back:**
+**Correct answer: C**
+
 - **Yes!** Being on a blood thinner does NOT guarantee you will not clot.
 - Possible explanations:
   - The dose may not be therapeutic yet — check the **aPTT**.
@@ -452,7 +748,15 @@
 
 ### Card 38 (Application)
 **Front:** A post-surgical patient on enoxaparin has **bruising at injection sites**. Is this normal or concerning?
+
+A. Some bruising is normal; do not rub the site and rotate injection sites  
+B. All bruising is abnormal; stop enoxaparin immediately and call the provider  
+C. Bruising means the dose is too high; cut the dose in half  
+D. Apply heat to the injection site before each injection to prevent bruising  
+
 **Back:**
+**Correct answer: A**
+
 - **Some bruising is normal** with enoxaparin injections.
 - This is expected because the drug thins the blood and the needle causes minor tissue trauma.
 - Teach the patient: **do not rub** the site after injection — this makes bruising worse.
@@ -465,7 +769,15 @@
 
 ### Card 39 (Application)
 **Front:** A patient is being **bridged from heparin to warfarin**. When can the heparin be stopped?
+
+A. Immediately after the first dose of warfarin is given  
+B. After 24 hours regardless of the INR level  
+C. When the aPTT returns to the normal range  
+D. When the INR is therapeutic (2.0–3.0) for at least 24 hours  
+
 **Back:**
+**Correct answer: D**
+
 - Heparin can be stopped when the **INR is therapeutic (2.0–3.0) for at least 24 hours**.
 - Both drugs overlap for several days because warfarin takes **3–5 days** to reach full effect.
 - During the overlap, the patient is on BOTH drugs — this is intentional, not an error.
@@ -477,7 +789,15 @@
 
 ### Card 40 (Application)
 **Front:** An ER patient on **rivaroxaban (Xarelto)** needs emergency surgery. What is the concern?
+
+A. No concern; rivaroxaban can be easily reversed with vitamin K  
+B. Risk of uncontrolled bleeding; the reversal agent (andexanet alfa) is costly and not always available  
+C. Surgery can proceed normally because rivaroxaban wears off in one hour  
+D. Give protamine sulfate to reverse rivaroxaban before surgery  
+
 **Back:**
+**Correct answer: B**
+
 - The concern is **uncontrolled bleeding** during surgery.
 - Rivaroxaban thins the blood, and there is **no quick, widely available reversal** in many settings.
 - The specific reversal agent is **andexanet alfa (Andexxa)** — but it is very expensive and not available everywhere.
@@ -490,7 +810,15 @@
 
 ### Card 41 (Application)
 **Front:** A patient on **aspirin and clopidogrel** (dual antiplatelet therapy) is having surgery in **3 days**. What needs to happen?
+
+A. Continue both drugs; antiplatelet therapy does not affect surgical bleeding  
+B. Stop only aspirin; clopidogrel can be continued safely through surgery  
+C. Both drugs should be held 5–7 days before surgery; 3 days is not enough time  
+D. Give a platelet transfusion the day of surgery and continue both drugs  
+
 **Back:**
+**Correct answer: C**
+
 - **Both drugs should be held 5–7 days before surgery** to reduce bleeding risk.
 - 3 days is NOT enough time — platelets affected by these drugs cannot recover (the effect is irreversible).
 - Notify the surgeon AND the prescribing provider immediately.
@@ -502,7 +830,15 @@
 
 ### Card 42 (Patient Teaching)
 **Front:** Why do we teach patients on blood thinners to use a **soft toothbrush** and an **electric razor**?
+
+A. Hard toothbrushes and straight razors cause infections in patients on blood thinners  
+B. Blood thinners increase bleeding risk; a soft toothbrush and electric razor prevent everyday injuries  
+C. These precautions only apply to patients on warfarin, not other blood thinners  
+D. Soft toothbrushes help the medication absorb faster through the gums  
+
 **Back:**
+**Correct answer: B**
+
 - Blood thinners increase the risk of bleeding — even from small injuries.
 - A **hard toothbrush** can cause gums to bleed during brushing.
 - A **straight razor** can cause nicks and cuts that may bleed longer than normal.
@@ -515,7 +851,15 @@
 
 ### Card 43 (Patient Teaching)
 **Front:** A patient on warfarin asks: **"Can I take ibuprofen for my headache?"** What do you say?
+
+A. No; NSAIDs increase bleeding risk and can raise the INR; use acetaminophen (Tylenol) instead  
+B. Yes; ibuprofen is safe to take with all blood thinners  
+C. Yes, but only if the INR is currently below 2.0  
+D. No; the patient should take aspirin instead of ibuprofen  
+
 **Back:**
+**Correct answer: A**
+
 - **No.** Ibuprofen (Advil, Motrin) is an NSAID and should be **avoided** with warfarin.
 - NSAIDs increase the risk of **GI bleeding** on their own — combined with warfarin, the risk is even higher.
 - NSAIDs can also **increase the INR**, making warfarin's effect stronger and more dangerous.
@@ -527,7 +871,15 @@
 
 ### Card 44 (Patient Teaching)
 **Front:** What should a patient on blood thinners do if they **cut themselves**?
+
+A. Apply a tourniquet above the wound immediately  
+B. Clean the wound and let it air dry without applying pressure  
+C. Take an extra dose of the blood thinner to help with clotting  
+D. Apply firm, direct pressure for at least 10–15 minutes; seek help if bleeding does not stop  
+
 **Back:**
+**Correct answer: D**
+
 - **Apply firm, direct pressure** to the cut for at least **10–15 minutes**.
 - Do not keep lifting the bandage to check — keep steady pressure.
 - If the bleeding does not stop after 15–20 minutes, **seek medical attention**.
@@ -539,7 +891,15 @@
 
 ### Card 45 (Patient Teaching)
 **Front:** Why should a patient on anticoagulants wear a **medical alert bracelet**?
+
+A. It reminds the patient to take their medication on time each day  
+B. It allows the patient to receive discounts on prescriptions  
+C. In an emergency, it tells responders the patient is on a blood thinner, which changes treatment decisions  
+D. It is required by law for all patients taking anticoagulants  
+
 **Back:**
+**Correct answer: C**
+
 - In an emergency, the patient may not be able to speak (unconscious, confused, in shock).
 - A medical alert bracelet tells paramedics and ER staff that the patient is on a **blood thinner**.
 - This information is critical because:
@@ -553,7 +913,15 @@
 
 ### Card 46 (Priority)
 **Front:** A patient on heparin has sudden **back pain**, dropping blood pressure, and a **falling hemoglobin**. What do you suspect?
+
+A. Suspect internal bleeding (possibly retroperitoneal hemorrhage); stop the heparin first  
+B. Suspect a kidney stone; continue heparin and administer pain medication  
+C. Suspect a pulmonary embolism; increase the heparin infusion rate  
+D. Suspect an allergic reaction to heparin; administer epinephrine  
+
 **Back:**
+**Correct answer: A**
+
 - Suspect **internal bleeding** — possibly a **retroperitoneal hemorrhage** (bleeding behind the abdominal organs).
 - This is a life-threatening emergency.
 - Actions in order:
@@ -569,7 +937,15 @@
 
 ### Card 47 (Priority)
 **Front:** Three patients are on blood thinners. One has **INR 2.5**, one has an **active nosebleed lasting 20 minutes**, one has **blood in stool**. Who do you see first?
+
+A. The patient with INR 2.5 (may need a dose adjustment)  
+B. The patient with a 20-minute nosebleed (needs direct pressure)  
+C. All three patients need to be seen at the same time  
+D. The patient with blood in stool (possible GI bleed, most unstable)  
+
 **Back:**
+**Correct answer: D**
+
 - See the patient with **blood in stool** first.
 - Here is why:
   - **INR 2.5** = therapeutic and normal (2.0–3.0). This patient is stable. ✅
@@ -582,7 +958,15 @@
 
 ### Card 48 (Red Flag)
 **Front:** A patient on warfarin has a sudden **severe headache** and **confusion**. What do you suspect?
+
+A. Suspect a migraine; give acetaminophen and dim the lights  
+B. Suspect intracranial hemorrhage (bleeding in the brain); this is a medical emergency  
+C. Suspect dehydration; increase oral fluid intake  
+D. Suspect a warfarin allergy; discontinue warfarin and give diphenhydramine  
+
 **Back:**
+**Correct answer: B**
+
 - Suspect an **intracranial hemorrhage** (bleeding in the brain). 🚨
 - This is one of the most dangerous complications of anticoagulant therapy.
 - Other signs: vision changes, slurred speech, one-sided weakness, vomiting, decreasing level of consciousness.
@@ -598,7 +982,15 @@
 
 ### Card 49 (Red Flag)
 **Front:** Patient on heparin: platelet count was **200,000 on day 1**, now it is **90,000 on day 5**. What is happening?
+
+A. HIT (Heparin-Induced Thrombocytopenia); platelet count dropped more than 50% on day 5; stop all heparin  
+B. Normal platelet fluctuation; continue heparin and recheck platelets tomorrow  
+C. The patient needs a platelet transfusion; continue heparin while transfusing  
+D. The heparin dose is too high; reduce by 25% and continue monitoring  
+
 **Back:**
+**Correct answer: A**
+
 - This is **HIT** — Heparin-Induced Thrombocytopenia.
 - The platelet count dropped by **more than 50%** (from 200,000 to 90,000 = 55% drop).
 - The timing fits: HIT typically occurs **5–10 days** after starting heparin.
@@ -610,8 +1002,16 @@
 ---
 
 ### Card 50 (Antidote)
-**Front:** What reverses **warfarin**? What reverses **heparin**? What about **DOACs**?
+**Front:** Which statement correctly matches each anticoagulant with its reversal agent?
+
+A. Protamine sulfate reverses warfarin; vitamin K reverses heparin  
+B. All anticoagulants are reversed by vitamin K regardless of the drug  
+C. Vitamin K reverses warfarin; protamine sulfate reverses heparin; idarucizumab reverses dabigatran  
+D. Andexanet alfa reverses all anticoagulants including heparin and warfarin  
+
 **Back:**
+**Correct answer: C**
+
 - **Warfarin** → **Vitamin K** (phytonadione). For emergencies: vitamin K + FFP or PCC.
 - **Heparin** (unfractionated) → **Protamine sulfate** (fully reverses it).
 - **Enoxaparin** (LMWH) → Protamine sulfate (only **partially** reverses — about 60%).
@@ -623,8 +1023,16 @@
 ---
 
 ### Card 51 (Application)
-**Front:** A **pregnant patient** needs anticoagulation. Which drug is safest — warfarin or heparin? Why?
+**Front:** A **pregnant patient** needs anticoagulation. Which drug is safest?
+
+A. Warfarin, because it has a well-known and reliable antidote  
+B. Heparin, because it does not cross the placenta and is safe for the baby  
+C. Rivaroxaban, because it has fewer food interactions during pregnancy  
+D. No anticoagulant is safe to use during pregnancy  
+
 **Back:**
+**Correct answer: B**
+
 - **Heparin** (unfractionated or enoxaparin) is the safe choice.
 - Heparin is a large molecule — it does **NOT cross the placenta**. The baby is not exposed.
 - **Warfarin crosses the placenta** and is a **teratogen** (Category X) — it causes birth defects, especially in the first trimester.
@@ -637,7 +1045,15 @@
 
 ### Card 52 (Safety)
 **Front:** Can you give **enoxaparin and warfarin at the same time**? When and why?
+
+A. Yes, this is bridging therapy; enoxaparin covers the patient while warfarin reaches full effect  
+B. No, giving two anticoagulants together doubles the bleeding risk unnecessarily  
+C. Yes, but only for patients with atrial fibrillation  
+D. No, enoxaparin and warfarin cancel each other out when combined  
+
 **Back:**
+**Correct answer: A**
+
 - **Yes!** This is called **bridging therapy** and it is intentional.
 - Warfarin takes **3–5 days** to reach full therapeutic effect.
 - During those days, the patient needs protection from clots — that is where enoxaparin comes in.

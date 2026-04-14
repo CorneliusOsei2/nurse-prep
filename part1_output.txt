@@ -1,0 +1,399 @@
+# Exam 1 Flashcards
+
+These flashcards follow the Pharmacology Exam 1 guide and focus on simple wording, strong medication safety habits, and exam-style nursing judgment.
+
+## How to use this deck
+
+- **Front** = the question side.
+- **Back** = the answer side.
+- **Why it matters** = the short exam or bedside reminder.
+- Each card has a **tag** so you know what skill it tests: (Recall), (Compare), (Safety), (Priority), (Application), (Patient Teaching), (Lab), (Hold Parameter), (Antidote), (Red Flag), or (Notify Provider).
+
+## Pharmacologic Principles
+
+### Card 1 (Application)
+
+**Front:** A patient gets a new drug and feels a little dizzy. A different patient gets the same drug and breaks out in hives with facial swelling. Which reaction requires the fastest nursing action?
+
+A. The dizziness, because it is a sign of drug toxicity requiring immediate intervention  
+B. Both reactions require the same urgency since they are both adverse effects  
+C. The hives with facial swelling, because it is an adverse effect requiring the nurse to stop the drug and get help  
+D. Neither reaction is urgent because both are expected side effects of the medication  
+
+**Back:**
+**Correct answer: C**
+- **Side effect:** A secondary effect that is expected and usually mild (like the dizziness).
+- **Adverse effect:** An unwanted harmful effect (like a serious allergic reaction with hives and swelling).
+- **Toxicity:** A dangerous level of the drug in the body — can damage organs.
+- The allergic reaction (adverse effect) needs the fastest action — stop the drug and get help.
+
+**Why it matters:** On the exam, you need to tell the difference between "expected and mild" and "harmful and urgent." If you see signs of allergy or toxicity, act fast.
+
+### Card 2 (Compare)
+
+**Front:** A nurse gives morphine (an opioid agonist) for pain. Later, the patient's breathing slows dangerously, and the nurse gives naloxone. Which statement best describes how an agonist and antagonist work?
+
+A. An agonist activates a receptor to produce a response, while an antagonist blocks a receptor to stop a response  
+B. An agonist blocks a receptor to prevent side effects, while an antagonist activates a receptor to reverse toxicity  
+C. Both agonists and antagonists activate receptors, but antagonists produce a weaker response  
+D. An agonist works only on pain receptors, while an antagonist works only on breathing receptors  
+
+**Back:**
+**Correct answer: A**
+- **Agonist** = turns a receptor ON → creates a response (morphine activates opioid receptors → pain relief).
+- **Antagonist** = blocks a receptor → stops a response (naloxone blocks opioid receptors → reverses the overdose).
+- Think: agonist = "go," antagonist = "stop."
+
+**Why it matters:** Many exam questions test whether you know a drug starts an effect or blocks one.
+
+### Card 3 (Application)
+
+**Front:** A patient needs pain relief fast. The provider orders IV morphine instead of oral morphine. Why does the IV form work the fastest?
+
+A. IV drugs are formulated at a higher concentration than oral drugs  
+B. IV drugs enter the bloodstream directly, skipping absorption and first-pass metabolism in the liver  
+C. IV drugs are absorbed faster through the stomach lining than oral drugs  
+D. IV drugs bind to proteins more quickly, which speeds up their effect  
+
+**Back:**
+**Correct answer: B**
+- IV drugs go straight into the bloodstream — they skip absorption.
+- Oral drugs must dissolve, pass through the stomach and intestines, and travel through the liver before reaching the blood (this is called "first-pass metabolism").
+- That is why IV drugs have the fastest onset.
+
+**Why it matters:** When the exam asks "which route works fastest," IV is almost always the answer. Sublingual is also fast because it skips the stomach and liver.
+
+### Card 4 (Application)
+
+**Front:** A patient who takes an oral heart medication starts having vomiting and diarrhea. The nurse notices the drug seems less effective. Which of the following best explains why?
+
+A. The patient has developed tolerance to the medication and needs a higher dose  
+B. The drug has reached toxic levels and is being rejected by the body  
+C. The vomiting and diarrhea are adverse effects indicating the drug should be discontinued  
+D. The vomiting and diarrhea are preventing the drug from staying in the GI tract long enough to be absorbed  
+
+**Back:**
+**Correct answer: D**
+Things that can reduce drug absorption:
+- Vomiting or diarrhea (the drug does not stay in the GI tract long enough)
+- Food in the stomach (for some drugs)
+- Changes in gastric pH
+- Poor blood flow to tissues (for IM or SubQ injections)
+- Crushing an extended-release tablet (this changes how the drug enters the body)
+
+**Why it matters:** A correct drug order can still fail if something blocks absorption. Always think about what is happening in the patient's body.
+
+### Card 5 (Compare)
+
+**Front:** Why does nitroglycerin given under the tongue (sublingual) work faster than a pill swallowed whole?
+
+A. Sublingual tablets contain a higher dose of the drug than oral tablets  
+B. Sublingual drugs are absorbed faster because the stomach breaks them down more efficiently  
+C. Sublingual drugs absorb through the tissues under the tongue directly into the blood, skipping the stomach and liver  
+D. Sublingual drugs work faster because saliva activates the medication before it enters the body  
+
+**Back:**
+**Correct answer: C**
+- Sublingual drugs absorb through the thin tissues under the tongue directly into the blood.
+- They skip the stomach and the liver (no first-pass metabolism).
+- Swallowed pills must dissolve, be absorbed in the gut, and pass through the liver first.
+
+**Why it matters:** This is a classic compare question. Remember: sublingual = fast, because it skips the stomach and liver.
+
+### Card 6 (Lab)
+
+**Front:** A patient has low albumin (a protein in the blood). The nurse sees a highly protein-bound drug on the medication list. Why is this patient at higher risk for toxicity?
+
+A. Low albumin means more of the drug is free and active in the blood, increasing the risk of a stronger effect and toxicity  
+B. Low albumin causes the drug to be excreted too quickly by the kidneys, leading to a rebound toxic effect  
+C. Low albumin prevents the drug from reaching its target receptor, so the provider increases the dose to a toxic level  
+D. Low albumin causes the liver to metabolize the drug faster, producing toxic byproducts  
+
+**Back:**
+**Correct answer: A**
+- Many drugs travel in the blood attached to albumin.
+- Only the **free** (unattached) drug is active.
+- Low albumin = more free drug floating around = stronger drug effect = higher chance of toxicity.
+
+**Why it matters:** Older adults and very sick patients often have low albumin. Always think: "Could this drug be hitting harder than expected?"
+
+### Card 7 (Application)
+
+**Front:** A patient with liver failure is getting a medication that is processed (metabolized) by the liver. What should the nurse watch for?
+
+A. The drug will be excreted unchanged by the kidneys, so no dose adjustment is needed  
+B. The drug will be metabolized faster than normal, requiring higher doses to be effective  
+C. The drug will bind to more albumin than usual, reducing its effect and requiring a higher dose  
+D. The drug may build up to dangerous levels because the liver cannot break it down normally, increasing toxicity risk  
+
+**Back:**
+**Correct answer: D**
+- The drug may be broken down more slowly → drug levels can build up.
+- The risk of toxicity goes up.
+- If the drug is a **prodrug** (a drug that needs the liver to activate it), it may not work well enough.
+- The same dose can become unsafe when the liver is not working.
+
+**Why it matters:** Watch for signs of drug buildup and toxicity in any patient with liver problems. The exam loves this scenario.
+
+### Card 8 (Patient Teaching)
+
+**Front:** A patient on a statin (cholesterol drug) asks if it is okay to drink grapefruit juice every morning. What should you teach?
+
+A. Grapefruit juice speeds up drug metabolism, making the statin less effective over time  
+B. Grapefruit juice blocks liver enzymes that break down the drug, causing blood levels to rise and increasing toxicity risk  
+C. Grapefruit juice interferes with drug absorption in the stomach, so the statin should be taken two hours apart  
+D. Grapefruit juice has no significant effect on statins but should be avoided due to its high sugar content  
+
+**Back:**
+**Correct answer: B**
+- Grapefruit blocks certain liver enzymes that break down some drugs.
+- If the drug is not broken down normally, blood levels go up.
+- Higher levels = more side effects and a risk of toxicity.
+- Tell the patient: **avoid grapefruit with this medication** unless the provider says it is okay.
+
+**Why it matters:** When you see grapefruit + medication on the exam, think "drug levels may go UP."
+
+### Card 9 (Compare)
+
+**Front:** A patient is taking Drug A. A new Drug B is added that inhibits the metabolism of Drug A. What effect should the nurse expect?
+
+A. Drug A will be broken down faster, leading to lower blood levels and a weaker therapeutic effect  
+B. Drug A will be excreted more quickly by the kidneys, requiring a higher dose to remain effective  
+C. Drug A will be broken down more slowly, causing higher blood levels and an increased risk of toxicity  
+D. Drug A will bind to fewer proteins, reducing its effect and requiring a dose increase  
+
+**Back:**
+**Correct answer: C**
+- **Enhanced metabolism** → drug is broken down faster → lower levels → weaker effect.
+- **Inhibited metabolism** → drug is broken down slower → higher levels → stronger effect → risk of toxicity.
+- Exception: Prodrugs may behave the opposite way.
+
+**Why it matters:** This helps you predict whether adding a new drug could make the current one stop working or become dangerous.
+
+### Card 10 (Safety)
+
+**Front:** Before scanning a patient's wristband and giving a medication, which of the following is included in the rights of medication administration?
+
+A. Right patient, right drug, right dose, and right diagnosis  
+B. Right patient, right drug, right dose, and right pharmacy  
+C. Right patient, right drug, right cost, and right time  
+D. Right patient, right drug, right dose, right route, right time, and right documentation  
+
+**Back:**
+**Correct answer: D**
+The key medication rights:
+- Right **patient** — check at least two identifiers
+- Right **drug** — match the order
+- Right **dose** — check the calculation
+- Right **route** — oral, IV, IM, etc.
+- Right **time** — on schedule
+- Right **reason** — know why
+- Right **documentation** — chart it
+- Right **response** — did it work?
+- Right **education** — teach the patient
+- Right to **refuse** — the patient can say no
+
+**Why it matters:** The rights of medication administration are the foundation of safe practice — and they show up on every exam.
+
+### Card 11 (Priority)
+
+**Front:** You are about to give a medication you have not given before. Which question is MOST important to ask yourself first?
+
+A. "What assessment or lab should I check first, and is this drug safe for this patient right now?"  
+B. "Has this drug been given to other patients on the unit today without any problems?"  
+C. "Is this medication available in the automated dispensing machine on my floor?"  
+D. "What is the cost of this drug compared to other options the provider could have ordered?"  
+
+**Back:**
+**Correct answer: A**
+1. Why is this drug ordered for this patient?
+2. What assessment or lab should I check FIRST? (like vital signs, potassium, etc.)
+3. Is it safe for this patient RIGHT NOW?
+4. What adverse effect am I watching for?
+5. How will I know it worked?
+
+**Why it matters:** This thinking process is what the exam is really testing. It separates a safe nurse from a task-doer.
+
+### Card 33 (Application)
+
+**Front:** A patient with kidney failure takes a drug that is mainly excreted by the kidneys. What does the nurse expect?
+
+A. The drug will be metabolized faster by the liver to compensate for the kidney failure  
+B. The drug will have a weaker effect because kidney failure reduces drug activation  
+C. The drug will be absorbed more slowly from the GI tract, delaying its onset of action  
+D. The drug may build up in the body because the kidneys cannot clear it normally, increasing the risk of toxicity  
+
+**Back:**
+**Correct answer: D**
+- The kidneys cannot clear the drug as fast as normal → the drug stays in the body longer.
+- Blood levels of the drug can build up → higher risk of toxicity.
+- The provider may need to **lower the dose** or **increase the time between doses**.
+- Monitor closely for signs of drug toxicity and check kidney function labs (like creatinine and BUN).
+
+**Why it matters:** Just like liver failure changes how drugs are metabolized, kidney failure changes how drugs are removed. Always think: "Can this patient get rid of this drug safely?"
+
+### Card 34 (Compare)
+
+**Front:** A nurse gives a patient IV pain medication. When should the nurse plan to reassess the patient's pain level?
+
+A. Within 5 minutes, because IV drugs always reach full effect immediately  
+B. Within 15 to 30 minutes, because IV drugs have a fast onset compared to oral drugs  
+C. Within 60 to 90 minutes, because all pain medications take at least one hour to work  
+D. Only after the next scheduled dose, because reassessing too soon gives inaccurate results  
+
+**Back:**
+**Correct answer: B**
+- **IV onset** is fast — often within minutes. The drug goes straight into the bloodstream.
+- **Oral onset** is slower — usually 30-60 minutes. The drug must be absorbed from the gut and pass through the liver first.
+- This changes when you reassess:
+  - After IV medication → reassess in about **15-30 minutes**
+  - After oral medication → reassess in about **30-60 minutes**
+- If you reassess too early after an oral med, you might think it is not working when it just has not kicked in yet.
+
+**Why it matters:** The exam may ask when to reassess after different routes. Matching your timing to the route keeps you from giving extra doses too soon.
+
+### Card 35 (Safety)
+
+**Front:** A patient on multiple drugs has a new drug added that is a strong CYP450 inhibitor. What should the nurse worry about?
+
+A. The new drug will speed up metabolism of the other drugs, causing them to become less effective  
+B. The new drug will block absorption of the other drugs in the GI tract, reducing their blood levels  
+C. The new drug will slow the breakdown of the other drugs, raising their blood levels and increasing toxicity risk  
+D. The new drug will increase kidney excretion of the other drugs, requiring higher doses to maintain effect  
+
+**Back:**
+**Correct answer: C**
+- CYP450 enzymes in the liver break down many drugs.
+- A **CYP450 inhibitor** slows down those enzymes → other drugs are broken down more slowly.
+- This means blood levels of the other drugs can **rise** → increased risk of side effects and toxicity.
+- The nurse should watch for signs of toxicity from the patient's existing medications.
+- The provider may need to adjust doses of the other drugs.
+
+**Why it matters:** Drug interactions through CYP450 are very common. When a new drug is added, always ask: "Could this change how the other drugs are processed?"
+
+### Card 36 (Patient Teaching)
+
+**Front:** A patient asks why they cannot crush their extended-release pain tablet to make it easier to swallow. What is the nurse's best response?
+
+A. "Crushing the tablet makes it taste very bitter and reduces patient satisfaction with the medication."  
+B. "Crushing the tablet destroys the active ingredient so the drug will have no effect at all."  
+C. "Crushing the tablet changes the color of the medication, making it harder to identify correctly."  
+D. "Crushing the tablet releases the full dose at once instead of slowly over time, which could cause a dangerous overdose."  
+
+**Back:**
+**Correct answer: D**
+- **Enteric-coated** tablets have a special coating that protects the stomach or protects the drug from stomach acid. Crushing removes that protection → can cause stomach irritation or the drug may not work.
+- **Extended-release (ER/XR/SR)** tablets are designed to release the drug slowly over many hours. Crushing releases the full dose all at once → this can cause a dangerous overdose.
+- Tell the patient: "Swallow these whole with water. Do not crush, chew, or break them."
+- If the patient cannot swallow pills, ask the provider for a different form (like a liquid).
+
+**Why it matters:** Crushing the wrong tablet is a medication error that can hurt the patient. The exam tests whether you know which forms must stay whole.
+
+### Card 37 (Application)
+
+**Front:** A patient in shock gets a SubQ injection. 30 minutes later there is no effect. What went wrong?
+
+A. Poor blood flow to the tissues in shock prevents the SubQ drug from being absorbed into the bloodstream  
+B. SubQ injections are always ineffective for emergency medications regardless of the patient's condition  
+C. The drug was destroyed by enzymes in the subcutaneous tissue before it could be absorbed  
+D. The patient developed an immune response to the SubQ injection site, blocking drug absorption  
+
+**Back:**
+**Correct answer: A**
+- In shock, blood flow to the skin and tissues is very poor — the body redirects blood to the vital organs.
+- SubQ (subcutaneous) injections depend on blood flow in the tissue to absorb the drug.
+- With poor blood flow → the drug just sits in the tissue and is not absorbed.
+- A better choice for a patient in shock is the **IV route** — it does not depend on tissue blood flow.
+
+**Why it matters:** Route selection is not just about convenience — it is about whether the drug can actually reach the bloodstream. In emergencies, IV is the most reliable route.
+
+### Card 38 (Lab)
+
+**Front:** What lab helps assess kidney function for drug excretion decisions?
+
+A. Serum albumin and total protein levels  
+B. ALT and AST liver enzyme levels  
+C. Complete blood count (CBC) and platelet count  
+D. Serum creatinine and BUN (blood urea nitrogen)  
+
+**Back:**
+**Correct answer: D**
+- **Serum creatinine** is the most commonly used lab. Normal is roughly 0.6-1.2 mg/dL (may vary by lab).
+- **BUN (blood urea nitrogen)** is also used. Normal is roughly 7-20 mg/dL.
+- **Creatinine clearance (CrCl)** or **GFR (glomerular filtration rate)** gives a more complete picture of how well the kidneys are filtering.
+- If these values are abnormal, drug doses that depend on kidney excretion may need to be lowered.
+
+**Why it matters:** Before giving a drug that the kidneys must clear, check kidney function. The exam expects you to connect the lab to the drug decision.
+
+### Card 39 (Compare)
+
+**Front:** What is the difference between a loading dose and a maintenance dose?
+
+A. A loading dose is a smaller test dose given first to check for allergies, and a maintenance dose is the full regular dose  
+B. A loading dose is a higher first dose to quickly reach a therapeutic blood level, and a maintenance dose is a smaller regular dose to keep the level steady  
+C. A loading dose is given only by IV, and a maintenance dose is always given by mouth  
+D. A loading dose and maintenance dose are the same amount, but given at different times of day  
+
+**Back:**
+**Correct answer: B**
+- A **loading dose** is a higher first dose given to quickly reach a therapeutic level in the blood. It "loads" the body with enough drug to start working right away.
+- A **maintenance dose** is a smaller, regular dose given after that to keep the drug level steady.
+- Example: Digoxin may be started with a loading dose to quickly get the level into the therapeutic range, then continued with a lower daily maintenance dose.
+
+**Why it matters:** If you only give the maintenance dose from the start, it can take a long time for the drug to build up to a working level. The exam may ask why a first dose is higher than the ongoing dose.
+
+### Card 40 (Safety)
+
+**Front:** A patient has a drug with a narrow therapeutic index. What makes this more dangerous than other drugs?
+
+A. The drug must be given by IV only, which increases the risk of infection at the injection site  
+B. The drug cannot be taken with any food or other medications, making dosing very difficult  
+C. The difference between the dose that helps and the dose that harms is very small, so even minor changes can cause toxicity  
+D. The drug has a very long half-life, meaning it takes weeks to reach a steady blood level  
+
+**Back:**
+**Correct answer: C**
+- A **narrow therapeutic index (NTI)** means the difference between the dose that helps and the dose that harms is very small.
+- Even a small change in dose or blood level can push the patient into toxicity.
+- Examples: digoxin, warfarin, lithium, phenytoin, theophylline.
+- These drugs need **frequent blood level monitoring** and careful dose adjustments.
+- Watch extra closely if the patient has liver or kidney problems — drug levels can rise unexpectedly.
+
+**Why it matters:** NTI drugs are high-risk. The exam tests whether you know to monitor levels more carefully and recognize early signs of toxicity.
+
+### Card 41 (Application)
+
+**Front:** Two drugs that are both highly protein-bound are given together. What could happen?
+
+A. The drugs compete for binding sites on albumin, which can increase the free amount of one drug and raise the risk of toxicity  
+B. The drugs bind to each other in the bloodstream, forming an inactive compound that is excreted by the kidneys  
+C. The drugs both bind to albumin without affecting each other because there are enough binding sites for both  
+D. The drugs cancel each other out, resulting in neither drug producing its intended therapeutic effect  
+
+**Back:**
+**Correct answer: A**
+- Highly protein-bound drugs compete for the same spots on albumin in the blood.
+- When two drugs compete, one drug may get "bumped off" → more of that drug is free (unbound) in the blood.
+- More free drug = stronger effect = higher risk of side effects and toxicity.
+- This is like two people fighting over one seat — someone ends up standing.
+
+**Why it matters:** When you see two highly protein-bound drugs ordered together, think: "Could one drug increase the other's effect?" This is a common drug interaction question.
+
+### Card 42 (Patient Teaching)
+
+**Front:** A patient asks "Why do I need blood tests for this medicine?" Which is the best explanation of therapeutic drug monitoring?
+
+A. "The blood tests check if you are allergic to the medication so we can switch to a different one if needed."  
+B. "The blood tests make sure your drug level is in the safe and effective range — not too low and not too high."  
+C. "The blood tests are required by the pharmacy before they will refill your prescription each month."  
+D. "The blood tests measure how fast your body absorbs the drug so we can change the time you take it."  
+
+**Back:**
+**Correct answer: B**
+- Some medicines have a very small range between "enough to help" and "too much."
+- Blood tests check that the drug level is in the **safe and effective zone** — not too low (will not work) and not too high (could be harmful).
+- If the level is off, the provider can adjust the dose before problems happen.
+- Simple way to explain: "The blood test helps us make sure your medicine is at just the right amount — like checking the temperature on an oven so your food cooks perfectly."
+
+**Why it matters:** Patients who understand WHY they need lab work are more likely to keep their appointments. The exam may ask how you explain monitoring to a patient.
+

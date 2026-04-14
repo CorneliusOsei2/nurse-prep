@@ -7,8 +7,15 @@
 ### Flashcard 1 — Recall
 **Q: What is the therapeutic drug level range for phenytoin (Dilantin)?**
 
+A. 5–15 mcg/mL  
+B. 10–20 mcg/mL  
+C. 20–30 mcg/mL  
+D. 4–12 mcg/mL
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: 10–20 mcg/mL**
 
@@ -22,8 +29,15 @@ This is a narrow therapeutic range — a small increase above 20 can cause toxic
 ### Flashcard 2 — Recall
 **Q: What is the normal potassium (K+) range?**
 
+A. 1.5–2.5 mEq/L  
+B. 5.0–7.0 mEq/L  
+C. 3.5–5.0 mEq/L  
+D. 2.0–4.0 mEq/L
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: 3.5–5.0 mEq/L**
 
@@ -35,8 +49,15 @@ This is one of the most tested lab values on the NCLEX. Both high and low potass
 ### Flashcard 3 — Safety
 **Q: What is the maximum IV rate for phenytoin, and why does it matter?**
 
+A. No faster than 50 mg/min; rapid infusion causes cardiac arrhythmias and hypotension  
+B. No faster than 100 mg/min; rapid infusion causes respiratory depression  
+C. No faster than 25 mg/min; rapid infusion causes nephrotoxicity  
+D. No faster than 75 mg/min; rapid infusion causes hepatotoxicity
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Never faster than 50 mg/min in adults.**
 
@@ -53,8 +74,15 @@ Always use an IV pump. Only mix in normal saline (0.9% NaCl) — never dextrose.
 ### Flashcard 4 — Safety (Critical!)
 **Q: Can you give potassium chloride (KCl) by IV push?**
 
+A. Yes, if given slowly over 5 minutes with cardiac monitoring  
+B. Yes, but only in emergencies when potassium is critically low  
+C. Yes, as long as it is diluted in normal saline first  
+D. Never — IV push KCl can cause fatal cardiac arrest
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: NEVER. Absolutely not.**
 
@@ -70,8 +98,15 @@ This is one of the most important safety rules in nursing!
 ### Flashcard 5 — Safety
 **Q: What is the antidote for magnesium sulfate toxicity?**
 
+A. Sodium bicarbonate  
+B. Calcium gluconate  
+C. Potassium chloride  
+D. Naloxone (Narcan)
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Calcium gluconate**
 
@@ -83,10 +118,17 @@ It reverses the dangerous effects of too much magnesium — respiratory depressi
 ---
 
 ### Flashcard 6 — Patient Teaching
-**Q: Your patient is on phenytoin (Dilantin). What important oral hygiene teaching do you give and why?**
+**Q: Which of the following is correct about oral hygiene teaching for a patient on phenytoin (Dilantin)?**
+
+A. Use alcohol-based mouthwash daily to prevent oral infections  
+B. Avoid brushing near the gumline to reduce bleeding risk  
+C. Brush carefully, floss daily, and see the dentist regularly to prevent gingival hyperplasia  
+D. Limit acidic foods to prevent enamel erosion caused by phenytoin
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Teach careful brushing, daily flossing, and regular dental visits.**
 
@@ -98,10 +140,17 @@ Phenytoin causes **gingival hyperplasia** — the gums become swollen and overgr
 ---
 
 ### Flashcard 7 — Compare/Contrast
-**Q: How do the ECG changes differ between hypokalemia and hyperkalemia?**
+**Q: Which statement correctly describes ECG changes in potassium imbalances?**
+
+A. Hypokalemia causes flattened T waves and U waves; hyperkalemia causes peaked T waves and widened QRS  
+B. Hypokalemia causes peaked T waves; hyperkalemia causes flattened T waves and U waves  
+C. Both hypokalemia and hyperkalemia cause peaked T waves with ST elevation  
+D. Hypokalemia causes widened QRS; hyperkalemia causes prolonged QT interval
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 | | Hypokalemia (Low K+) | Hyperkalemia (High K+) |
 |---|---|---|
@@ -116,10 +165,17 @@ Phenytoin causes **gingival hyperplasia** — the gums become swollen and overgr
 ---
 
 ### Flashcard 8 — Compare/Contrast
-**Q: What makes levetiracetam (Keppra) different from phenytoin when it comes to side effects and monitoring?**
+**Q: Which statement correctly describes a difference between levetiracetam (Keppra) and phenytoin?**
+
+A. Phenytoin is eliminated by the kidneys; levetiracetam is eliminated by the liver  
+B. Levetiracetam requires routine drug level monitoring; phenytoin does not  
+C. Both medications commonly cause gingival hyperplasia  
+D. Levetiracetam has fewer drug interactions and does not require routine drug level monitoring
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 | | Phenytoin (Dilantin) | Levetiracetam (Keppra) |
 |---|---|---|
@@ -134,10 +190,17 @@ Keppra is simpler to use, but watch for mood and behavioral changes!
 ---
 
 ### Flashcard 9 — Safety
-**Q: Before giving magnesium sulfate, what three things must you check?**
+**Q: Which of the following correctly lists the three assessments to check before giving magnesium sulfate?**
+
+A. Blood pressure, heart rate, and temperature  
+B. DTRs, blood glucose, and oxygen saturation  
+C. Deep tendon reflexes, respiratory rate, and urine output  
+D. Pupil response, pain level, and respiratory rate
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **Check these three things EVERY TIME:**
 
@@ -155,8 +218,15 @@ If any of these are abnormal — HOLD and call the provider!
 ### Flashcard 10 — Recall
 **Q: What are the two classic signs of hypocalcemia tested on the NCLEX?**
 
+A. Trousseau sign and Chvostek sign  
+B. Babinski sign and Kernig sign  
+C. Brudzinski sign and Homans sign  
+D. Cullen sign and Grey Turner sign
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Trousseau sign and Chvostek sign**
 
@@ -173,8 +243,15 @@ If any of these are abnormal — HOLD and call the provider!
 ### Flashcard 11 — Priority
 **Q: A patient's potassium level comes back at 6.8 mEq/L. The provider orders multiple treatments. Which medication do you give FIRST?**
 
+A. Insulin with dextrose  
+B. Calcium gluconate IV  
+C. Kayexalate (sodium polystyrene sulfonate)  
+D. Furosemide (Lasix) IV
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Calcium gluconate IV — give this FIRST**
 
@@ -191,10 +268,17 @@ Then:
 ---
 
 ### Flashcard 12 — Patient Teaching
-**Q: Your patient takes oral potassium chloride (KCl). What do you teach them about how to take it?**
+**Q: Which of the following is correct about how to take oral potassium chloride (KCl)?**
+
+A. Take on an empty stomach with a small sip of water  
+B. Crush the tablet and mix it with applesauce  
+C. Take at bedtime to reduce daytime nausea  
+D. Take with food and a full glass of water
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Take with food and a full glass of water.**
 
@@ -211,8 +295,15 @@ Also teach:
 ### Flashcard 13 — Recall
 **Q: What is the therapeutic drug level range for valproic acid (Depakote)?**
 
+A. 50–100 mcg/mL  
+B. 10–20 mcg/mL  
+C. 100–150 mcg/mL  
+D. 25–50 mcg/mL
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: 50–100 mcg/mL**
 
@@ -224,8 +315,15 @@ Monitor LFTs (liver toxicity risk), CBC (thrombocytopenia risk), and ammonia lev
 ### Flashcard 14 — Safety
 **Q: Why is valproic acid (Depakote) dangerous in pregnancy?**
 
+A. It causes gestational diabetes in the mother  
+B. It increases the risk of placenta previa  
+C. It is teratogenic and can cause neural tube defects such as spina bifida  
+D. It leads to premature labor and low birth weight
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: It is teratogenic — it can cause serious birth defects.**
 
@@ -244,8 +342,15 @@ Women of childbearing age taking valproic acid need:
 ### Flashcard 15 — Application
 **Q: Your patient on phenytoin reports their "eyes are doing something funny" and they feel unsteady when walking. What do you suspect?**
 
+A. An allergic reaction to phenytoin requiring epinephrine  
+B. Phenytoin toxicity — nystagmus and ataxia are early signs  
+C. A new seizure type that requires an increased dose  
+D. A common side effect that does not require intervention
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Phenytoin toxicity**
 
@@ -265,8 +370,15 @@ These are early signs of toxicity. The next sign would be slurred speech.
 ### Flashcard 16 — Recall
 **Q: What is the normal magnesium level?**
 
+A. 3.5–5.0 mEq/L  
+B. 8.5–10.5 mEq/L  
+C. 135–145 mEq/L  
+D. 1.5–2.5 mEq/L
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: 1.5–2.5 mEq/L**
 
@@ -278,8 +390,15 @@ Magnesium is important for muscle function, nerve function, and heart rhythm. Lo
 ### Flashcard 17 — Application
 **Q: A patient on furosemide (Lasix) reports muscle weakness and leg cramps. Their ECG shows flattened T waves. What electrolyte problem do you suspect?**
 
+A. Hypokalemia (low potassium)  
+B. Hyperkalemia (high potassium)  
+C. Hypocalcemia (low calcium)  
+D. Hypernatremia (high sodium)
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Hypokalemia (low potassium)**
 
@@ -294,10 +413,17 @@ Nursing action: Check the potassium level and notify the provider. Expect to giv
 ---
 
 ### Flashcard 18 — Safety
-**Q: What is the normal calcium range? What can happen if you give IV calcium too fast?**
+**Q: Which of the following is correct about the normal calcium range and IV calcium administration?**
+
+A. Normal calcium is 3.5–5.0 mg/dL; rapid IV calcium causes seizures  
+B. Normal calcium is 135–145 mg/dL; rapid IV calcium causes hypertension  
+C. Normal calcium is 8.5–10.5 mg/dL; rapid IV calcium can cause cardiac arrest  
+D. Normal calcium is 1.5–2.5 mg/dL; rapid IV calcium causes respiratory depression
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Normal calcium: 8.5–10.5 mg/dL**
 
@@ -313,10 +439,17 @@ Always:
 ---
 
 ### Flashcard 19 — Patient Teaching
-**Q: What do you teach EVERY patient on seizure medications about stopping the medication?**
+**Q: Which of the following is correct about stopping seizure medications?**
+
+A. Seizure medications can be safely stopped once seizures are controlled for one month  
+B. Seizure medications must never be stopped suddenly — abrupt discontinuation can trigger status epilepticus  
+C. Seizure medications should be stopped immediately if side effects occur  
+D. Only phenytoin requires gradual tapering; other seizure medications can be stopped at any time
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: NEVER stop seizure medications suddenly.**
 
@@ -332,8 +465,15 @@ This applies to ALL seizure medications — phenytoin, valproic acid, levetirace
 ### Flashcard 20 — Recall
 **Q: Carbamazepine (Tegretol) is also used for what type of pain?**
 
+A. Migraine headaches  
+B. Diabetic neuropathy  
+C. Rheumatoid arthritis pain  
+D. Trigeminal neuralgia (severe facial nerve pain)
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Trigeminal neuralgia — severe facial nerve pain**
 
@@ -348,10 +488,17 @@ Also remember to monitor:
 ---
 
 ### Flashcard 21 — Compare/Contrast
-**Q: Compare hyponatremia and hypernatremia — what are the key signs of each?**
+**Q: Which statement correctly describes the difference between hyponatremia and hypernatremia?**
+
+A. Hyponatremia causes confusion and seizures; hypernatremia causes thirst and dry mucous membranes  
+B. Hyponatremia causes thirst and dry mouth; hypernatremia causes seizures and edema  
+C. Both conditions should be corrected rapidly with IV fluids to prevent complications  
+D. Hyponatremia is caused by dehydration; hypernatremia is caused by fluid overload
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 | | Hyponatremia (Low Na+) | Hypernatremia (High Na+) |
 |---|---|---|
@@ -369,8 +516,15 @@ Both high and low sodium must be corrected slowly to prevent brain damage!
 ### Flashcard 22 — Priority
 **Q: During a seizure, what is your FIRST nursing action?**
 
+A. Insert an oral airway to protect the tongue  
+B. Restrain the patient to prevent injury  
+C. Stay with the patient and protect them from injury  
+D. Administer the prescribed seizure medication immediately
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Stay with the patient and protect them from injury.**
 
@@ -392,8 +546,15 @@ Call for help if the seizure lasts more than 5 minutes (status epilepticus).
 ### Flashcard 23 — Application
 **Q: You are caring for a preeclamptic patient on a magnesium sulfate drip. You check deep tendon reflexes and they are ABSENT. Respiratory rate is 10. What do you do?**
 
+A. Increase the magnesium infusion rate and administer oxygen  
+B. Stop the magnesium infusion immediately and notify the provider  
+C. Reposition the patient and recheck reflexes in 15 minutes  
+D. Administer a bolus dose of magnesium sulfate and reassess
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: STOP the magnesium infusion immediately and notify the provider.**
 
@@ -414,8 +575,15 @@ This is a classic NCLEX scenario — you will see it!
 ### Flashcard 24 — Safety
 **Q: A patient is on digoxin and needs IV calcium for hypocalcemia. What special concern does the nurse have?**
 
+A. Calcium decreases digoxin absorption, requiring a higher digoxin dose  
+B. IV calcium is completely contraindicated and must never be given with digoxin  
+C. There is no significant interaction between calcium and digoxin  
+D. Calcium increases the risk of digoxin toxicity by making the heart more sensitive to digoxin
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Calcium increases the risk of digoxin toxicity.**
 
@@ -433,8 +601,15 @@ Nursing actions:
 ### Flashcard 25 — Application
 **Q: Your patient's potassium is 2.9 mEq/L. You are infusing IV KCl and the patient says, "My arm really burns where the IV is." What do you do?**
 
+A. Slow the infusion rate and further dilute the potassium  
+B. Discontinue the infusion and switch to oral potassium only  
+C. Increase the infusion rate to complete it faster  
+D. Apply ice to the IV site and continue at the same rate
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Slow the infusion rate and/or further dilute the potassium.**
 
@@ -454,8 +629,15 @@ Actions:
 ### Flashcard 26 — Application
 **Q: A patient on phenytoin has nystagmus, ataxia, and slurred speech. What is happening?**
 
+A. These are common harmless side effects that do not require intervention  
+B. The patient is having a new type of seizure and needs an increased dose  
+C. These are classic signs of phenytoin toxicity (N-A-S: nystagmus, ataxia, slurred speech)  
+D. The patient is experiencing an allergic reaction to phenytoin
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: These are the classic signs of phenytoin toxicity.**
 
@@ -478,8 +660,15 @@ Remember the order they appear — **N-A-S**:
 ### Flashcard 27 — Safety
 **Q: Why must phenytoin IV be given slowly? What can happen if it's pushed too fast?**
 
+A. Rapid infusion causes irreversible kidney damage  
+B. Rapid IV phenytoin can cause fatal cardiac arrhythmias and severe hypotension  
+C. Fast infusion leads to permanent nerve damage at the injection site  
+D. Rapid administration causes phenytoin to become ineffective against seizures
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Rapid IV phenytoin can cause fatal cardiac arrhythmias and severe hypotension.**
 
@@ -498,8 +687,15 @@ Key rules for IV phenytoin:
 ### Flashcard 28 — Hold Parameter
 **Q: Phenytoin level is 24 mcg/mL. What do you do?**
 
+A. Give the next dose as scheduled since the level is within normal range  
+B. Administer an extra dose to reach the upper therapeutic range  
+C. Increase IV fluids to help the body clear the drug faster  
+D. Hold the dose and notify the provider — this level is above the therapeutic range of 10–20 mcg/mL
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: HOLD the dose and notify the provider. This level is toxic.**
 
@@ -515,10 +711,17 @@ At 24 mcg/mL, the patient is already in the toxic range. Check for nystagmus, at
 ---
 
 ### Flashcard 29 — Patient Teaching
-**Q: What do you teach about phenytoin and oral/dental care?**
+**Q: Which of the following is correct about phenytoin and oral/dental care?**
+
+A. Phenytoin causes gingival hyperplasia — teach soft-bristle brushing, daily flossing, and regular dental visits  
+B. Phenytoin causes tooth enamel decay — avoid fluoride toothpaste  
+C. Phenytoin causes oral thrush — teach antifungal mouthwash use  
+D. Phenytoin causes dry mouth — encourage sugar-free candy throughout the day
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Phenytoin causes gingival hyperplasia — the gums swell and overgrow.**
 
@@ -539,8 +742,15 @@ This side effect happens in up to 50% of patients on phenytoin. Good oral care w
 ### Flashcard 30 — Safety
 **Q: A woman of childbearing age is prescribed valproic acid. What is the critical teaching?**
 
+A. Valproic acid causes infertility, so pregnancy is unlikely while on this medication  
+B. Valproic acid is safe during the second and third trimesters of pregnancy  
+C. Valproic acid is teratogenic — use reliable birth control and report pregnancy immediately  
+D. Valproic acid only requires a dose adjustment, not discontinuation, during pregnancy
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Valproic acid is a known teratogen — it causes serious birth defects, especially neural tube defects like spina bifida.**
 
@@ -558,10 +768,17 @@ This is not optional teaching — it is critical patient safety!
 ---
 
 ### Flashcard 31 — Lab
-**Q: What labs do you monitor for valproic acid? Name at least 3.**
+**Q: Which of the following is correct about lab monitoring for valproic acid?**
+
+A. Only the drug level needs to be monitored; other labs are unnecessary  
+B. Drug level, LFTs, CBC with platelets, ammonia level, and pregnancy test should all be monitored  
+C. Only CBC and blood glucose levels need monitoring  
+D. Renal function tests and electrolytes are the primary labs to monitor
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Monitor these labs regularly:**
 
@@ -577,10 +794,17 @@ This is not optional teaching — it is critical patient safety!
 ---
 
 ### Flashcard 32 — Compare/Contrast
-**Q: Levetiracetam vs phenytoin — which has fewer drug interactions and why does that matter?**
+**Q: Which statement correctly describes why levetiracetam (Keppra) has fewer drug interactions than phenytoin?**
+
+A. Keppra is not absorbed in the GI tract, so other oral drugs cannot interact with it  
+B. Keppra has a very wide therapeutic range, so interactions do not matter clinically  
+C. Keppra is processed by the liver using different enzymes than most other drugs  
+D. Keppra is cleared by the kidneys, not the liver's CYP450 enzymes used by most other drugs
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Levetiracetam (Keppra) has far fewer drug interactions than phenytoin.**
 
@@ -600,8 +824,15 @@ This matters because many patients take multiple drugs. With phenytoin, every ne
 ### Flashcard 33 — Application
 **Q: A patient on carbamazepine develops a new rash. Why is this concerning?**
 
+A. The rash could be Stevens-Johnson syndrome — a life-threatening skin reaction requiring immediate action  
+B. Rashes are a common harmless side effect of carbamazepine that resolve on their own  
+C. The rash indicates the drug is working and the seizures are being controlled  
+D. The rash is likely caused by an unrelated allergy and carbamazepine should be continued
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: A new rash on carbamazepine could be the start of Stevens-Johnson syndrome (SJS) — a life-threatening skin reaction.**
 
@@ -626,8 +857,15 @@ Not every rash is SJS, but every rash on carbamazepine must be taken seriously u
 ### Flashcard 34 — Patient Teaching
 **Q: A patient asks "Can I just skip my seizure medicine for a few days?" What do you say?**
 
+A. It is safe to skip the medication for a few days if feeling well  
+B. Missing one or two doses is harmless but avoid stopping for a full week  
+C. Never stop seizure medication suddenly — it can trigger status epilepticus, a life-threatening emergency  
+D. The medication can be safely stopped and restarted at any time without risk
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: No — NEVER stop seizure medication suddenly. This can trigger status epilepticus.**
 
@@ -644,10 +882,17 @@ Here's what you teach (kindly but firmly):
 ---
 
 ### Flashcard 35 — Priority
-**Q: A patient has a seizure. Put these actions in order: protect from injury, do NOT put anything in mouth, time the seizure, position on side after it stops, document.**
+**Q: Which of the following lists the correct order of nursing actions during and after a seizure?**
+
+A. Restrain the patient → insert oral airway → time the seizure → call the provider → document  
+B. Protect from injury → do not put anything in the mouth → time the seizure → position on side after → document  
+C. Administer medication → time the seizure → restrain the patient → position prone → document  
+D. Call the provider → insert a tongue blade → protect from injury → suction → document
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Here is the correct order:**
 
@@ -668,8 +913,15 @@ Call a rapid response or code if the seizure lasts more than 5 minutes — that'
 ### Flashcard 36 — Safety (Critical!)
 **Q: A nurse is about to IV push potassium chloride. Why must you STOP them?**
 
+A. IV push KCl causes severe phlebitis but is not immediately life-threatening  
+B. IV push KCl is acceptable in an emergency when the potassium is critically low  
+C. IV push KCl causes temporary muscle paralysis that reverses on its own  
+D. IV push KCl causes instant cardiac arrest — it must always be diluted and infused slowly with a pump
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: IV push potassium = INSTANT CARDIAC ARREST. You must stop them immediately.**
 
@@ -689,8 +941,15 @@ If you see someone about to IV push KCl, **speak up immediately** — you could 
 ### Flashcard 37 — Application
 **Q: A patient on furosemide has muscle cramps, weakness, and an irregular pulse. What electrolyte do you check first?**
 
+A. Potassium (K+), because furosemide causes potassium loss and these are signs of hypokalemia  
+B. Sodium (Na+), because furosemide causes sodium retention  
+C. Calcium (Ca2+), because furosemide depletes calcium stores  
+D. Magnesium (Mg2+), because irregular pulse always indicates low magnesium
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Check potassium (K+) first.**
 
@@ -713,8 +972,15 @@ Here's why all the clues point to hypokalemia:
 ### Flashcard 38 — Lab
 **Q: ECG shows peaked T waves and a wide QRS. What electrolyte is probably too high?**
 
+A. Hypokalemia (low potassium)  
+B. Hypocalcemia (low calcium)  
+C. Hyperkalemia (high potassium)  
+D. Hypernatremia (high sodium)
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Hyperkalemia (high potassium).**
 
@@ -736,10 +1002,17 @@ This is an emergency! Treatment priorities:
 ---
 
 ### Flashcard 39 — Compare/Contrast
-**Q: Hypokalemia vs hyperkalemia — list the key signs of each side by side.**
+**Q: Which statement correctly describes a key difference between hypokalemia and hyperkalemia?**
+
+A. Hypokalemia causes peaked T waves on ECG; hyperkalemia causes flattened T waves  
+B. Hypokalemia causes flattened T waves, weakness, and constipation; hyperkalemia causes peaked T waves, tingling, and diarrhea  
+C. Both hypokalemia and hyperkalemia present with identical symptoms and ECG changes  
+D. Hypokalemia causes hyperactive reflexes; hyperkalemia causes muscle rigidity
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 | | Hypokalemia (K+ < 3.5) | Hyperkalemia (K+ > 5.0) |
 |---|---|---|
@@ -759,8 +1032,15 @@ This is an emergency! Treatment priorities:
 ### Flashcard 40 — Application
 **Q: A patient with hyperkalemia (K+ 6.8) is given calcium gluconate. Does this lower the potassium?**
 
+A. Yes — calcium gluconate directly removes potassium from the blood  
+B. Yes — calcium gluconate pushes potassium into the cells to lower the blood level  
+C. Yes — calcium gluconate increases kidney excretion of potassium  
+D. No — calcium gluconate stabilizes the heart but does not lower the potassium level
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: NO — calcium gluconate does NOT lower the potassium level.**
 
@@ -779,10 +1059,17 @@ This is a very common NCLEX trick question! Here's what calcium gluconate actual
 ---
 
 ### Flashcard 41 — Patient Teaching
-**Q: What foods are high in potassium? Name 5 common ones.**
+**Q: Which of the following lists foods that are high in potassium?**
+
+A. Bananas, oranges, potatoes, avocados, and tomatoes  
+B. White rice, bread, apples, chicken, and pasta  
+C. Celery, lettuce, cucumbers, grapes, and pears  
+D. Eggs, cheese, butter, crackers, and white fish
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Here are common high-potassium foods to remember:**
 
@@ -811,8 +1098,15 @@ This is a very common NCLEX trick question! Here's what calcium gluconate actual
 ### Flashcard 42 — Hold Parameter
 **Q: A preeclampsia patient on mag sulfate has RR 10 and absent DTRs. What do you do?**
 
+A. Administer oxygen and increase the magnesium infusion rate  
+B. Reposition the patient and recheck reflexes in 30 minutes  
+C. Stop the magnesium infusion immediately and call the provider — these are signs of magnesium toxicity  
+D. Give a dose of calcium chloride IV push and continue the infusion
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: STOP the magnesium infusion immediately and call the provider. This is magnesium toxicity.**
 
@@ -835,8 +1129,15 @@ Both findings are red flags:
 ### Flashcard 43 — Antidote
 **Q: What is the antidote for magnesium toxicity?**
 
+A. Magnesium oxide  
+B. Calcium gluconate  
+C. Naloxone (Narcan)  
+D. Flumazenil (Romazicon)
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Calcium gluconate**
 
@@ -859,8 +1160,15 @@ Key points:
 ### Flashcard 44 — Application
 **Q: A patient on magnesium sulfate for preeclampsia has urine output of 20 mL/hour. What is the concern?**
 
+A. This is a normal urine output for a patient on magnesium sulfate  
+B. Low urine output means the magnesium dose should be increased  
+C. Low urine output means the patient needs more IV fluids but the magnesium can continue  
+D. Low urine output means the kidneys are not clearing magnesium, increasing the risk of toxicity
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Low urine output means the kidneys are not clearing magnesium well enough → magnesium can build up to toxic levels.**
 
@@ -882,10 +1190,17 @@ Here's why this matters:
 ---
 
 ### Flashcard 45 — Compare/Contrast
-**Q: Why do we check DTRs for magnesium patients? What does loss of DTRs mean?**
+**Q: Which statement correctly describes why deep tendon reflexes (DTRs) are checked in patients receiving magnesium sulfate?**
+
+A. Loss of DTRs is the earliest warning sign of magnesium toxicity  
+B. DTRs increase with rising magnesium levels, indicating effective treatment  
+C. DTRs are checked to assess for seizure activity, not magnesium toxicity  
+D. Loss of DTRs indicates the magnesium level is within the therapeutic range
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: DTRs (deep tendon reflexes) are the earliest warning sign of magnesium toxicity.**
 
@@ -908,10 +1223,17 @@ Here's the progression of mag toxicity by level:
 ---
 
 ### Flashcard 46 — Safety
-**Q: What are the assessment checks before each dose of mag sulfate? (The 3 things)**
+**Q: Which of the following correctly lists the three assessment checks before each dose of magnesium sulfate?**
+
+A. Blood pressure, heart rate, and oxygen saturation  
+B. Temperature, pupil response, and pain level  
+C. Respiratory rate ≥ 12, DTRs present, and urine output ≥ 30 mL/hr  
+D. Blood glucose, respiratory rate, and capillary refill
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: Check these three things EVERY TIME before giving mag sulfate:**
 
@@ -937,10 +1259,17 @@ Also remember:
 ---
 
 ### Flashcard 47 — Safety
-**Q: What are Trousseau sign and Chvostek sign? How do you test for each?**
+**Q: Which statement correctly describes the Trousseau and Chvostek signs?**
+
+A. Trousseau sign is tested by tapping the facial nerve; Chvostek sign uses a BP cuff  
+B. Trousseau sign is a hand spasm after inflating a BP cuff; Chvostek sign is facial twitching after tapping the facial nerve  
+C. Both signs indicate hyperkalemia and are tested with a reflex hammer  
+D. Trousseau sign tests for hypernatremia; Chvostek sign tests for hypomagnesemia
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: Both are signs of hypocalcemia (low calcium). Here's how to tell them apart:**
 
@@ -963,8 +1292,15 @@ Both positive signs mean calcium is dangerously low and the nerves are hyperexci
 ### Flashcard 48 — Application
 **Q: A post-thyroidectomy patient has numbness around the mouth and tingling fingers. What do you suspect?**
 
+A. Hypoglycemia from surgical stress  
+B. Hyperkalemia from tissue damage during surgery  
+C. Hypothyroidism from incomplete thyroid removal  
+D. Hypocalcemia from accidental damage to the parathyroid glands
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: Hypocalcemia — from accidental damage to or removal of the parathyroid glands during surgery.**
 
@@ -987,10 +1323,17 @@ Here's the connection:
 ---
 
 ### Flashcard 49 — Compare/Contrast
-**Q: Calcium gluconate vs calcium chloride — which is more concentrated and where should each be given?**
+**Q: Which statement correctly describes the difference between calcium gluconate and calcium chloride?**
+
+A. Calcium chloride is 3 times more concentrated than calcium gluconate and requires a central line  
+B. Calcium gluconate is more concentrated and must be given through a central line  
+C. Both forms have the same concentration and can be given peripherally  
+D. Calcium chloride is less irritating to veins and safer for peripheral IV use
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Calcium chloride is 3x more concentrated than calcium gluconate.**
 
@@ -1009,10 +1352,17 @@ Here's the connection:
 ---
 
 ### Flashcard 50 — Lab
-**Q: A patient with hypocalcemia also has low magnesium. Why must you fix the magnesium first?**
+**Q: Which of the following is correct about treating a patient with both low calcium and low magnesium?**
+
+A. Correct the calcium first because it is more dangerous than low magnesium  
+B. Both electrolytes can be corrected at the same time with equal priority  
+C. Correct the magnesium first because the body needs magnesium for parathyroid hormone to regulate calcium  
+D. Neither needs treatment because the levels will self-correct once the patient eats
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: C**
 
 **A: You cannot fix the calcium until you fix the magnesium. The body needs magnesium to regulate calcium.**
 
@@ -1034,8 +1384,15 @@ This is a favorite NCLEX trick — they love to test this connection!
 ### Flashcard 51 — Priority
 **Q: Three patients: one has K+ 6.9, one has Mg2+ 1.0, one has Ca2+ 7.8. Who do you see first?**
 
+A. The patient with Mg2+ 1.0, because low magnesium causes the most dangerous arrhythmias  
+B. The patient with K+ 6.9, because severe hyperkalemia can cause fatal cardiac arrest immediately  
+C. The patient with Ca2+ 7.8, because hypocalcemia causes the most dangerous arrhythmias  
+D. All three patients are equally urgent and should be seen at the same time
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: B**
 
 **A: See the patient with K+ 6.9 FIRST.**
 
@@ -1057,8 +1414,15 @@ Here's why — let's rank the danger:
 ### Flashcard 52 — Application
 **Q: A patient is on furosemide, digoxin, and potassium supplements. They start vomiting and can't take oral meds. What is the biggest concern?**
 
+A. Digoxin toxicity from taking it on an empty stomach  
+B. Hyperkalemia from potassium building up while the patient is vomiting  
+C. Furosemide toxicity from continued use without oral fluid intake  
+D. Hypokalemia leading to digoxin toxicity because oral potassium supplements cannot be taken
+
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: D**
 
 **A: The biggest concern is hypokalemia leading to digoxin toxicity.**
 
@@ -1081,10 +1445,17 @@ Here's the dangerous chain of events:
 ---
 
 ### Flashcard 53 — Compare/Contrast (Quick Reference!)
-**Q: Quick reference card — What are the normal ranges for K+, Mg2+, Ca2+, and Na+?**
+**Q: Which of the following correctly lists all four electrolyte normal ranges?**
+
+A. K+ 3.5–5.0 mEq/L, Mg2+ 1.5–2.5 mEq/L, Ca2+ 8.5–10.5 mg/dL, Na+ 135–145 mEq/L  
+B. K+ 5.0–7.0 mEq/L, Mg2+ 3.5–5.0 mEq/L, Ca2+ 10.5–13.0 mg/dL, Na+ 120–130 mEq/L  
+C. K+ 1.5–3.0 mEq/L, Mg2+ 4.0–6.0 mEq/L, Ca2+ 6.0–8.0 mg/dL, Na+ 145–160 mEq/L  
+D. K+ 3.5–5.0 mEq/L, Mg2+ 2.5–4.5 mEq/L, Ca2+ 5.0–8.0 mg/dL, Na+ 130–140 mEq/L
 
 <details>
 <summary>Flip the card ✨</summary>
+
+**Correct answer: A**
 
 **A: Here are the four key electrolyte ranges to memorize:**
 

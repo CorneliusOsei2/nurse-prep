@@ -109,6 +109,8 @@
     }
 
     filteredCards = cards;
+    // Always shuffle so concept and application cards are interleaved
+    shuffleArray(filteredCards);
     currentIndex = 0;
     isFlipped = false;
     cardCount.textContent = `${cards.length} card${cards.length !== 1 ? 's' : ''}`;

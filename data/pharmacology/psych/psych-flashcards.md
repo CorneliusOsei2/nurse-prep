@@ -8,8 +8,15 @@
 ## Card 1 — Recall
 **Q: What is the therapeutic blood level range for lithium?**
 
+A. 0.2 to 0.8 mEq/L  
+B. 0.6 to 1.2 mEq/L  
+C. 1.0 to 2.0 mEq/L  
+D. 1.5 to 2.5 mEq/L  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **0.6 to 1.2 mEq/L**
 
@@ -25,8 +32,15 @@
 ## Card 2 — Safety
 **Q: A patient on sertraline (Zoloft) is started on tramadol for pain. The nurse finds the patient agitated, tremoring, with a fever of 103.4°F and hyperreflexia. What is happening?**
 
+A. Neuroleptic malignant syndrome (NMS)  
+B. Malignant hyperthermia  
+C. Serotonin syndrome  
+D. Anticholinergic toxicity  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Serotonin syndrome!**
 
@@ -47,8 +61,15 @@ Key signs:
 ## Card 3 — Compare/Contrast
 **Q: What is the MAIN difference in side effects between typical (first-generation) and atypical (second-generation) antipsychotics?**
 
+A. Typical antipsychotics cause more metabolic syndrome than atypical antipsychotics  
+B. Atypical antipsychotics cause more EPS than typical antipsychotics  
+C. Both types carry equal risk of EPS and metabolic syndrome  
+D. Typical antipsychotics cause more EPS; atypical antipsychotics cause more metabolic syndrome  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 - **Typical antipsychotics** (like haloperidol) → HIGH risk of **EPS** (movement problems: dystonia, akathisia, parkinsonism, tardive dyskinesia)
 - **Atypical antipsychotics** (like olanzapine) → HIGH risk of **metabolic syndrome** (weight gain, high blood sugar, high cholesterol)
@@ -63,10 +84,17 @@ Both can cause NMS, but it's more common with typicals.
 ---
 
 ## Card 4 — Patient Teaching
-**Q: A patient with bipolar disorder on lithium asks, "Can I take ibuprofen for my headache?" What do you teach?**
+**Q: A patient with bipolar disorder on lithium asks, "Can I take ibuprofen for my headache?" What is the best response?**
+
+A. "No — avoid NSAIDs like ibuprofen; use acetaminophen (Tylenol) instead"  
+B. "Yes, ibuprofen is safe to take with lithium in low doses"  
+C. "Only take half the normal ibuprofen dose while on lithium"  
+D. "Switch to naproxen (Aleve) instead of ibuprofen"  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **"No — avoid ibuprofen and other NSAIDs while taking lithium."**
 
@@ -81,10 +109,17 @@ Both can cause NMS, but it's more common with typicals.
 ---
 
 ## Card 5 — Safety (Emergency)
-**Q: A patient on haloperidol (Haldol) suddenly has a temperature of 105°F, severe "lead-pipe" muscle rigidity, altered consciousness, and a CK level of 15,000. What is happening, and what is the FIRST action?**
+**Q: A patient on haloperidol (Haldol) suddenly has a temperature of 105°F, severe "lead-pipe" muscle rigidity, altered consciousness, and a CK level of 15,000. What is the FIRST nursing action?**
+
+A. Administer dantrolene immediately  
+B. Apply cooling blankets and monitor temperature  
+C. Stop the antipsychotic immediately  
+D. Obtain a CT scan of the head  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Neuroleptic Malignant Syndrome (NMS)**
 
@@ -106,10 +141,17 @@ Remember NMS = "FEVER": **F**ever, **E**ncephalopathy, **V**ital sign instabilit
 ---
 
 ## Card 6 — Compare/Contrast
-**Q: How do you tell the difference between serotonin syndrome and NMS?**
+**Q: Which finding best distinguishes serotonin syndrome from neuroleptic malignant syndrome (NMS)?**
+
+A. Elevated CK levels  
+B. High fever  
+C. Altered mental status  
+D. Clonus and hyperreflexia  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 | Feature | Serotonin Syndrome | NMS |
 |---|---|---|
@@ -126,10 +168,17 @@ Remember NMS = "FEVER": **F**ever, **E**ncephalopathy, **V**ital sign instabilit
 ---
 
 ## Card 7 — Patient Teaching
-**Q: A patient just started fluoxetine (Prozac) for depression. After 5 days, they say, "This medicine isn't working. I want to stop." What do you teach?**
+**Q: A patient just started fluoxetine (Prozac) for depression. After 5 days, they say, "This medicine isn't working. I want to stop." What is the best response?**
+
+A. Continue taking it — SSRIs take 2 to 4 weeks to reach full effect  
+B. Double the dose to speed up the therapeutic effect  
+C. Discontinue fluoxetine and switch to an MAOI immediately  
+D. Add a second antidepressant to boost the effect  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **"Please don't stop yet! SSRIs take 2 to 4 weeks to reach full effect."**
 
@@ -144,10 +193,17 @@ Key teaching points:
 ---
 
 ## Card 8 — Patient Teaching (Tyramine)
-**Q: A patient on phenelzine (MAOI) asks what foods they should avoid. What do you teach?**
+**Q: Which food must a patient on phenelzine (MAOI) avoid?**
+
+A. Fresh grilled chicken breast  
+B. Aged cheddar cheese  
+C. White rice and steamed vegetables  
+D. Fresh apples and oranges  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Avoid foods high in tyramine:**
 - 🧀 Aged cheeses (cheddar, Swiss, blue, Parmesan)
@@ -166,10 +222,17 @@ Key teaching points:
 ---
 
 ## Card 9 — Application
-**Q: A patient on haloperidol suddenly has their eyes rolling upward and their jaw locked shut. What is happening and what do you give?**
+**Q: A patient on haloperidol suddenly has their eyes rolling upward and their jaw locked shut. What medication should be given immediately?**
+
+A. Haloperidol (Haldol) to increase dopamine blockade  
+B. Naloxone (Narcan) IV push  
+C. Diazepam (Valium) for sedation  
+D. Diphenhydramine (Benadryl) or benztropine (Cogentin)  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Acute dystonia** — a type of EPS (extrapyramidal symptom).
 
@@ -187,10 +250,17 @@ These anticholinergic drugs counteract the dopamine blockade and relieve the spa
 ---
 
 ## Card 10 — Recall
-**Q: What labs do you monitor for a patient on lithium? Name at least 4.**
+**Q: Which of the following is a priority lab to monitor for a patient on lithium?**
+
+A. Liver function tests (AST/ALT)  
+B. Renal function (BUN/creatinine) and TSH  
+C. Prothrombin time (PT/INR)  
+D. Hemoglobin A1c  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 1. **Lithium blood level** (0.6–1.2 mEq/L) — most important!
 2. **BUN and creatinine** — kidney function (lithium is cleared by kidneys)
@@ -206,8 +276,15 @@ These anticholinergic drugs counteract the dopamine blockade and relieve the spa
 ## Card 11 — Safety
 **Q: A patient on lithium has been vomiting and having diarrhea for 2 days. Why is this dangerous?**
 
+A. Dehydration causes lithium levels to rise, increasing toxicity risk  
+B. Vomiting causes the lithium to be excreted too quickly  
+C. Diarrhea prevents lithium from being absorbed in the stomach  
+D. Vomiting indicates an allergic reaction to lithium  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **Dehydration and fluid loss increase lithium levels → risk of lithium toxicity!**
 
@@ -229,8 +306,15 @@ When the body loses fluid:
 ## Card 12 — Application
 **Q: A patient on a benzodiazepine is found unresponsive with a respiratory rate of 6. What is the reversal agent?**
 
+A. Naloxone (Narcan)  
+B. Protamine sulfate  
+C. Flumazenil (Romazicon)  
+D. Atropine sulfate  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Flumazenil (Romazicon)**
 
@@ -250,13 +334,16 @@ When the body loses fluid:
 
 ## Card 13 — Priority
 **Q: A nurse is caring for four patients. Who should be assessed FIRST?**
-- A) Patient on lithium with a fine hand tremor
-- B) Patient on sertraline who reports nausea
-- C) Patient on haloperidol with fever of 104°F and muscle rigidity
-- D) Patient on alprazolam who feels drowsy
+
+A. Patient on lithium with a fine hand tremor  
+B. Patient on sertraline who reports nausea  
+C. Patient on haloperidol with fever of 104°F and muscle rigidity  
+D. Patient on alprazolam who feels drowsy  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **C) Patient on haloperidol with fever of 104°F and muscle rigidity**
 
@@ -273,10 +360,17 @@ This is **NMS** (Neuroleptic Malignant Syndrome) — a life-threatening emergenc
 ---
 
 ## Card 14 — Patient Teaching
-**Q: What should you teach the parents of a 16-year-old who was just started on an SSRI for depression?**
+**Q: What is the most important teaching for parents of a 16-year-old starting an SSRI for depression?**
+
+A. The medication will cause significant weight gain  
+B. SSRIs can increase suicidal thoughts in adolescents, especially early in treatment  
+C. The teen should avoid all physical activity while on the medication  
+D. The medication will begin working within the first 3 days  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **The black box warning: SSRIs can increase suicidal thoughts in adolescents, especially early in treatment.**
 
@@ -293,10 +387,17 @@ Teach parents to:
 ---
 
 ## Card 15 — Recall
-**Q: Name the four types of EPS (extrapyramidal symptoms) in order from earliest to latest onset.**
+**Q: Which is the correct order of EPS (extrapyramidal symptoms) onset from earliest to latest?**
+
+A. Akathisia → dystonia → tardive dyskinesia → parkinsonism  
+B. Tardive dyskinesia → parkinsonism → akathisia → dystonia  
+C. Dystonia → akathisia → parkinsonism → tardive dyskinesia  
+D. Parkinsonism → dystonia → akathisia → tardive dyskinesia  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 1. **Acute dystonia** — hours to days (muscle spasms, neck twisting, eye rolling)
 2. **Akathisia** — days to weeks (restlessness, can't sit still)
@@ -309,10 +410,17 @@ Teach parents to:
 ---
 
 ## Card 16 — Compare/Contrast
-**Q: Compare SSRIs and MAOIs — which is first-line, and why?**
+**Q: Which statement is correct when comparing SSRIs and MAOIs?**
+
+A. SSRIs are first-line because they have fewer dangerous interactions and no dietary restrictions  
+B. MAOIs are first-line because they work faster than SSRIs  
+C. Both are equally safe and can be used interchangeably  
+D. MAOIs are preferred because they have no dietary restrictions  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **SSRIs are first-line.** MAOIs are last resort.
 
@@ -335,8 +443,15 @@ MAOIs are used only when other antidepressants have failed, because:
 ## Card 17 — Safety
 **Q: A patient on an MAOI ate aged cheddar cheese at a party. They now have a sudden, severe occipital headache and their blood pressure is 220/120 mmHg. What is happening?**
 
+A. Anaphylactic reaction to the cheese  
+B. Serotonin syndrome  
+C. Neuroleptic malignant syndrome  
+D. Hypertensive crisis from tyramine in the aged cheese  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Hypertensive crisis from tyramine!**
 
@@ -355,8 +470,15 @@ The aged cheese is high in tyramine. The MAOI blocked the enzyme that breaks tyr
 ## Card 18 — Application
 **Q: It's time for a patient's lithium dose. Their lithium level drawn this morning is 1.8 mEq/L. Should you give or hold the dose?**
 
+A. Give the dose — 1.8 mEq/L is within the therapeutic range  
+B. Hold the dose and notify the provider — the level is toxic  
+C. Give half the dose and recheck the level in 4 hours  
+D. Give the dose with extra fluids to dilute the lithium  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **HOLD the dose!**
 
@@ -375,10 +497,17 @@ The aged cheese is high in tyramine. The MAOI blocked the enzyme that breaks tyr
 ---
 
 ## Card 19 — Patient Teaching
-**Q: A patient on lithium is going on a beach vacation. What safety teaching is most important?**
+**Q: What is the most important safety teaching for a patient on lithium going on a beach vacation?**
+
+A. Stay well hydrated — dehydration can cause lithium toxicity  
+B. Avoid sun exposure because lithium causes photosensitivity  
+C. Stop taking lithium for the duration of the trip  
+D. Double the lithium dose to account for extra sweating  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **"Stay very well hydrated — dehydration can cause lithium toxicity!"**
 
@@ -398,10 +527,17 @@ On a hot beach vacation:
 ---
 
 ## Card 20 — Application
-**Q: A patient taking lorazepam (Ativan) long-term tells you they want to stop taking it because they feel "addicted." What do you teach?**
+**Q: A patient taking lorazepam (Ativan) long-term tells you they want to stop because they feel "addicted." What is the best response?**
+
+A. Stop the medication immediately to avoid further dependence  
+B. Switch to a higher dose to prevent rebound symptoms  
+C. Replace with an over-the-counter sleep aid right away  
+D. Taper the dose slowly under provider supervision  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **"We understand your concern, but please do NOT stop suddenly! This must be tapered slowly."**
 
@@ -422,12 +558,17 @@ Stopping benzodiazepines abruptly after prolonged use can cause:
 ---
 
 ## Card 21 — Recall
-**Q: What is the reversal agent for each?**
-- Benzodiazepine overdose: ____
-- Opioid overdose: ____
+**Q: Which correctly pairs each overdose with its reversal agent?**
+
+A. Benzodiazepine → naloxone; opioid → flumazenil  
+B. Both benzodiazepine and opioid overdose → naloxone  
+C. Benzodiazepine → flumazenil (Romazicon); opioid → naloxone (Narcan)  
+D. Both benzodiazepine and opioid overdose → flumazenil  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 - Benzodiazepine overdose → **Flumazenil (Romazicon)**
 - Opioid overdose → **Naloxone (Narcan)**
@@ -444,8 +585,15 @@ Stopping benzodiazepines abruptly after prolonged use can cause:
 ## Card 22 — Safety
 **Q: Why must you wait at least 2 weeks between stopping an SSRI and starting an MAOI?**
 
+A. To allow the SSRI to reach full therapeutic effect first  
+B. To prevent serotonin syndrome  
+C. To avoid hypertensive crisis from tyramine buildup  
+D. To reduce the risk of liver damage  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **To prevent serotonin syndrome!**
 
@@ -461,10 +609,17 @@ Stopping benzodiazepines abruptly after prolonged use can cause:
 ---
 
 ## Card 23 — Application (Metabolic Monitoring)
-**Q: A patient has been on olanzapine (Zyprexa) for 3 months. What should the nurse be monitoring?**
+**Q: What is the priority monitoring concern for a patient who has been on olanzapine (Zyprexa) for 3 months?**
+
+A. Serum lithium levels  
+B. Liver function and bilirubin  
+C. Coagulation studies (PT/INR)  
+D. Weight, fasting blood glucose, and lipid panel  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Metabolic monitoring — weight, blood sugar, and cholesterol!**
 
@@ -483,8 +638,15 @@ Atypical antipsychotics (especially olanzapine) cause metabolic syndrome:
 ## Card 24 — Priority
 **Q: A patient on venlafaxine (SNRI) was accidentally given a dose of phenelzine (MAOI) by another nurse. What is your FIRST action?**
 
+A. Notify the provider immediately and monitor for serotonin syndrome  
+B. Complete an incident report before doing anything else  
+C. Administer activated charcoal right away  
+D. Give cyproheptadine prophylactically without calling the provider  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **Notify the provider IMMEDIATELY and monitor for serotonin syndrome!**
 
@@ -510,8 +672,15 @@ This is a potentially **life-threatening** medication error. An SNRI + MAOI can 
 ## Card 25 — Recall
 **Q: What is the black box warning for atypical antipsychotics in elderly patients?**
 
+A. Increased risk of seizures in elderly patients  
+B. Increased risk of liver failure in elderly patients  
+C. Increased risk of death in elderly patients with dementia-related psychosis  
+D. Increased risk of serotonin syndrome in elderly patients  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Increased risk of DEATH in elderly patients with dementia-related psychosis.**
 
@@ -525,10 +694,17 @@ This is a potentially **life-threatening** medication error. An SNRI + MAOI can 
 ---
 
 ## Card 26 — Patient Teaching
-**Q: A patient starts fluoxetine (Prozac) and after only 3 days says, "This isn't working. I want to stop." What do you teach?**
+**Q: A patient starts fluoxetine (Prozac) and after 3 days says, "This isn't working. I want to stop." What is the best response?**
+
+A. Increase the dose immediately to speed up the effect  
+B. Discontinue fluoxetine and start an MAOI today  
+C. Add a second SSRI to boost the response  
+D. Continue taking it — SSRIs take 2 to 4 weeks to start working  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **"Three days is too early to tell! Please give it more time."**
 
@@ -545,10 +721,17 @@ Here's what to teach:
 ---
 
 ## Card 27 — Safety
-**Q: A patient on sertraline (Zoloft) tells you they also take St. John's Wort, an herbal supplement. What is the risk?**
+**Q: A patient on sertraline (Zoloft) tells you they also take St. John's Wort. What is the primary risk?**
+
+A. Serotonin syndrome  
+B. Hypertensive crisis  
+C. Neuroleptic malignant syndrome  
+D. Hepatotoxicity  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **Serotonin syndrome!**
 
@@ -567,10 +750,17 @@ Here's what to teach:
 ---
 
 ## Card 28 — Application
-**Q: A teenager on an SSRI seems more energized lately but tells the nurse, "It won't matter soon — I won't be here anymore." What is happening?**
+**Q: A teenager on an SSRI seems more energized but tells the nurse, "It won't matter soon — I won't be here anymore." What should the nurse do?**
+
+A. Document the statement and continue routine monitoring  
+B. Stay with the patient and notify the provider immediately — this is a suicidal warning sign  
+C. Increase the SSRI dose right away to improve mood faster  
+D. Reassure the teen that this is a normal adjustment reaction  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **This is a suicidal warning sign — take it seriously RIGHT NOW.**
 
@@ -594,10 +784,17 @@ Here's what's likely happening:
 ---
 
 ## Card 29 — Compare
-**Q: How are SNRIs different from SSRIs? When might a provider choose an SNRI instead?**
+**Q: When would a provider most likely choose an SNRI over an SSRI?**
+
+A. When the patient needs a medication with fewer side effects  
+B. When the patient has a history of hypertensive crisis  
+C. When the patient has depression with chronic pain  
+D. When the patient cannot swallow pills  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 | Feature | SSRIs | SNRIs |
 |---|---|---|
@@ -619,10 +816,17 @@ Here's what's likely happening:
 ---
 
 ## Card 30 — Patient Teaching
-**Q: A patient asks, "I've been on my SSRI for a year and feel great. Can I just stop taking it?" What do you teach?**
+**Q: A patient asks, "I've been on my SSRI for a year and feel great. Can I just stop taking it?" What is the best response?**
+
+A. Never stop an SSRI suddenly — it must be tapered gradually under provider guidance  
+B. Stop the medication immediately since you feel better  
+C. Continue at the same dose permanently with no follow-up needed  
+D. Switch to a benzodiazepine for long-term maintenance  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **"No — never stop an SSRI suddenly! It must be tapered slowly."**
 
@@ -648,8 +852,15 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ## Card 31 — Safety
 **Q: A patient on an SSRI is prescribed tramadol for pain after a procedure. What is the concern?**
 
+A. Increased risk of GI bleeding  
+B. Risk of hepatotoxicity  
+C. Risk of respiratory depression  
+D. Risk of serotonin syndrome  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Serotonin syndrome risk!**
 
@@ -670,10 +881,17 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ---
 
 ## Card 32 — Patient Teaching
-**Q: Name 5 foods a patient on an MAOI must avoid, and explain what happens if they eat them.**
+**Q: Which group of foods must a patient on an MAOI avoid?**
+
+A. Fresh grilled fish and steamed broccoli  
+B. Aged cheeses, cured meats, and red wine  
+C. White bread, plain pasta, and butter  
+D. Fresh fruit salad with apples and grapes  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Five high-tyramine foods to avoid:**
 
@@ -698,8 +916,15 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ## Card 33 — Safety
 **Q: How long must you wait between stopping an MAOI and starting an SSRI? Why?**
 
+A. 24 hours  
+B. 3 to 5 days  
+C. At least 2 weeks (14 days)  
+D. 6 months  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Wait at least 2 weeks (14 days).**
 
@@ -718,10 +943,17 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ---
 
 ## Card 34 — Application
-**Q: A patient on phenelzine (an MAOI) eats aged cheddar cheese at dinner. One hour later, they have a severe headache and their blood pressure is 210/120. What is happening and what do you do?**
+**Q: A patient on phenelzine (an MAOI) eats aged cheddar cheese and develops a severe headache with a blood pressure of 210/120. What is the priority nursing action?**
+
+A. Give the patient activated charcoal to absorb the tyramine  
+B. Administer epinephrine for suspected anaphylaxis  
+C. Administer a second dose of phenelzine to counteract the effect  
+D. Notify the provider STAT and prepare IV phentolamine to lower blood pressure  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Hypertensive crisis caused by tyramine!**
 
@@ -746,8 +978,15 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ## Card 35 — Hold Parameter
 **Q: You are about to give the morning lithium dose. The lab result shows a lithium level of 1.8 mEq/L. What do you do?**
 
+A. Hold the dose, notify the provider, and assess for toxicity signs  
+B. Give the dose with extra water to dilute it  
+C. Give the dose and recheck the level tomorrow morning  
+D. Give half the usual dose and recheck in 4 hours  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **HOLD the lithium! Do NOT give it.**
 
@@ -770,8 +1009,15 @@ Stopping suddenly can cause **discontinuation syndrome:**
 ## Card 36 — Lab
 **Q: A patient on lithium has been vomiting for 2 days. Why is this especially dangerous?**
 
+A. Vomiting prevents lithium absorption, so levels will be too low  
+B. Dehydration from vomiting causes lithium levels to rise, creating a toxicity cycle  
+C. Vomiting indicates the lithium dose is too low and needs increasing  
+D. Vomiting has no significant effect on lithium levels  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Because vomiting causes dehydration, and dehydration raises lithium levels → toxicity!**
 
@@ -797,10 +1043,17 @@ Here's the chain of events:
 ---
 
 ## Card 37 — Safety
-**Q: A patient on lithium asks, "Can I take ibuprofen for my knee pain?" What do you say?**
+**Q: A patient on lithium asks, "Can I take ibuprofen for my knee pain?" What is the correct response?**
+
+A. Ibuprofen is safe with lithium in low doses  
+B. Ibuprofen increases lithium excretion, making it less effective  
+C. NSAIDs reduce kidney clearance of lithium, increasing toxicity risk — use acetaminophen instead  
+D. Ibuprofen interacts with lithium to cause serotonin syndrome  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **"No — ibuprofen is not safe with lithium. Let's find you something else."**
 
@@ -827,8 +1080,15 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ## Card 38 — Application
 **Q: A patient on lithium has a sodium level of 128 mEq/L (normal: 135–145). What is the risk?**
 
+A. Low sodium causes lithium to be excreted faster, reducing effectiveness  
+B. Low sodium has no clinically significant effect on lithium levels  
+C. Low sodium causes lithium to bind to albumin, making it inactive  
+D. Low sodium causes the kidneys to reabsorb more lithium, increasing toxicity risk  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Low sodium increases the risk of lithium toxicity!**
 
@@ -851,10 +1111,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 39 — Patient Teaching
-**Q: What do you teach a patient about fluid and salt intake while taking lithium?**
+**Q: What is the most important dietary teaching for a patient taking lithium?**
+
+A. Keep fluid and sodium intake consistent every day  
+B. Follow a strict low-sodium diet to protect the kidneys  
+C. Drink at least 5 liters of water daily regardless of activity level  
+D. Eliminate all salt from the diet to prevent lithium-related edema  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **"Keep your fluids and salt steady every day. Don't make big changes without telling your doctor."**
 
@@ -878,10 +1145,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 40 — Safety
-**Q: A patient on haloperidol suddenly has their neck twisted to one side and they are in obvious distress. This is acute dystonia. What do you give?**
+**Q: A patient on haloperidol suddenly has their neck twisted to one side. What medication should the nurse give immediately?**
+
+A. Increase the haloperidol dose to stabilize dopamine levels  
+B. Diphenhydramine (Benadryl) or benztropine (Cogentin) IV/IM  
+C. Naloxone (Narcan) IV push  
+D. Diazepam (Valium) IV for muscle relaxation  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Give an anticholinergic medication RIGHT AWAY:**
 
@@ -905,10 +1179,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 41 — Compare
-**Q: What is the difference between EPS and tardive dyskinesia (TD)? Which one is reversible?**
+**Q: Which statement correctly describes tardive dyskinesia (TD) compared to other EPS?**
+
+A. Tardive dyskinesia appears within hours and is easily reversed with anticholinergics  
+B. Tardive dyskinesia is an early-onset reaction treated with diphenhydramine  
+C. Tardive dyskinesia develops after months to years and is often irreversible  
+D. Tardive dyskinesia only occurs with atypical antipsychotics  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 | Feature | EPS (early types) | Tardive Dyskinesia (TD) |
 |---|---|---|
@@ -928,10 +1209,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 42 — Application
-**Q: A patient on olanzapine (Zyprexa) has gained 20 pounds in 3 months. Their fasting glucose is 210 mg/dL. What is happening?**
+**Q: A patient on olanzapine (Zyprexa) has gained 20 pounds in 3 months with a fasting glucose of 210 mg/dL. What is the most likely cause?**
+
+A. Serotonin syndrome caused by olanzapine  
+B. Hypothyroidism induced by the medication  
+C. Cushing syndrome from elevated cortisol  
+D. Metabolic syndrome — a known side effect of atypical antipsychotics  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Metabolic syndrome — a well-known side effect of atypical antipsychotics.**
 
@@ -953,10 +1241,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 43 — Lab
-**Q: What labs do you monitor for a patient on an atypical antipsychotic? List at least 4.**
+**Q: Which lab is essential to monitor for a patient on an atypical antipsychotic?**
+
+A. Fasting blood glucose and lipid panel  
+B. Lithium blood level  
+C. Coagulation studies (PT/INR)  
+D. Serum iron and TIBC  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **At least these labs and assessments:**
 
@@ -980,10 +1275,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 44 — Compare
-**Q: Typical vs. atypical antipsychotics — which has more EPS? Which has more metabolic effects?**
+**Q: Which statement correctly compares typical and atypical antipsychotics?**
+
+A. Atypical antipsychotics cause more EPS; typical antipsychotics cause more metabolic effects  
+B. Typical antipsychotics cause more EPS; atypical antipsychotics cause more metabolic effects  
+C. Both types cause equally high EPS and metabolic risk  
+D. Atypical antipsychotics carry no risk of EPS at all  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 | Feature | Typical (1st generation) | Atypical (2nd generation) |
 |---|---|---|
@@ -1003,10 +1305,17 @@ Always tell the patient: **"Check with your provider before taking ANY new medic
 ---
 
 ## Card 45 — Patient Teaching
-**Q: A patient on risperidone (Risperdal) is a truck driver. What safety concern should you discuss?**
+**Q: A patient on risperidone (Risperdal) is a truck driver. What is the primary safety concern?**
+
+A. Increased risk of sunburn while driving long routes  
+B. Risk of sudden cardiac arrest while operating the vehicle  
+C. Sedation and impaired reaction time — do not drive until effects are known  
+D. Increased appetite causing distraction while driving  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **Sedation, drowsiness, and impaired reaction time!**
 
@@ -1029,10 +1338,17 @@ Risperidone and other antipsychotics can cause:
 ---
 
 ## Card 46 — Safety
-**Q: A patient is on both lorazepam (Ativan) and morphine. What is the biggest danger?**
+**Q: A patient is on both lorazepam (Ativan) and morphine. What is the biggest danger of this combination?**
+
+A. Serotonin syndrome  
+B. Hypertensive crisis  
+C. Seizures from drug interaction  
+D. Respiratory depression — both drugs depress the CNS  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **Respiratory depression — this combination can stop breathing!**
 
@@ -1054,10 +1370,17 @@ Risperidone and other antipsychotics can cause:
 ---
 
 ## Card 47 — Antidote
-**Q: What drug reverses benzodiazepines? What is the important warning about using it in patients with a seizure history?**
+**Q: What is the most important warning about using flumazenil (the benzodiazepine reversal agent)?**
+
+A. It can trigger seizures in patients dependent on benzodiazepines  
+B. It causes permanent liver damage  
+C. It raises blood pressure to dangerous levels  
+D. It causes irreversible memory loss  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 **Flumazenil (Romazicon)** is the reversal agent for benzodiazepines.
 
@@ -1078,10 +1401,17 @@ Risperidone and other antipsychotics can cause:
 ---
 
 ## Card 48 — Application
-**Q: An elderly patient on alprazolam (Xanax) falls and hits their head at night. What changes might help prevent this?**
+**Q: An elderly patient on alprazolam (Xanax) falls at night. What is the most appropriate nursing intervention?**
+
+A. Increase the alprazolam dose to ensure deeper sleep and fewer awakenings  
+B. Discuss tapering the benzodiazepine with the provider and implement fall precautions  
+C. Add a second sedative to help the patient sleep through the night  
+D. Switch to a longer-acting benzodiazepine at a higher dose  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Falls in elderly patients on benzodiazepines are a serious safety concern!**
 
@@ -1112,8 +1442,15 @@ Risperidone and other antipsychotics can cause:
 ## Card 49 — Patient Teaching
 **Q: What do you teach a patient about stopping a benzodiazepine after taking it for several months?**
 
+A. Stop the medication all at once to eliminate dependence quickly  
+B. Continue the same dose indefinitely to avoid any withdrawal  
+C. Taper the dose slowly over weeks to months under provider supervision  
+D. Switch immediately to a different benzodiazepine without tapering  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **"Never stop suddenly! Benzodiazepines must be tapered off slowly."**
 
@@ -1144,8 +1481,15 @@ Risperidone and other antipsychotics can cause:
 ## Card 50 — Hold Parameter
 **Q: A patient on lorazepam (Ativan) is very sedated, hard to wake up, and has a respiratory rate of 10. What do you do?**
 
+A. Give the next scheduled dose and continue routine monitoring  
+B. Administer naloxone (Narcan) to reverse the lorazepam  
+C. Let the patient sleep and reassess in the morning  
+D. Hold the dose, stimulate the patient, and notify the provider STAT  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: D**
 
 **This is oversedation — act immediately!**
 
@@ -1169,10 +1513,17 @@ Risperidone and other antipsychotics can cause:
 ---
 
 ## Card 51 — Compare
-**Q: Serotonin syndrome vs. Neuroleptic Malignant Syndrome (NMS) — quick comparison: cause, symptoms, treatment.**
+**Q: Which statement correctly distinguishes serotonin syndrome from NMS?**
+
+A. Serotonin syndrome has fast onset with clonus; NMS has slow onset with lead-pipe rigidity  
+B. NMS is caused by SSRIs; serotonin syndrome is caused by antipsychotics  
+C. Serotonin syndrome has slow onset; NMS has fast onset  
+D. Serotonin syndrome is treated with dantrolene; NMS is treated with cyproheptadine  
 
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: A**
 
 | Feature | Serotonin Syndrome | NMS |
 |---|---|---|
@@ -1196,8 +1547,15 @@ Risperidone and other antipsychotics can cause:
 ## Card 52 — Priority
 **Q: A patient takes lithium and furosemide (Lasix). They develop nausea, tremor, and confusion. What is the priority concern?**
 
+A. Furosemide toxicity unrelated to lithium  
+B. Lithium toxicity — furosemide causes sodium loss, leading to lithium reabsorption  
+C. Hypokalemia from the furosemide only  
+D. A normal expected response to the combination of medications  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: B**
 
 **Lithium toxicity! This is the priority concern.**
 
@@ -1224,8 +1582,15 @@ Risperidone and other antipsychotics can cause:
 ## Card 53 — Application
 **Q: A depressed patient is started on an SSRI and a benzodiazepine at the same time. Why would the provider prescribe both?**
 
+A. The benzodiazepine increases the absorption of the SSRI  
+B. Both medications must be taken together permanently  
+C. The benzodiazepine provides immediate relief while the SSRI takes 2 to 4 weeks to work  
+D. The SSRI prevents benzodiazepine dependence  
+
 <details>
 <summary>🔑 Answer</summary>
+
+**Correct answer: C**
 
 **The benzodiazepine is a "bridge" — it provides immediate relief while waiting for the SSRI to kick in.**
 

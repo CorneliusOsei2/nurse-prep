@@ -21,40 +21,40 @@
     </div>
   </header>
 
-  <!-- Topic Filter -->
-  <div class="cat-dropdown-wrap">
-    <button class="cat-dropdown-trigger" id="cat-trigger">
-      <span class="cat-dropdown-label" id="cat-label"><i class="ph-bold ph-squares-four"></i> All Topics</span>
-      <i class="ph-bold ph-caret-down cat-dropdown-caret"></i>
-    </button>
-    <div class="cat-dropdown-menu" id="cat-menu">
-      <label class="cat-dropdown-item">
-        <input type="checkbox" class="topic-check" value="" checked data-all="true">
-        <span>All Topics</span>
-      </label>
-      {% for topic in topics %}
-      <label class="cat-dropdown-item">
-        <input type="checkbox" class="topic-check" value="{{ topic.id }}">
-        <span>{{ topic.title }}</span>
-        <span class="cat-dropdown-count">{{ topic.card_count }}</span>
-      </label>
-      {% endfor %}
-      <div class="cat-dropdown-actions">
-        <button type="button" class="cat-dropdown-apply" id="apply-topics">Apply</button>
+  <!-- Filters -->
+  <div class="study-filters">
+    <div class="cat-dropdown-wrap">
+      <button class="cat-dropdown-trigger" id="cat-trigger">
+        <span class="cat-dropdown-label" id="cat-label"><i class="ph-bold ph-squares-four"></i> All Topics</span>
+        <i class="ph-bold ph-caret-down cat-dropdown-caret"></i>
+      </button>
+      <div class="cat-dropdown-menu" id="cat-menu">
+        <label class="cat-dropdown-item">
+          <input type="checkbox" class="topic-check" value="" checked data-all="true">
+          <span>All Topics</span>
+        </label>
+        {% for topic in topics %}
+        <label class="cat-dropdown-item">
+          <input type="checkbox" class="topic-check" value="{{ topic.id }}">
+          <span>{{ topic.title }}</span>
+          <span class="cat-dropdown-count">{{ topic.card_count }}</span>
+        </label>
+        {% endfor %}
+        <div class="cat-dropdown-actions">
+          <button type="button" class="cat-dropdown-apply" id="apply-topics">Apply</button>
+        </div>
       </div>
     </div>
-  </div>
 
-  <!-- Type Filter Pills -->
-  <div class="type-filter-pills">
-    <button class="type-pill active" data-type="" id="pill-all">All</button>
-    <button class="type-pill" data-type="concept" id="pill-concept">Concept</button>
-    <button class="type-pill" data-type="application" id="pill-application">Application</button>
-  </div>
-
-  <!-- Card Count -->
-  <div class="study-mode-bar">
-    <span class="card-count" id="card-count">0 cards</span>
+    <!-- Type Filter Pills -->
+    <div class="type-filter-row">
+      <div class="type-filter-pills">
+        <button class="type-pill active" data-type="" id="pill-all">All</button>
+        <button class="type-pill" data-type="concept" id="pill-concept">Concept</button>
+        <button class="type-pill" data-type="application" id="pill-application">Application</button>
+      </div>
+      <span class="card-count" id="card-count">0 cards</span>
+    </div>
   </div>
 
   <!-- Flashcard -->
